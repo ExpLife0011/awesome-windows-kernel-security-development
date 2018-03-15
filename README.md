@@ -1,11 +1,11 @@
 <h1 align="center">
-!(https://gitee.com/ExpLife/awesome-windows-kernel-security-development/blob/master/logo.svg)	
+![](https://lh3.googleusercontent.com/kEg5G6t62EBhwEUXVorzt-5tycanezH8_fA0UW4gmGGvhpbY-Zf6z64S6Y3y74fVp_PpwA=s121 "Awesome")	
 alt="Awesome">
 	<br>
 	<br>
 </h1>
 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+![Gitee license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 # `awesome-windows-kernel-security-development`
 
