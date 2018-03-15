@@ -1,5 +1,5 @@
 <h1 align="center">
-![输入图片说明](https://gitee.com/ExpLife/awesome-windows-kernel-security-development/blob/master/logo.svg# "在这里输入图片标题")	
+!(https://gitee.com/ExpLife/awesome-windows-kernel-security-development/blob/master/logo.svg)	
 alt="Awesome">
 	<br>
 	<br>
