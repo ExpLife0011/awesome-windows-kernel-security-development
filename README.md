@@ -1,9 +1,4 @@
-<h1 align="center">
-![](https://lh3.googleusercontent.com/kEg5G6t62EBhwEUXVorzt-5tycanezH8_fA0UW4gmGGvhpbY-Zf6z64S6Y3y74fVp_PpwA=s121 "Awesome")	
-alt="Awesome">
-	<br>
-	<br>
-</h1>
+![logo](https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2928049956,3976845960&fm=27&gp=0.jpg)
 
 ![Gitee license](https://img.shields.io/badge/license-MIT-blue.svg)
 
