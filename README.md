@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img width="400" src="https://cdn.rawgit.com/ExpLife/awesome-windows-kernel-security-development/master/logo.svg" alt="Awesome">
+	<img width="400" src="https://gitee.com/ExpLife/awesome-windows-kernel-security-development/blob/master/logo.svg" alt="Awesome">
 	<br>
 	<br>
 </h1>
