@@ -821,6 +821,7 @@
 
 ## blogs
 
+-  https://blog.can.ac
 -  https://b33t1e.github.io/2018/01/03/About-VMProtect/
 -  http://www.diting0x.com/
 -  http://lotabout.me/archives/ (write a c interpreter)
