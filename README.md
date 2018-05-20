@@ -874,7 +874,8 @@
 -  http://xuanwulab.github.io/cn/secnews/2018/02/08/index.html
 -  http://www.vxjump.net/
 -  https://www.pediy.com/
--  https://navisec.it/
+-  https://navisec.it/
+-  http://www.secbang.com/
 
 ## development documents
 
