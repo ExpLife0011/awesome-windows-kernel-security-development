@@ -763,6 +763,10 @@
 -  https://github.com/GiovanniDicanio/UnicodeConversionAtl
 -  https://github.com/GiovanniDicanio/StlVectorVsListPerformance
 
+## rpc
+
+-  https://github.com/muxq/hellorpc
+
 ## miscellaneous
 
 -  https://github.com/muxq/DPAPI
