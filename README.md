@@ -250,6 +250,7 @@
 
 ## rootkits
 
+-  https://github.com/Mattiwatti/PPLKiller
 -  https://github.com/bfosterjr/ci_mod
 -  https://github.com/HoShiMin/EnjoyTheRing0
 -  https://github.com/hfiref0x/ZeroAccess
