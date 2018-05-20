@@ -765,6 +765,7 @@
 
 ## miscellaneous
 
+-  https://github.com/muxq/DPAPI
 -  https://github.com/ExpLife/directntapi
 -  https://github.com/gaozan198912/myproject
 -  https://github.com/k0keoyo/ntoskrnl-symbol-pdb-and-undocument-structures
