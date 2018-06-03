@@ -156,6 +156,7 @@
 
 ## minifilter
 
+-  https://github.com/dubeyprateek/HideFiles
 -  https://github.com/aleksk/LazyCopy
 -  https://github.com/guidoreina/minivers
 -  https://github.com/idkwim/mfd
