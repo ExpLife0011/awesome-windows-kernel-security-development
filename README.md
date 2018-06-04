@@ -703,6 +703,7 @@
 
 ## awesome
 
+-  https://github.com/rmusser01/Infosec_Reference
 -  https://github.com/sam-b/windows_kernel_resources
 -  https://github.com/EbookFoundation/free-programming-books
 -  https://github.com/justjavac/free-programming-books-zh_CN
