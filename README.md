@@ -825,6 +825,7 @@
 
 ## slides
 
+-  https://rmusser.net/docs/
 -  https://keenlab.tencent.com/zh
 
 ## blogs
@@ -882,7 +883,7 @@
 ## development documents
 
 - http://devdocs.io/
--  https://zealdocs.org/
+- https://zealdocs.org/
 
 ## docker
 
