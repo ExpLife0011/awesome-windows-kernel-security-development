@@ -703,6 +703,7 @@
 
 ## awesome
 
+-  https://stackoverflow.com/questions/4946685/good-tutorial-for-windbg
 -  https://github.com/rmusser01/Infosec_Reference
 -  https://github.com/sam-b/windows_kernel_resources
 -  https://github.com/EbookFoundation/free-programming-books
