@@ -156,6 +156,11 @@
 
 ## minifilter
 
+-  https://github.com/ETEFS/ETEFS_Mini
+-  https://github.com/gfleury/ProtegeDados_ProjetoFinal
+-  https://github.com/denisvieriu/Portable-Executable-Minifilter-Driver
+-  https://github.com/surajfale/passthrough-minifilter-driver
+-  https://github.com/louk78/Virgo
 -  https://github.com/tandasat/Scavenger
 -  https://github.com/dubeyprateek/HideFiles
 -  https://github.com/aleksk/LazyCopy
