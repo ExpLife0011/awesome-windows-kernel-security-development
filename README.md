@@ -339,6 +339,7 @@
 
 ## malware analysis
 
+-  https://github.com/ctxis/capemon
 -  https://github.com/kevthehermit/RATDecoders
 -  https://github.com/marcusbotacin/Malware.Variants
 -  https://github.com/marcusbotacin/Hardware-Assisted-AV
