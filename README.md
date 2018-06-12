@@ -257,6 +257,7 @@
 
 ## rootkits
 
+-  https://github.com/Sqdwr/DeleteFileByCreateIrp
 -  https://github.com/Mattiwatti/PPLKiller
 -  https://github.com/bfosterjr/ci_mod
 -  https://github.com/HoShiMin/EnjoyTheRing0
