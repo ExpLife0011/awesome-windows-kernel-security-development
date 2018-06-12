@@ -699,6 +699,10 @@
 -  https://github.com/killbug2004/HttpsProxy
 -  https://github.com/erickutcher/httpproxy
 
+## sock proxy
+
+-  https://github.com/liulilittle/PaperAirplane
+
 ## mitm
 
 -  https://github.com/liuyufei/SSLKiller
