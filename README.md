@@ -261,6 +261,7 @@
 
 ## rootkits
 
+-  https://github.com/huoji120/AV-Killer
 -  https://github.com/Sqdwr/DeleteFile
 -  https://github.com/Sqdwr/DeleteFileByCreateIrp
 -  https://github.com/Mattiwatti/PPLKiller
