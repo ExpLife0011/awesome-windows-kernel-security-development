@@ -24,12 +24,14 @@
 
 ## dkom
 
+-  https://github.com/Sqdwr/HideDriver
 -  https://github.com/nbqofficial/HideDriver
 -  https://github.com/landhb/HideProcess
 -  https://github.com/tfairane/DKOM
 
 ## ssdt hook
 
+-  https://github.com/Sqdwr/64-bits-inserthook
 -  https://github.com/int0/ProcessIsolator
 -  https://github.com/mrexodia/TitanHide (x64dbg Plugin)-(DragonQuestHero Suggest)
 -  https://github.com/papadp/shd
@@ -148,6 +150,7 @@
 
 ## callback
 
+-  https://github.com/Sqdwr/RemoveCallBacks
 -  https://github.com/JKornev/hidden
 -  https://github.com/binbibi/CallbackEx
 -  https://github.com/swwwolf/cbtest
@@ -257,6 +260,7 @@
 
 ## rootkits
 
+-  https://github.com/Sqdwr/DeleteFile
 -  https://github.com/Sqdwr/DeleteFileByCreateIrp
 -  https://github.com/Mattiwatti/PPLKiller
 -  https://github.com/bfosterjr/ci_mod
@@ -515,6 +519,7 @@
 
 ## vt
 
+-  https://github.com/Sqdwr/Multi_CPU_VtBase
 -  https://github.com/marche147/IoctlMon
 -  https://github.com/ionescu007/SimpleVisor
 -  https://github.com/zer0mem/MiniHyperVisorProject
