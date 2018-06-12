@@ -24,6 +24,7 @@
 
 ## dkom
 
+-  https://github.com/ZhuHuiBeiShaDiao/NewHideDriverEx
 -  https://github.com/Sqdwr/HideDriver
 -  https://github.com/nbqofficial/HideDriver
 -  https://github.com/landhb/HideProcess
