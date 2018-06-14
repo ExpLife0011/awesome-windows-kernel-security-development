@@ -63,6 +63,7 @@
 
 ## inject technique
 
+-  https://github.com/can1357/ThePerfectInjector
 -  https://github.com/VideoCardGuy/X64Injector
 -  https://github.com/papadp/reflective-injection-detection (InjectFromMemory)
 -  https://github.com/psmitty7373/eif (InjectFromMemory)
