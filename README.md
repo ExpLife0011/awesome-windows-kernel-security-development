@@ -424,6 +424,9 @@
 
 ## windows kernel exploits
 
+-  https://github.com/can1357/physical_mem_controller
+-  https://github.com/can1357/safe_capcom
+-  https://github.com/can1357/CVE-2018-8897
 -  https://github.com/JeremyFetiveau/Exploits
 -  https://github.com/hfiref0x/Stryker
 -  https://github.com/swwwolf/obderef
