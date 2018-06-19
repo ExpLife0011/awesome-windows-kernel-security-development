@@ -656,6 +656,8 @@
 
 ## ida script & plugin
 
+-  https://github.com/zyantific/IDASkins
+-  https://github.com/eugeii/ida-consonance
 -  https://github.com/mwrlabs/win_driver_plugin
 -  https://github.com/igogo-x86/HexRaysPyTools
 -  https://github.com/techbliss/Python_editor
