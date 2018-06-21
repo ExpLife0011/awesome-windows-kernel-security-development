@@ -643,6 +643,7 @@
 
 ## x64dbg plugin
 
+-  https://github.com/ThunderCls/xAnalyzer
 -  https://github.com/mrexodia/TitanHide
 -  https://github.com/x64dbg/InterObfu
 -  https://github.com/x64dbg/ScyllaHide
