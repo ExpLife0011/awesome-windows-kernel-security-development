@@ -758,6 +758,10 @@
 
 - http://www.softpedia.com/get/Programming/Debuggers-Decompilers-Dissasemblers/
 
+## post-exploitation
+
+- https://github.com/francisck/DanderSpritz_docs
+
 ## nsa security tools
 
 -  https://github.com/exploitx3/FUZZBUNCH
