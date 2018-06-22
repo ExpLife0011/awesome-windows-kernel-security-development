@@ -760,6 +760,7 @@
 
 ## post-exploitation
 
+- https://github.com/francisck/DanderSpritz_lab 
 - https://github.com/francisck/DanderSpritz_docs
 
 ## nsa security tools
