@@ -101,12 +101,18 @@
 -  https://github.com/stormshield/Beholder-Win32
 -  https://github.com/yifiHeaven/MagicWall
 
+## anti autorun
+
+-  https://github.com/analyst004/autorun
+
 ## anti dll inject
 
+-  https://github.com/analyst004/antinject
 -  https://github.com/ExpLife/BotKiller
 
 ## load Dll from memory
 
+-  https://github.com/jnastarot/native_peloader
 -  https://github.com/fancycode/MemoryModule
 -  https://github.com/strivexjun/MemoryModulePP
 
@@ -613,10 +619,20 @@
 -  https://github.com/F7eak/Xenon
 -  https://github.com/syj2010syj/All-Star-Battle-2
 
+## anti cheat
+
+-  https://github.com/chinatiny/GameAntiCheat
+-  https://github.com/jnastarot/anti-cheat
+-  https://github.com/jnastarot/ice9
+
 ## software reverse
 
 -  https://github.com/stonedreamforest/re_avkmgr 
 -  https://github.com/stonedreamforest/re_sysdiag
+
+## pe protector
+
+-  https://github.com/jnastarot/furikuri
 
 ## symbolic execution
 
