@@ -74,6 +74,7 @@
 -  https://github.com/CylanceVulnResearch/ReflectiveDLLRefresher (InjectFromMemory)
 -  https://github.com/amishsecurity/paythepony (InjectFromMemory)
 -  https://github.com/deroko/activationcontexthook
+-  https://github.com/ez8-co/yapi
 -  https://github.com/georgenicolaou/HeavenInjector
 -  https://github.com/tinysec/runwithdll
 -  https://github.com/NtOpcode/NT-APC-Injector
