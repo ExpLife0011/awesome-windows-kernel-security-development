@@ -149,6 +149,7 @@
 
 ## hook engine
 
+-  https://github.com/Synestraa/ArchUltimate.HookLib
 -  https://github.com/DominicTobias/detourxs
 -  https://github.com/Ilyatk/HookEngine
 -  https://github.com/zyantific/zyan-hook-engine
@@ -430,6 +431,7 @@
 
 ## windows kernel exploits
 
+-  https://github.com/MarkHC/HandleMaster
 -  https://github.com/can1357/physical_mem_controller
 -  https://github.com/can1357/safe_capcom
 -  https://github.com/can1357/CVE-2018-8897
@@ -585,6 +587,7 @@
 
 ## game hack
 
+-  https://github.com/Synestraa/Highcall-Library
 -  https://github.com/cheat-engine/cheat-engine
 -  https://github.com/DreamHacks/dreamdota
 -  https://github.com/yoie/NGPlug-in
