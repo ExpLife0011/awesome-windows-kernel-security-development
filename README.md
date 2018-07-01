@@ -626,6 +626,16 @@
 
 ## anti cheat
 
+-  https://github.com/SagaanTheEpic/SAC-Sagaan-AntiCheat-Module-
+-  https://github.com/SagaanTheEpic/SAC-Anti-Debug
+-  https://github.com/SagaanTheEpic/SAC-Sagaan-AntiCheat-ModuleThread
+-  https://github.com/SagaanTheEpic/SAC-Sagaan-AntiCheat-OverlayDetector-
+-  https://github.com/SagaanTheEpic/Mega-Bypasss
+-  https://github.com/SagaanTheEpic/SAC-Sagaan-AntiCheat-UserMode-
+-  https://github.com/SagaanTheEpic/SAC-Sagaan-AntiCheat-Driver-
+-  https://github.com/SagaanTheEpic/SagaanTheEpic-Millin-Hack-SMH-Kernel
+-  https://github.com/SagaanTheEpic/LSASS-Usermode-Bypass
+-  https://github.com/SagaanTheEpic/KernelMode-Bypass
 -  https://github.com/chinatiny/GameAntiCheat
 -  https://github.com/jnastarot/anti-cheat
 -  https://github.com/jnastarot/ice9
