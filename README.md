@@ -970,6 +970,11 @@
 -  https://github.com/pustladi/MS-DOS-v.1.1
 -  https://github.com/pustladi/MS-DOS-v.2.0
 
+## openssl
+
+-  https://blog.csdn.net/dotalee/article/details/78041691
+-  https://www.cnblogs.com/kennyhr/p/3746048.html
+
 ## crypto api
 
 -  https://github.com/maldevel/AES256
