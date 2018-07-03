@@ -649,6 +649,10 @@
 
 -  https://github.com/jnastarot/furikuri
 
+## unpacker
+
+-  http://n10info.blogspot.com/2018/03/xvolkolak-010.html
+
 ## symbolic execution
 
 -  https://github.com/illera88/Ponce
