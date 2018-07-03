@@ -146,6 +146,7 @@
 
 ## load driver from memory
 
+-  https://github.com/not-wlan/driver-hijack
 -  https://github.com/Professor-plum/Reflective-Driver-Loader
 
 ## hook engine
