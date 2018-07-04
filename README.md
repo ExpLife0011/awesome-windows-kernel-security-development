@@ -757,6 +757,8 @@
 
 ## mitm
 
+-  https://github.com/astibal/smithproxy
+-  https://github.com/TechnikEmpire/CitadelCore
 -  https://github.com/TechnikEmpire/HttpFilteringEngine
 -  https://blog.csdn.net/kunyus/article/details/78679717
 -  https://github.com/liuyufei/SSLKiller
