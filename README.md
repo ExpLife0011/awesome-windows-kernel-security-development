@@ -757,6 +757,7 @@
 
 ## mitm
 
+-  https://github.com/xxxxnnxxxx/HttpProxy
 -  https://github.com/astibal/smithproxy
 -  https://github.com/TechnikEmpire/CitadelCore
 -  https://github.com/TechnikEmpire/HttpFilteringEngine
