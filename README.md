@@ -991,6 +991,10 @@
 -  https://github.com/maldevel/SHA256
 -  https://github.com/13g10n/crypto
 
+## iot sec
+
+-  https://iot.sec-wiki.com/
+
 ## ascii banner
 
 - http://www.network-science.de/ascii/
