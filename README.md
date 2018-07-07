@@ -1008,3 +1008,7 @@
 -  https://github.com/yifengyou/Code-virtualization-and-automation-analysis
 -  https://github.com/yifengyou/Software-protection-and-analysis-techniques---principles-and-practices
 -  https://github.com/yifengyou/X86-assembly-language-from-real-mode-to-protection-mode
+
+## library
+
+-  https://www.ctolib.com/
