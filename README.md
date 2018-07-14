@@ -595,6 +595,10 @@
 
 -  https://github.com/codingtest/windows_hotpatch
 
+## memory hack
+
+-  https://github.com/Empier/MemoryEditor
+
 ## game hack
 
 -  https://github.com/Synestraa/Highcall-Library
