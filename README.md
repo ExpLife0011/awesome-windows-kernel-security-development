@@ -525,6 +525,10 @@
 -  https://github.com/shakenetwork/vmware_escape
 -  https://github.com/Cr4sh/prl_guest_to_host
 
+## anti exploit
+
+-  https://github.com/killvxk/Anti-Exploit
+
 ## cve
 
 -  https://github.com/LiuCan01/cve-list-pro
