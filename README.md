@@ -349,6 +349,7 @@
 
 ## malware
 
+-  https://github.com/RafaelGSS/HyzMall
 -  https://github.com/DeadNumbers/Pegasus
 -  https://github.com/mdsecactivebreach/SharpShooter
 -  https://github.com/mwsrc/XtremeRAT
@@ -435,6 +436,7 @@
 
 ## windows kernel exploits
 
+-  https://github.com/paranoidninja/Pandoras-Box
 -  https://github.com/MarkHC/HandleMaster
 -  https://github.com/can1357/physical_mem_controller
 -  https://github.com/can1357/safe_capcom
