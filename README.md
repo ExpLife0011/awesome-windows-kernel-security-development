@@ -349,6 +349,7 @@
 
 ## malware
 
+-  https://github.com/DeadNumbers/Pegasus
 -  https://github.com/mdsecactivebreach/SharpShooter
 -  https://github.com/mwsrc/XtremeRAT
 -  https://github.com/mwsrc/Schwarze-Sonne-RAT (delphi)
