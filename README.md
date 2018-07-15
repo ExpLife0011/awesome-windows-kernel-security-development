@@ -768,6 +768,7 @@
 
 ## mitm
 
+-  https://github.com/empijei/wapty
 -  https://github.com/xxxxnnxxxx/HttpProxy
 -  https://github.com/astibal/smithproxy
 -  https://github.com/TechnikEmpire/CitadelCore
