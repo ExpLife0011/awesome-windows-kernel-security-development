@@ -24,6 +24,7 @@
 
 ## dkom
 
+-  https://github.com/ZhuHuiBeiShaDiao/PathModification
 -  https://github.com/ZhuHuiBeiShaDiao/NewHideDriverEx
 -  https://github.com/Sqdwr/HideDriver
 -  https://github.com/nbqofficial/HideDriver
