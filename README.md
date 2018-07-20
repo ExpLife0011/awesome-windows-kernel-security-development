@@ -990,6 +990,16 @@
 -  https://github.com/pustladi/MS-DOS-v.1.1
 -  https://github.com/pustladi/MS-DOS-v.2.0
 
+## sspi
+
+- https://github.com/deemru/msspi
+- https://github.com/vletoux/DetectPasswordViaNTLMInFlow
+- https://github.com/judek/sspiauthenticate
+- https://github.com/BobCatC/xSspi
+- https://github.com/sishtiaq/SampleSSPICode
+- https://github.com/liamkirton/sslpyfilter
+- https://github.com/bschlenk/gsspp
+
 ## openssl
 
 -  https://blog.csdn.net/dotalee/article/details/78041691
