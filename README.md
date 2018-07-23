@@ -771,6 +771,7 @@
 
 ## mitm
 
+-  https://github.com/wuchangming/node-mitmproxy
 -  https://github.com/hostilefork/flatworm
 -  https://github.com/progtramder/webproxy
 -  https://github.com/empijei/wapty
