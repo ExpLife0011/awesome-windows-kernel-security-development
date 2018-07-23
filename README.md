@@ -771,6 +771,7 @@
 
 ## mitm
 
+-  https://github.com/conorpp/MiTM-HTTP-Proxy
 -  https://github.com/moxie0/sslsniff
 -  https://github.com/wuchangming/node-mitmproxy
 -  https://github.com/hostilefork/flatworm
