@@ -351,6 +351,7 @@
 
 ## malware
 
+-  https://github.com/malwares/Botnet
 -  https://github.com/RafaelGSS/HyzMall
 -  https://github.com/DeadNumbers/Pegasus
 -  https://github.com/mdsecactivebreach/SharpShooter
