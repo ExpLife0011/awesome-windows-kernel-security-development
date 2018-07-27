@@ -64,6 +64,7 @@
 
 ## inject technique
 
+-  https://github.com/apriorit/SvcHostDemo
 -  https://github.com/can1357/ThePerfectInjector
 -  https://github.com/VideoCardGuy/X64Injector
 -  https://github.com/papadp/reflective-injection-detection (InjectFromMemory)
