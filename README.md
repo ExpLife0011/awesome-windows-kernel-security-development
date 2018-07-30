@@ -544,6 +544,8 @@
 -  https://github.com/CVEProject/cvelist
 
 ## hips
+
+-  https://github.com/zareprj/JAV-AV-Engine
 -  https://github.com/0xdabbad00/OpenHIPS
 -  https://github.com/ExpLife/Norton_AntiVirus_SourceCode
 -  https://github.com/majian55555/MJAntiVirusEngine
