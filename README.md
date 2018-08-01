@@ -446,6 +446,7 @@
 
 ## windows kernel exploits
 
+-  https://github.com/HarsaroopDhillon/AHNLab-0day(LPE)
 -  https://github.com/paranoidninja/Pandoras-Box
 -  https://github.com/MarkHC/HandleMaster
 -  https://github.com/can1357/physical_mem_controller
