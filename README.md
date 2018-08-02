@@ -690,6 +690,13 @@
 
 ## taint analyse
 
+-  https://bbs.pediy.com/thread-230299.htm 
+-  https://bbs.pediy.com/thread-230105.htm
+-  https://bbs.pediy.com/thread-226603.htm
+-  https://bbs.pediy.com/thread-224353.htm
+-  https://bbs.pediy.com/thread-223849.htm
+-  https://github.com/airbus-seclab/bincat
+-  https://github.com/SCUBSRGroup/Taint-Analyse
 -  https://github.com/airbus-seclab/bincat
 -  https://github.com/SCUBSRGroup/Taint-Analyse
 
