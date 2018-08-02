@@ -699,6 +699,7 @@
 -  https://github.com/SCUBSRGroup/Taint-Analyse
 -  https://github.com/airbus-seclab/bincat
 -  https://github.com/SCUBSRGroup/Taint-Analyse
+-  https://github.com/piscou/FuzzWin
 
 ## bin diff
 
