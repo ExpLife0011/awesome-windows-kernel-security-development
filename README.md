@@ -125,6 +125,7 @@
 
 ## process hollowing
 
+-  https://github.com/xfgryujk/InjectExe
 -  https://github.com/m0n0ph1/Basic-File-Crypter
 -  https://github.com/Spajed/processrefund
 -  https://github.com/KernelMode/Process_Doppelganging
