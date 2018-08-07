@@ -278,6 +278,7 @@
 
 ## rootkits
 
+-  https://github.com/ionescu007/r0ak (RWE)
 -  https://github.com/cyberweapons/cyberweapons
 -  https://github.com/huoji120/AV-Killer
 -  https://github.com/Sqdwr/DeleteFile
