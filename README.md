@@ -64,6 +64,7 @@
 
 ## inject technique
 
+-  https://github.com/sud0loo/ProcessInjection
 -  https://github.com/apriorit/SvcHostDemo
 -  https://github.com/can1357/ThePerfectInjector
 -  https://github.com/VideoCardGuy/X64Injector
