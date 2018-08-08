@@ -360,6 +360,7 @@
 
 ## malware
 
+-  https://github.com/Souhardya/UBoat (HTTP)
 -  https://github.com/malwares/Botnet
 -  https://github.com/RafaelGSS/HyzMall
 -  https://github.com/DeadNumbers/Pegasus
