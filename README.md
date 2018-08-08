@@ -519,6 +519,10 @@
 
 -  https://github.com/brianwrf/CVE-2017-4878-Samples
 
+## sandbox
+
+-  https://github.com/taiFansou/Proteibox
+
 ## sandbox escape
 
 -  https://github.com/SilverMoonSecurity/SandboxEvasion
