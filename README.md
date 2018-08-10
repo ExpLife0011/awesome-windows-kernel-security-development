@@ -1082,6 +1082,10 @@
 -  https://github.com/yifengyou/Software-protection-and-analysis-techniques---principles-and-practices
 -  https://github.com/yifengyou/X86-assembly-language-from-real-mode-to-protection-mode
 
+## regex
+
+- https://github.com/zeeshanu/learn-regex
+
 ## library
 
 -  https://www.ctolib.com/
