@@ -903,6 +903,7 @@
 
 ## miscellaneous
 
+-  https://github.com/tyranid/windows-attacksurface-workshop/ (2018)
 -  https://github.com/CherryPill/system_info
 -  https://github.com/muxq/DPAPI
 -  https://github.com/ExpLife/directntapi
