@@ -852,6 +852,7 @@
 
 ## tools
 
+- https://github.com/endgameinc/xori (Dissasemblers blackhat 2018)
 - http://www.softpedia.com/get/Programming/Debuggers-Decompilers-Dissasemblers/
 
 ## post-exploitation
