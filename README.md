@@ -700,6 +700,7 @@
 
 ## taint analyse
 
+-  https://github.com/cea-sec/miasm (blackhat 2018)
 -  https://bbs.pediy.com/thread-230299.htm 
 -  https://bbs.pediy.com/thread-230105.htm
 -  https://bbs.pediy.com/thread-226603.htm
