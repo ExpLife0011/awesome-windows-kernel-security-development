@@ -55,6 +55,7 @@
 
 ## inline hook
 
+-  https://github.com/chinatiny/InlineHookLib (R3 & R0)
 -  https://github.com/tongzeyu/HookSysenter
 -  https://github.com/VideoCardGuy/HideProcessInTaskmgr
 -  https://github.com/MalwareTech/FstHook
