@@ -514,6 +514,7 @@
 
 ## LPE
 
+-  https://github.com/codewhitesec/UnmarshalPwn
 -  https://ohpe.github.io/juicy-potato/
 
 ## office exploit
