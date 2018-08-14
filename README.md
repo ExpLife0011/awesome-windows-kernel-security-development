@@ -512,6 +512,10 @@
 -  https://github.com/weizn11/MS17010_AllInOne
 -  https://github.com/TeskeVirtualSystem/MS17010Test
 
+## LPE
+
+-  https://ohpe.github.io/juicy-potato/
+
 ## office exploit
 
 -  https://github.com/rxwx/CVE-2017-8570
@@ -737,6 +741,7 @@
 
 ## ida script & plugin
 
+-  https://zznop.github.io/bnida/
 -  https://github.com/zyantific/IDASkins
 -  https://github.com/eugeii/ida-consonance
 -  https://github.com/mwrlabs/win_driver_plugin
