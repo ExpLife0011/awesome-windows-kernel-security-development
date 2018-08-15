@@ -121,6 +121,10 @@
 -  https://github.com/fancycode/MemoryModule
 -  https://github.com/strivexjun/MemoryModulePP
 
+## Unpack dll load in runtime
+
+-  https://github.com/1ce0ear/DllLoaderUnpacker
+
 ## anti dll hijack
 
 -  https://github.com/fortiguard-lion/anti-dll-hijacking
