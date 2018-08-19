@@ -1021,6 +1021,7 @@
 
 ## web security research site
 
+-  https://malwaretips.com/
 -  https://www.sec-wiki.com
 -  https://www.anquanke.com/
 -  http://xuanwulab.github.io/cn/secnews/2018/02/08/index.html
