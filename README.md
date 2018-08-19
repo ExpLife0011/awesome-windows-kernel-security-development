@@ -977,6 +977,7 @@
 
 ## blogs
 
+-  https://leguanyuan.blogspot.com
 -  http://www.geoffchappell.com/studies/windows/km/ntoskrnl/api/ex/profile/bugdemo.htm
 -  https://blog.can.ac
 -  https://b33t1e.github.io/2018/01/03/About-VMProtect/
