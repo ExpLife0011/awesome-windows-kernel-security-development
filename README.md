@@ -283,6 +283,7 @@
 
 ## rootkits
 
+-  https://github.com/Psychotropos/xhunter1_privesc (XIGNCODE3)
 -  https://github.com/ionescu007/r0ak (RWE)
 -  https://github.com/cyberweapons/cyberweapons
 -  https://github.com/huoji120/AV-Killer
