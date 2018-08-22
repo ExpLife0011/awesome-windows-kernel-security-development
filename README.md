@@ -635,6 +635,7 @@
 
 ## game hack
 
+-  https://github.com/daswareinfach/Battleye-VAC-EAC-Kernel-Bypass (BattlEye)
 -  https://blog.his.cat/a/fuck_battleye.cat (BattlEye)
 -  https://github.com/Tai7sy/BE_Fuck (Battleye)
 -  https://github.com/Synestraa/Highcall-Library
