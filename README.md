@@ -65,6 +65,7 @@
 
 ## inject technique
 
+-  https://github.com/wbenny/keinject (ApcInjectFromKernel)
 -  https://github.com/sud0loo/ProcessInjection
 -  https://github.com/apriorit/SvcHostDemo
 -  https://github.com/can1357/ThePerfectInjector
