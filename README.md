@@ -981,6 +981,7 @@
 
 ## blogs
 
+-  https://dedbg.com/
 -  https://leguanyuan.blogspot.com
 -  http://www.geoffchappell.com/studies/windows/km/ntoskrnl/api/ex/profile/bugdemo.htm
 -  https://blog.can.ac
