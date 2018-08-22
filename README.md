@@ -635,6 +635,7 @@
 
 ## game hack
 
+-  https://github.com/Tai7sy/BE_Fuck (BE)
 -  https://github.com/Synestraa/Highcall-Library
 -  https://github.com/cheat-engine/cheat-engine
 -  https://github.com/DreamHacks/dreamdota
