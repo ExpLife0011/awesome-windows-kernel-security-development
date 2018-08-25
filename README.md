@@ -399,6 +399,7 @@
 
 ## arktools
 
+-  https://github.com/marcosd4h/memhunter
 -  https://github.com/gleeda/memtriage
 -  https://github.com/KernelMode/Process_Dop
 -  https://github.com/hm200958/kmdf--analyse
