@@ -926,6 +926,8 @@
 
 ## miscellaneous
 
+-  https://github.com/nshalabi/SysmonTools
+-  https://github.com/nshalabi/ATTACK-Tools
 -  https://github.com/ExpLife0011/hf-2012
 -  https://github.com/tyranid/windows-attacksurface-workshop/ (2018)
 -  https://github.com/CherryPill/system_info
