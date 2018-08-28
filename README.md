@@ -8,6 +8,7 @@
 
 ## windows kernel driver with c++ runtime
 
+-  https://github.com/HoShiMin/Kernel-Bridge
 -  https://github.com/wjcsharp/Common
 -  https://github.com/ExpLife/DriverSTL
 -  https://github.com/sysprogs/BazisLib
