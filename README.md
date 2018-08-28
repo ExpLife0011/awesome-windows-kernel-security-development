@@ -997,6 +997,7 @@
 
 ## blogs
 
+-  https://www.fwhibbit.es/sysmon-the-big-brother-of-windows-and-the-super-sysmonview
 -  https://dedbg.com/
 -  https://leguanyuan.blogspot.com
 -  http://www.geoffchappell.com/studies/windows/km/ntoskrnl/api/ex/profile/bugdemo.htm
