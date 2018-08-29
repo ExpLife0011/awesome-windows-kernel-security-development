@@ -1182,6 +1182,10 @@
 
 - https://github.com/zeeshanu/learn-regex
 
+## ebook
+
+- http://www.foxebook.net/
+
 ## library
 
 -  https://www.ctolib.com/
