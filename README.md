@@ -470,6 +470,8 @@
 
 ## windows kernel exploits
 
+-  https://github.com/SandboxEscaper/randomrepo (win10 LPE)
+-  https://github.com/jackson5-sec/TaskSchedLPE (LPE)
 -  https://github.com/HarsaroopDhillon/AHNLab-0day(LPE)
 -  https://github.com/paranoidninja/Pandoras-Box
 -  https://github.com/MarkHC/HandleMaster
