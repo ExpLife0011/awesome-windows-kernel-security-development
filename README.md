@@ -823,7 +823,6 @@
 -  http://standa-note.blogspot.com/2015/01/arm-exception-handling-and-idapython.html
 -  http://codegist.net/code/idapython-script/
 -  https://reverseengineering.stackexchange.com/questions/16055/idapython-get-xrefs-to-a-stack-variable
--  https://www.jianshu.com/p/15be72d919ff
 
 ## rpc
 
@@ -985,6 +984,7 @@
 
 ## miscellaneous
 
+-  https://www.jianshu.com/p/15be72d919ff (traversing the icon on the desktop)
 -  https://github.com/nshalabi/SysmonTools
 -  https://github.com/nshalabi/ATTACK-Tools
 -  https://github.com/ExpLife0011/hf-2012
