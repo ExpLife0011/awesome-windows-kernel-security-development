@@ -759,6 +759,11 @@
 -  https://github.com/Nukem9/SwissArmyKnife
 -  https://github.com/x64dbg/x64dbg/wiki/Plugins
 
+## live kernel debug
+
+- https://samsclass.info/126/proj/p12-kernel-debug-win10.htm?tdsourcetag=s_pctim_aiomsg
+- https://gds89.wordpress.com/2010/05/19/windows-7-x64-local-and-live-kernel-debugging/
+
 ## windbg plugin
 
 - http://virtualkd.sysprogs.org/
