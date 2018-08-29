@@ -774,6 +774,55 @@
 -  http://sark.readthedocs.io/en/latest/debugging.html
 -  https://bbs.pediy.com/thread-224627.htm (wing debugging idapython script)
 
+## idapython
+
+-  https://wizardforcel.gitbooks.io/grey-hat-python/
+-  http://spd.dropsec.xyz/2016/10/05/IDAPython%E5%AE%89%E8%A3%85/
+-  http://spd.dropsec.xyz/2017/04/09/%E7%AC%A6%E5%8F%B7%E6%89%A7%E8%A1%8C-%E5%9F%BA%E4%BA%8Epython%E7%9A%84%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%88%86%E6%9E%90%E6%A1%86%E6%9E%B6angr/
+-  http://spd.dropsec.xyz/2016/10/16/IDAPython%E8%84%9A%E6%9C%AC%E4%B9%8B%E6%94%B6%E9%9B%86%E5%87%BD%E6%95%B0%E7%9A%84%E8%B0%83%E7%94%A8%E4%BF%A1%E6%81%AF/
+-  http://www.freebuf.com/sectool/92107.html
+-  http://www.freebuf.com/sectool/92168.html
+-  http://www.freebuf.com/articles/system/92488.html
+-  http://www.freebuf.com/articles/system/92505.html
+-  http://www.freebuf.com/articles/system/93440.html
+-  https://www.fortinet.com/blog/threat-research/rewriting-idapython-script-objc2-xrefs-helper-py-for-hopper.html
+-  https://sark.readthedocs.io/en/latest/debugging.html
+-  https://cartermgj.github.io/2017/10/10/ida-python/
+-  https://security.tencent.com/index.php/blog/msg/4
+-  https://wingware.com/doc/howtos/idapython
+-  http://www.somersetrecon.com/blog/2018/7/6/introduction-to-idapython-for-vulnerability-hunting
+-  http://0xeb.net/2018/02/writing-a-simple-x86-emulator-with-idapython/
+-  http://0xeb.net/2018/02/writing-a-simple-x86-emulator-with-idapython/
+-  https://resources.infosecinstitute.com/saving-time-effort-idapython/#gref
+-  https://www.thezdi.com/blog/2018/5/21/mindshare-walking-the-windows-kernel-with-ida-python
+-  https://www.thezdi.com/blog/2018/7/19/mindshare-an-introduction-to-pykd
+-  https://www.thezdi.com/blog/2018/6/26/mindshare-variant-hunting-with-ida-python
+-  http://www.mopsled.com/2016/add-shortcut-for-idapython-script-ida-pro/
+-  http://blog.sina.com.cn/s/blog_9f5e368a0102wnmm.html
+-  https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2017/october/python-class-informer-an-idapython-plugin-for-viewing-run-time-type-information-rtti/
+-  https://www.pydoc.io/pypi/python-idb-0.4.0/autoapi/analysis/index.html
+-  https://securityxploded.com/api-call-tracing-with-pefile-pydbg-and-idapython.php
+-  https://www.cnblogs.com/0xJDchen/p/7527236.html
+-  http://www.williballenthin.com/blog/2015/09/04/idapython-synchronization-decorator/
+-  https://www.fireeye.com/blog/threat-research/2015/01/flare_ida_pro_script.html
+-  https://bbs.pediy.com/thread-226983.htm
+-  https://www.trustwave.com/Resources/SpiderLabs-Blog/Defeating-Flame-String-Obfuscation-with-IDAPython/
+-  https://www.anquanke.com/post/id/151898
+-  https://edoc.site/idapython-bookpdf-pdf-free.html
+-  https://serializethoughts.com/tag/idapython/
+-  https://exploiting.wordpress.com/2011/12/06/quickpost-idapython-script-to-identify-unrecognized-functions/
+-  http://barbie.uta.edu/~xlren/Diaphora/diaphora_help.pdf
+-  https://www.jianshu.com/p/ee789e8acb03
+-  http://blog.51cto.com/watertoeast/2084700
+-  http://blog.51cto.com/watertoeast/1352787
+-  https://blog.clamav.net/2014/02/generating-clamav-signatures-with.html
+-  https://www.mnin.org/write/2006_extract_xor.pdf
+-  http://www.hexacorn.com/blog/2015/12/21/idapython-making-strings-decompiler-friendly/
+-  http://standa-note.blogspot.com/2015/01/arm-exception-handling-and-idapython.html
+-  http://codegist.net/code/idapython-script/
+-  https://reverseengineering.stackexchange.com/questions/16055/idapython-get-xrefs-to-a-stack-variable
+-  https://www.jianshu.com/p/15be72d919ff
+
 ## rpc
 
 -  https://github.com/gentilkiwi/basic_rpc
