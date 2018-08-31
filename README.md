@@ -783,6 +783,7 @@
 
 ## idapython
 
+-  https://4hou.win/wordpress/?cat=1178 (pin & ida)
 -  https://wizardforcel.gitbooks.io/grey-hat-python/
 -  http://spd.dropsec.xyz/2016/10/05/IDAPython%E5%AE%89%E8%A3%85/
 -  http://spd.dropsec.xyz/2017/04/09/%E7%AC%A6%E5%8F%B7%E6%89%A7%E8%A1%8C-%E5%9F%BA%E4%BA%8Epython%E7%9A%84%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%88%86%E6%9E%90%E6%A1%86%E6%9E%B6angr/
