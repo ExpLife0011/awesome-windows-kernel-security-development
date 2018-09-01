@@ -913,6 +913,7 @@
 
 ## awesome
 
+-  https://github.com/rshipp/awesome-malware-analysis
 -  https://github.com/lmy375/awesome-vmp
 -  https://github.com/ksluckow/awesome-symbolic-execution
 -  https://github.com/szysec/ctftest
