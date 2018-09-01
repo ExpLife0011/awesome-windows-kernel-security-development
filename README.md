@@ -913,6 +913,7 @@
 
 ## awesome
 
+-  https://github.com/lmy375/awesome-vmp
 -  https://github.com/ksluckow/awesome-symbolic-execution
 -  https://github.com/szysec/ctftest
 -  https://stackoverflow.com/questions/4946685/good-tutorial-for-windbg
