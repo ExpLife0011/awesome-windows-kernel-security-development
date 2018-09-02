@@ -766,6 +766,7 @@
 
 ## windbg plugin
 
+- https://codeday.me/bug/20171003/80216.html
 - http://virtualkd.sysprogs.org/
 - https://github.com/VincentSe/WatchTrees
 
@@ -783,6 +784,9 @@
 
 ## idapython
 
+-  http://www.h4ck.org.cn/2011/07/ida-pe6-dll-unpack/
+-  https://www.anquanke.com/post/id/151898
+-  https://www.anquanke.com/post/id/85890
 -  https://www.cnblogs.com/17bdw/p/7785469.html
 -  https://4hou.win/wordpress/?cat=1178 (pin & ida)
 -  https://wizardforcel.gitbooks.io/grey-hat-python/
@@ -830,6 +834,37 @@
 -  http://standa-note.blogspot.com/2015/01/arm-exception-handling-and-idapython.html
 -  http://codegist.net/code/idapython-script/
 -  https://reverseengineering.stackexchange.com/questions/16055/idapython-get-xrefs-to-a-stack-variable
+
+## pykd
+
+-  https://www.anquanke.com/post/id/86909
+-  https://www.anquanke.com/post/id/86896
+-  https://www.anquanke.com/post/id/83205
+-  https://blog.csdn.net/jimoguilai/article/details/25286029
+-  https://blog.csdn.net/jimoguilai/article/details/29827283
+-  https://blog.csdn.net/jimoguilai/article/details/38122863
+-  https://blog.csdn.net/linux_vae/article/details/77532758
+-  https://blog.csdn.net/linux_vae/article/details/77532758
+-  https://blog.csdn.net/ambihan/article/details/35775933
+-  https://www.zerodayinitiative.com/blog/2018/7/19/mindshare-an-introduction-to-pykd
+-  https://www.cnblogs.com/fanzi2009/archive/2012/12/10/2811543.html
+-  https://cloud.tencent.com/developer/article/1005628
+-  http://eternalsakura13.com/2018/07/03/firefox_env/
+-  https://binvoke.com/inline-assembly-in-x64/
+-  https://webstersprodigy.net/2014/01/06/soft-function-hooking-with-windbg-and-pykd/
+-  https://rayanfam.com/topics/pykd-tutorial-part1/
+-  https://rayanfam.com/topics/pykd-tutorial-part2/
+-  https://labs.mwrinfosecurity.com/blog/heap-tracing-with-windbg-and-python/
+-  http://www.miguelventura.pt/scripting-windbg-with-pykd.html
+-  https://labs.nettitude.com/blog/windbg-using-pykd-to-dump-private-symbols/
+-  https://webstersprodigy.net/2014/01/06/soft-function-hooking-with-windbg-and-pykd/
+-  https://www.cnblogs.com/fanzi2009/archive/2012/12/10/2811543.html
+-  http://www.freebuf.com/articles/system/103816.html
+-  https://bbs.pediy.com/thread-224904.htm
+-  http://theevilbit.blogspot.com/2017/09/pool-spraying-fun-part-1.html
+-  http://theevilbit.blogspot.com/2017/09/windows-kernel-pool-spraying-fun-part-2.html
+-  http://theevilbit.blogspot.com/2017/09/windows-kernel-pool-spraying-fun-part-3.html
+-  http://theevilbit.blogspot.com/2017/09/windows-kernel-pool-spraying-fun-part-4.html
 
 ## rpc
 
@@ -993,6 +1028,7 @@
 
 ## miscellaneous
 
+-  https://rayanfam.com/topics/inline-assembly-in-x64/  (x64 inline asm)
 -  https://www.jianshu.com/p/15be72d919ff (traversing the icon on the desktop)
 -  https://github.com/nshalabi/SysmonTools
 -  https://github.com/nshalabi/ATTACK-Tools
