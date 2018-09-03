@@ -26,6 +26,8 @@
 ## blackbone
 
 -  https://github.com/alexpsp00/x-elite-loader
+-  https://github.com/DarthTon/Xenos
+-  https://github.com/DarthTon/Blackbone
 
 ## winio
 
@@ -1057,9 +1059,7 @@
 -  https://github.com/intel/haxm
 -  https://github.com/akayn/Resources
 -  https://github.com/DarthTon/SecureEraseWin
--  https://github.com/DarthTon/Xenos
 -  https://github.com/hfiref0x/UACME
--  https://github.com/DarthTon/Blackbone
 -  https://github.com/tinysec/windows-syscall-table
 -  https://github.com/tinysec/jsrt
 -  https://github.com/zodiacon/DriverMon
