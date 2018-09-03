@@ -23,6 +23,10 @@
 -  https://github.com/jackqk/mystudy
 -  https://github.com/yogendersolanki91/Kernel-Driver-Example
 
+## blackbone
+
+-  https://github.com/alexpsp00/x-elite-loader
+
 ## winio
 
 -  https://github.com/Jehoash/WinIO3.0
