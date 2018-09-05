@@ -778,7 +778,8 @@
 
 ## ida script & plugin
 
--  https://github.com/fireeye/flare-ida
+-  https://github.com/dude719/SigMaker-x64 (pat2sig)
+-  https://github.com/fireeye/flare-ida    (idb2pat)
 -  https://zznop.github.io/bnida/
 -  https://github.com/zyantific/IDASkins
 -  https://github.com/eugeii/ida-consonance
