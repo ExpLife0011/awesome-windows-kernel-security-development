@@ -778,6 +778,7 @@
 
 ## ida script & plugin
 
+-  https://github.com/fireeye/flare-ida
 -  https://zznop.github.io/bnida/
 -  https://github.com/zyantific/IDASkins
 -  https://github.com/eugeii/ida-consonance
