@@ -790,6 +790,10 @@
 -  http://sark.readthedocs.io/en/latest/debugging.html
 -  https://bbs.pediy.com/thread-224627.htm (wing debugging idapython script)
 
+## ida sig maker
+
+-  https://blog.csdn.net/lixiangminghate/article/details/81352205
+
 ## idapython
 
 -  http://www.h4ck.org.cn/2011/07/ida-pe6-dll-unpack/
