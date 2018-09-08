@@ -779,6 +779,7 @@
 
 ## ida script & plugin
 
+-  https://github.com/devttys0/ida/
 -  https://github.com/dude719/SigMaker-x64 (pat2sig)
 -  https://github.com/fireeye/flare-ida    (idb2pat)
 -  https://zznop.github.io/bnida/
