@@ -962,6 +962,7 @@
 
 ## awesome
 
+-  https://github.com/Escapingbug/awesome-browser-exploit
 -  https://github.com/CaledoniaProject/awesome-opensource-security
 -  https://github.com/rshipp/awesome-malware-analysis
 -  https://github.com/lmy375/awesome-vmp
