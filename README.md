@@ -244,6 +244,7 @@
 
 ## tdi
 
+-  https://github.com/alex9191/ZeroBank-ring0-bundle
 -  https://github.com/Sha0/winvblock
 -  https://github.com/michael4338/TDI
 -  https://github.com/cullengao/tdi_monitor
