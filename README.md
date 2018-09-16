@@ -78,6 +78,7 @@
 
 ## inject technique
 
+-  https://github.com/alex9191/Kernel-dll-injector (DllInjectFromKernel)
 -  https://github.com/strivexjun/DriverInjectDll (MapInjectDll)
 -  https://github.com/wbenny/keinject (ApcInjectFromKernel)
 -  https://github.com/sud0loo/ProcessInjection
@@ -244,6 +245,7 @@
 
 ## tdi
 
+-  https://github.com/alex9191/NetDriver (send & receive HTTP requests)
 -  https://github.com/alex9191/ZeroBank-ring0-bundle
 -  https://github.com/Sha0/winvblock
 -  https://github.com/michael4338/TDI
