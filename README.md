@@ -245,6 +245,7 @@
 
 ## tdi
 
+-  https://github.com/xue-blood/adfilter
 -  https://github.com/alex9191/NetDriver (send & receive HTTP requests)
 -  https://github.com/alex9191/ZeroBank-ring0-bundle
 -  https://github.com/Sha0/winvblock
