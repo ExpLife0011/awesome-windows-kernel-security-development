@@ -404,6 +404,11 @@
 -  https://github.com/hackedteam/scout-win
 -  https://github.com/hackedteam/vector-dropper
 
+## EternalBlue && Doublepulsar && Mine
+
+-  https://github.com/xmrig/xmrig
+-  https://github.com/TolgaSEZER/EternalPulse 
+
 ## malware analysis
 
 -  https://github.com/ctxis/capemon
