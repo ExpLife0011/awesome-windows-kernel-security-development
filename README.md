@@ -388,6 +388,7 @@
 
 ## malware
 
+-  https://github.com/lianglixin/RemoteControl-X3
 -  https://github.com/Souhardya/UBoat (HTTP)
 -  https://github.com/malwares/Botnet
 -  https://github.com/RafaelGSS/HyzMall
