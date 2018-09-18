@@ -606,6 +606,10 @@
 -  https://github.com/tandasat/EopMon
 -  https://github.com/tandasat/MemoryMon
 
+## windows hypervisor 
+
+-  https://github.com/StrikerX3/whvpclient
+
 ## vt
 
 -  https://github.com/wbenny/hvpp
