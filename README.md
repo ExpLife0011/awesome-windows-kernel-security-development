@@ -794,6 +794,7 @@
 
 ## ida script & plugin
 
+-  https://github.com/RolfRolles/HexRaysDeob (deobfuscate)
 -  https://github.com/icewall/BinDiffFilter
 -  https://github.com/devttys0/ida/
 -  https://github.com/dude719/SigMaker-x64 (pat2sig)
