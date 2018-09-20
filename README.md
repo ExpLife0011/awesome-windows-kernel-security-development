@@ -165,6 +165,10 @@
 
 -  https://github.com/w1nds/dll2shellcode
 
+## hide process
+
+-  https://github.com/M00nRise/ProcessHider
+
 ## hide & delete dll
 
 -  https://github.com/wyyqyl/HideModule
