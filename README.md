@@ -1018,6 +1018,7 @@
 
 ## tools
 
+- http://bytepointer.com/tools/index.htm#peupdate
 - https://github.com/endgameinc/xori (Dissasemblers blackhat 2018)
 - http://www.softpedia.com/get/Programming/Debuggers-Decompilers-Dissasemblers/
 
