@@ -1271,11 +1271,12 @@
 
 ## regex
 
-- https://github.com/zeeshanu/learn-regex
+-  https://github.com/zeeshanu/learn-regex
 
 ## ebook
 
-- http://www.foxebook.net/
+-  https://github.com/chryzsh/practical-hacking
+-  http://www.foxebook.net/
 
 ## library
 
