@@ -491,6 +491,7 @@
 
 ## windows kernel exploits
 
+-  https://github.com/DownWithUp/CVE-2018-15499 (race condition)
 -  https://github.com/SandboxEscaper/randomrepo (win10 LPE)
 -  https://github.com/jackson5-sec/TaskSchedLPE (LPE)
 -  https://github.com/HarsaroopDhillon/AHNLab-0day(LPE)
@@ -743,6 +744,10 @@
 ## unpacker
 
 -  http://n10info.blogspot.com/2018/03/xvolkolak-010.html
+
+## pin
+
+-  https://github.com/dyninst/dyninst
 
 ## symbolic execution
 
