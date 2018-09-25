@@ -1275,6 +1275,7 @@
 
 ## ebook
 
+-  https://github.com/chryzsh/DarthSidious (AD Domain hack)
 -  https://github.com/chryzsh/practical-hacking
 -  http://www.foxebook.net/
 
