@@ -941,6 +941,10 @@
 -  https://github.com/NytroRST/NetRipper
 -  https://github.com/breenmachine/RottenPotatoNG
 
+## shellcode encoder
+
+-  https://github.com/ecx86/shellcode_encoder
+
 ## shadow
 
 -  https://github.com/lcxl/lcxl-shadow
