@@ -31,6 +31,7 @@
 
 ## winio
 
+-  https://github.com/duzhi5368/FKHIDKeyboardSimTest (support usb)
 -  https://github.com/Jehoash/WinIO3.0
 
 ## dkom
