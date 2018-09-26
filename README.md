@@ -1028,6 +1028,10 @@
 
 -  https://github.com/tboox/vm86
 
+## pe tool
+
+-  https://github.com/YajS/NikPEViewer
+
 ## tools
 
 - http://bytepointer.com/tools/index.htm#peupdate
@@ -1146,6 +1150,8 @@
 
 ## blogs
 
+-  http://eternalsakura13.com
+-  https://xiaodaozhi.com/ 
 -  https://blog.vicayang.cc/
 -  https://www.fwhibbit.es/sysmon-the-big-brother-of-windows-and-the-super-sysmonview
 -  https://dedbg.com/
