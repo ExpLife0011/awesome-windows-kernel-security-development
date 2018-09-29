@@ -29,8 +29,9 @@
 -  https://github.com/DarthTon/Xenos
 -  https://github.com/DarthTon/Blackbone
 
-## winio
+## hidinput
 
+-  https://github.com/ViGEm/HidGuardian
 -  https://github.com/ecologylab/EcoTUIODriver
 -  https://github.com/djpnewton/vmulti
 -  https://github.com/duzhi5368/FKHIDKeyboardSimTest (support usb)
