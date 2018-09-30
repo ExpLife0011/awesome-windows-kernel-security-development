@@ -831,6 +831,7 @@
 
 ## idapython
 
+-  https://github.com/IOActive/kmdf_re
 -  http://www.h4ck.org.cn/2011/07/ida-pe6-dll-unpack/
 -  https://www.anquanke.com/post/id/151898
 -  https://www.anquanke.com/post/id/85890
