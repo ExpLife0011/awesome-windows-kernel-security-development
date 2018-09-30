@@ -561,6 +561,7 @@
 
 ## LPE
 
+-  https://github.com/ohpe/juicy-potato
 -  https://github.com/nmulasmajic/syscall_exploit_CVE-2018-8897
 -  https://github.com/codewhitesec/UnmarshalPwn
 -  https://ohpe.github.io/juicy-potato/
