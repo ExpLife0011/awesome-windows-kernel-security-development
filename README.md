@@ -630,6 +630,8 @@
 
 ## windows hypervisor 
 
+-  https://github.com/Ekrte/hithithit
+-  https://github.com/Microsoft/FirewallEventMonitor
 -  https://github.com/ionescu007/Simpleator
 -  https://github.com/StrikerX3/whvpclient
 
