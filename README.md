@@ -1349,6 +1349,7 @@
 
 ## ipc
 
+-  https://github.com/fangqing/PipeLink
 -  https://github.com/e3ntity/windows_named_pipe_ipc
 
 ## iot sec
