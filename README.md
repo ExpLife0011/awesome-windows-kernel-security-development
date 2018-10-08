@@ -169,6 +169,10 @@
 
 -  https://github.com/glmcdona/Process-Dump
 
+## dll map detection
+
+-  https://github.com/vmcall/MapDetection
+
 ## dll to shellcode
 
 -  https://github.com/w1nds/dll2shellcode
@@ -436,6 +440,7 @@
 
 ## arktools
 
+-  https://github.com/glmcdona/MALM
 -  https://github.com/ahmad-siavashi/Ana-Process-Explorer
 -  https://github.com/alex9191/KernelModeMonitor
 -  https://github.com/marcosd4h/memhunter
@@ -625,6 +630,7 @@
 
 ## windows hypervisor 
 
+-  https://github.com/ionescu007/Simpleator
 -  https://github.com/StrikerX3/whvpclient
 
 ## vt
@@ -1010,6 +1016,7 @@
 
 ## metasploit
 
+-  https://github.com/phackt/stager.dll
 -  https://github.com/ExpLife/metasploit-framework
 -  https://github.com/NytroRST/NetRipper
 -  https://github.com/breenmachine/RottenPotatoNG
@@ -1105,9 +1112,10 @@
 
 ## tools
 
-- http://bytepointer.com/tools/index.htm#peupdate
-- https://github.com/endgameinc/xori (Dissasemblers blackhat 2018)
-- http://www.softpedia.com/get/Programming/Debuggers-Decompilers-Dissasemblers/
+-  https://github.com/glmcdona/strings2
+-  http://bytepointer.com/tools/index.htm#peupdate
+-  https://github.com/endgameinc/xori (Dissasemblers blackhat 2018)
+-  http://www.softpedia.com/get/Programming/Debuggers-Decompilers-Dissasemblers/
 
 ## post-exploitation
 
