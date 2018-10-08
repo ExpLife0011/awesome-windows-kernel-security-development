@@ -1347,6 +1347,10 @@
 -  https://github.com/maldevel/SHA256
 -  https://github.com/13g10n/crypto
 
+## ipc
+
+-  https://github.com/e3ntity/windows_named_pipe_ipc
+
 ## iot sec
 
 -  https://iot.sec-wiki.com/
