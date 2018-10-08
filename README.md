@@ -635,6 +635,7 @@
 
 ## vt
 
+-  https://github.com/SinaKarvandi/Hypervisor-From-Scratch
 -  https://github.com/wbenny/hvpp
 -  https://github.com/Sqdwr/Multi_CPU_VtBase
 -  https://github.com/marche147/IoctlMon
@@ -1137,6 +1138,7 @@
 
 ## 3rd party library
 
+-  https://github.com/acl-dev/acl
 -  https://github.com/kingsamchen/WinAntHttp
 -  https://github.com/kingsamchen/KAdBlockEngine
 -  https://github.com/kingsamchen/KLog
