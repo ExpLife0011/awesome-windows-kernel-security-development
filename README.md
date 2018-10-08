@@ -165,6 +165,10 @@
 -  https://github.com/FrankStain/pe-loader
 -  https://github.com/VideoCardGuy/PELoader
 
+## memory pe dumper
+
+-  https://github.com/glmcdona/Process-Dump
+
 ## dll to shellcode
 
 -  https://github.com/w1nds/dll2shellcode
@@ -1061,6 +1065,7 @@
 
 ## awesome
 
+-  https://github.com/0x4D31/awesome-threat-detection
 -  https://github.com/Escapingbug/awesome-browser-exploit
 -  https://github.com/CaledoniaProject/awesome-opensource-security
 -  https://github.com/rshipp/awesome-malware-analysis
