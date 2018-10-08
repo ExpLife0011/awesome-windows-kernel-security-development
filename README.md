@@ -1374,6 +1374,10 @@
 
 -  https://github.com/zeeshanu/learn-regex
 
+## paper
+
+-  https://speakerdeck.com
+
 ## ebook
 
 -  https://github.com/xapax/security
