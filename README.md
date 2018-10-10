@@ -177,6 +177,10 @@
 
 -  https://github.com/w1nds/dll2shellcode
 
+## dll to exe
+
+-  https://github.com/hasherezade/dll_to_exe
+
 ## hide process
 
 -  https://github.com/M00nRise/ProcessHider
