@@ -1389,6 +1389,10 @@
 -  https://github.com/chryzsh/practical-hacking
 -  http://www.foxebook.net/
 
+## pentest
+
+-  https://github.com/l3m0n/pentest_study
+
 ## library
 
 -  https://www.ctolib.com/
