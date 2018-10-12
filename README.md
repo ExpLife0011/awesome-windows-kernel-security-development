@@ -671,6 +671,10 @@
 -  https://github.com/cheat-engine/cheat-engine
 -  https://github.com/Kelvinhack/kHypervisor
 
+## firmware
+
+-  https://github.com/platomav/MEAnalyzer
+
 ## fuzzer
 
 -  https://github.com/IOActive/FuzzNDIS
