@@ -804,6 +804,7 @@
 
 ## bin diff
 
+-  https://github.com/joxeankoret/pigaios
 -  https://www.zynamics.com/bindiff.html
 -  https://github.com/joxeankoret/diaphora
 -  https://github.com/ExpLife/binarydiffer
