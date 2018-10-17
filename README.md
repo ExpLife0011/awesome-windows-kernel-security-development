@@ -276,6 +276,7 @@
 
 ## wfp
 
+-  https://github.com/Arno0x/DivertTCPconn
 -  https://github.com/mullvad/libwfp
 -  https://github.com/gifur/NetworkMnt
 -  https://github.com/ss-abramchuk/OpenVPNAdapter/blob/f016614ed3dec30672e4f1821344b7992825a98d/OpenVPN%20Adapter/Vendors/openvpn/openvpn/tun/win/wfp.hpp
@@ -475,6 +476,7 @@
 
 ## bypass patchguard
 
+-  https://github.com/9176324/Shark
 -  https://github.com/hfiref0x/UPGDSED
 -  https://github.com/tandasat/PgResarch
 -  https://github.com/killvxk/DisableWin10PatchguardPoc
@@ -677,6 +679,7 @@
 
 ## fuzzer
 
+-  https://github.com/necst/crave
 -  https://github.com/IOActive/FuzzNDIS
 -  https://github.com/bee13oy/AV_Kernel_Vulns/tree/master/Zer0Con2017
 -  https://github.com/k0keoyo/kDriver-Fuzzer (Paper:https://whereisk0shl.top/post/2018-01-30)
