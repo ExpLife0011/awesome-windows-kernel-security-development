@@ -80,6 +80,10 @@
 -  https://github.com/G-E-N-E-S-I-S/latebros
 -  https://bbs.pediy.com/thread-214582.htm
 
+## anti hook
+
+-  https://github.com/nickcano/ReloadLibrary
+
 ## inject technique
 
 -  https://github.com/alex9191/Kernel-dll-injector (DllInjectFromKernel)
@@ -409,6 +413,7 @@
 
 ## malware
 
+-  https://github.com/eset/malware-ioc
 -  https://github.com/lianglixin/RemoteControl-X3
 -  https://github.com/Souhardya/UBoat (HTTP)
 -  https://github.com/malwares/Botnet
@@ -433,6 +438,7 @@
 
 ## malware analysis
 
+-  https://github.com/wchen-r7/amsiscanner (Microsoft's Antimalware Scan Interface)
 -  https://github.com/ctxis/capemon
 -  https://github.com/kevthehermit/RATDecoders
 -  https://github.com/marcusbotacin/Malware.Variants
@@ -508,6 +514,13 @@
 -  https://github.com/Cn33liz/HSEVD-ArbitraryOverwriteLowIL
 -  https://github.com/Cn33liz/HSEVD-ArbitraryOverwrite
 -  https://github.com/akayn/demos
+
+## windows exploits
+
+-  https://github.com/codewhitesec/UnmarshalPwn
+-  https://github.com/shellphish/how2heap
+-  https://github.com/externalist/exploit_playground
+-  https://github.com/cervoise/Abuse-bash-for-windows
 
 ## windows kernel exploits
 
@@ -595,6 +608,7 @@
 
 ## sandbox escape
 
+-  https://github.com/649/Chrome-Sandbox-Exploit
 -  https://github.com/SilverMoonSecurity/SandboxEvasion
 -  https://github.com/exAphex/SandboxEscape
 -  https://github.com/Fel0ny/Sandbox-Detection
@@ -621,6 +635,7 @@
 
 ## cve
 
+-  https://github.com/renorobert/virtualbox-cve-2018-2844
 -  https://github.com/LiuCan01/cve-list-pro
 -  https://github.com/CVEProject/cvelist
 
@@ -640,6 +655,10 @@
 -  https://github.com/Microsoft/FirewallEventMonitor
 -  https://github.com/ionescu007/Simpleator
 -  https://github.com/StrikerX3/whvpclient
+
+## kvm
+
+-  https://github.com/david942j/kvm-kernel-example
 
 ## vt
 
@@ -708,6 +727,8 @@
 
 ## game hack
 
+-  https://github.com/dsasmblr/hacking-online-games
+-  https://github.com/dsasmblr/game-hacking
 -  https://github.com/daswareinfach/Battleye-VAC-EAC-Kernel-Bypass (BattlEye)
 -  https://blog.his.cat/a/fuck_battleye.cat (BattlEye)
 -  https://github.com/Tai7sy/BE_Fuck (Battleye)
@@ -770,6 +791,7 @@
 
 ## pe protector
 
+-  https://github.com/nickcano/RelocBonus
 -  https://github.com/jnastarot/furikuri
 
 ## unpacker
@@ -836,6 +858,7 @@
 
 ## ida script & plugin
 
+-  https://github.com/kkHAIKE/tinyidb
 -  https://github.com/RolfRolles/HexRaysDeob (deobfuscate)
 -  https://github.com/icewall/BinDiffFilter
 -  https://github.com/devttys0/ida/
@@ -1181,6 +1204,12 @@
 
 ## miscellaneous
 
+
+-  https://github.com/Darm64/XNU
+-  https://github.com/netromdk/bmod
+-  https://github.com/rgl/windows-domain-controller-vagrant
+-  https://github.com/panda-re/panda
+-  https://github.com/DarkSpiritz/DarkSpiritz
 -  https://rayanfam.com/topics/inline-assembly-in-x64/  (x64 inline asm)
 -  https://www.jianshu.com/p/15be72d919ff (traversing the icon on the desktop)
 -  https://github.com/nshalabi/SysmonTools
