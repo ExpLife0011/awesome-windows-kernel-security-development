@@ -1037,6 +1037,9 @@
 
 ## ring3 nt api
 
+-  https://github.com/ntdiff/ntdiff
+-  https://ntdiff.github.io
+-  https://github.com/ntdiff/headers
 -  https://github.com/Chuyu-Team/NativeLib
 
 ## dll hijack
