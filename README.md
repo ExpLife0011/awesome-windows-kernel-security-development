@@ -497,6 +497,7 @@
 
 ## HackSysExtremeVulnerableDriver
 
+-  https://github.com/redogwu/windows_kernel_exploit
 -  https://github.com/mgeeky/HEVD_Kernel_Exploit
 -  https://www.fuzzysecurity.com/tutorials.html
 -  https://rootkits.xyz/blog/
