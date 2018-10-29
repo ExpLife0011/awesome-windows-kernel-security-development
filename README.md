@@ -6,6 +6,10 @@
 
 :heart:
 
+## windows kernel driver
+
+-  https://github.com/mq1n/EasyRing0
+
 ## windows kernel driver with c++ runtime
 
 -  https://github.com/HoShiMin/Kernel-Bridge
@@ -136,6 +140,7 @@
 
 ## anti dll inject
 
+-  https://github.com/mq1n/DLLThreadInjectionDetector
 -  https://github.com/analyst004/antinject
 -  https://github.com/ExpLife/BotKiller
 
@@ -770,6 +775,7 @@
 
 ## anti cheat
 
+-  https://github.com/mq1n/NoMercy
 -  https://github.com/SagaanTheEpic/Sagaan-AntiCheat-V2.0
 -  https://github.com/SagaanTheEpic/SAC-Sagaan-AntiCheat-Module-
 -  https://github.com/SagaanTheEpic/SAC-Anti-Debug
@@ -1208,6 +1214,7 @@
 
 ## miscellaneous
 
+-  https://github.com/mq1n/WSWatcher
 -  https://github.com/imagemlt/EasyKnife (CKnife)
 -  https://github.com/didi/kemon (macOS Kernel Monitoring Callback Framework)
 -  https://github.com/Microsoft/microsoft-pdb (pdb format)
