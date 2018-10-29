@@ -1208,6 +1208,7 @@
 
 ## miscellaneous
 
+-  https://github.com/imagemlt/EasyKnife (CKnife)
 -  https://github.com/didi/kemon (macOS Kernel Monitoring Callback Framework)
 -  https://github.com/Microsoft/microsoft-pdb (pdb format)
 -  https://github.com/Darm64/XNU
