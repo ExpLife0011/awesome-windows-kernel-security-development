@@ -226,6 +226,9 @@
 
 ## minifilter
 
+-  https://github.com/hedgeh/SEWindows (HIPS)
+-  https://github.com/474172261/DataProtector
+-  https://github.com/CynicalApe/Minifilter-CSHARP-ConsoleApp
 -  https://github.com/NtRaiseHardError/Anti-Delete (File anti delete)
 -  https://github.com/Randomize163/FSDefender
 -  https://github.com/ETEFS/ETEFS_Mini
