@@ -446,6 +446,7 @@
 
 ## malware analysis
 
+-  https://github.com/unexpectedBy/Automated-Malware-Analysis-List
 -  https://github.com/wchen-r7/amsiscanner (Microsoft's Antimalware Scan Interface)
 -  https://github.com/ctxis/capemon
 -  https://github.com/kevthehermit/RATDecoders
@@ -533,6 +534,9 @@
 
 ## windows kernel exploits
 
+-  https://github.com/fishstiqz/poolinfo
+-  https://github.com/cbayet/Exploit-CVE-2017-6008
+-  https://github.com/cbayet/PoolSprayer (pool spray)
 -  https://github.com/DownWithUp/CVE-2018-15499 (race condition)
 -  https://github.com/SandboxEscaper/randomrepo (win10 LPE)
 -  https://github.com/jackson5-sec/TaskSchedLPE (LPE)
