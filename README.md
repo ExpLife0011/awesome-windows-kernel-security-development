@@ -742,6 +742,7 @@
 
 ## game hack
 
+-  https://github.com/moccajoghurt/MemWars
 -  https://github.com/dsasmblr/hacking-online-games
 -  https://github.com/dsasmblr/game-hacking
 -  https://github.com/daswareinfach/Battleye-VAC-EAC-Kernel-Bypass (BattlEye)
