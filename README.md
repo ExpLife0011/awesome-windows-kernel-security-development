@@ -534,6 +534,8 @@
 
 ## windows kernel exploits
 
+-  https://github.com/siberas/CVE-2016-3309_Reloaded
+-  https://github.com/moccajoghurt/drvmap_secure
 -  https://github.com/fishstiqz/poolinfo
 -  https://github.com/cbayet/Exploit-CVE-2017-6008
 -  https://github.com/cbayet/PoolSprayer (pool spray)
@@ -872,6 +874,7 @@
 
 ## ida script & plugin
 
+-  https://github.com/a1ext/labeless 
 -  https://github.com/kkHAIKE/tinyidb
 -  https://github.com/RolfRolles/HexRaysDeob (deobfuscate)
 -  https://github.com/icewall/BinDiffFilter
@@ -1051,6 +1054,7 @@
 
 ## ring3 nt api
 
+-  https://github.com/processhacker/phnt
 -  https://github.com/ntdiff/ntdiff
 -  https://ntdiff.github.io
 -  https://github.com/ntdiff/headers
@@ -1127,6 +1131,7 @@
 
 ## awesome
 
+-  https://github.com/CHYbeta/Software-Security-Learning
 -  https://github.com/0x4D31/awesome-threat-detection
 -  https://github.com/Escapingbug/awesome-browser-exploit
 -  https://github.com/CaledoniaProject/awesome-opensource-security
@@ -1219,8 +1224,17 @@
 
 -  https://github.com/muxq/hellorpc
 
+## adblock
+
+-  https://github.com/adblockplus/adblockplusie
+-  https://github.com/adblockplus/adblockpluscore
+-  https://github.com/adblockplus/libadblockplus
+
 ## miscellaneous
 
+-  https://github.com/AntiRootkit/HandleSpy
+-  https://github.com/securifera/HeapMonitor
+-  https://github.com/securifera/serviceFu
 -  https://github.com/mq1n/WSWatcher
 -  https://github.com/imagemlt/EasyKnife (CKnife)
 -  https://github.com/didi/kemon (macOS Kernel Monitoring Callback Framework)
