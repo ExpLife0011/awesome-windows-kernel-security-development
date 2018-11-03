@@ -1233,6 +1233,7 @@
 
 ## miscellaneous
 
+-  http://www.geoffchappell.com/studies/windows/km/index.htm (reverse)
 -  https://github.com/AntiRootkit/HandleSpy
 -  https://github.com/securifera/HeapMonitor
 -  https://github.com/securifera/serviceFu
