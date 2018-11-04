@@ -217,6 +217,7 @@
 
 ## callback
 
+-  https://github.com/ZhuHuiBeiShaDiao/ObRegisterCallBacksByPass
 -  https://github.com/Sqdwr/RemoveCallBacks
 -  https://github.com/JKornev/hidden
 -  https://github.com/binbibi/CallbackEx
@@ -1233,6 +1234,7 @@
 
 ## miscellaneous
 
+-  https://github.com/Schnocker/HLeaker
 -  http://www.geoffchappell.com/studies/windows/km/index.htm (reverse)
 -  https://github.com/AntiRootkit/HandleSpy
 -  https://github.com/securifera/HeapMonitor
