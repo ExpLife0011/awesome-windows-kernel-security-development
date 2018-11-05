@@ -714,6 +714,7 @@
 
 ## fuzzer
 
+-  https://github.com/RootUp/BFuzz
 -  https://github.com/necst/crave
 -  https://github.com/IOActive/FuzzNDIS
 -  https://github.com/bee13oy/AV_Kernel_Vulns/tree/master/Zer0Con2017
@@ -1234,6 +1235,7 @@
 
 ## miscellaneous
 
+-  https://github.com/beader/tianchi-3rd_security
 -  https://github.com/Schnocker/HLeaker
 -  http://www.geoffchappell.com/studies/windows/km/index.htm (reverse)
 -  https://github.com/AntiRootkit/HandleSpy
