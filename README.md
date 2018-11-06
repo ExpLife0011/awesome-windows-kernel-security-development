@@ -429,6 +429,7 @@
 
 ## malware
 
+-  https://github.com/fereh/tacekit
 -  https://github.com/eset/malware-ioc
 -  https://github.com/lianglixin/RemoteControl-X3
 -  https://github.com/Souhardya/UBoat (HTTP)
@@ -1242,6 +1243,9 @@
 
 ## miscellaneous
 
+-  https://github.com/n1nj4sec/memorpy
+-  https://github.com/TinyCC/tinycc
+-  https://github.com/msuhanov/regf (reg formats)
 -  https://github.com/beader/tianchi-3rd_security
 -  https://github.com/Schnocker/HLeaker
 -  http://www.geoffchappell.com/studies/windows/km/index.htm (reverse)
