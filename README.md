@@ -83,6 +83,23 @@
 
 ## inline hook
 
+-  https://github.com/gfreivasc/VMTHook
+-  https://github.com/zhipeng515/MemberFunctionHook （成员函数HOOK）
+-  https://github.com/windy32/win32-console-hook-lib
+-  https://github.com/M0rtale/Universal-WndProc-Hook
+-  https://github.com/a7031x/HookApi
+-  https://github.com/blaquee/APCHook
+-  https://github.com/simonberson/ChromeURLSniffer
+-  https://github.com/codereversing/sehveh_hook
+-  https://github.com/Matviy/LeagueReplayHook
+-  https://github.com/jonasblunck/DP
+-  https://github.com/XBased/xhook
+-  https://github.com/rokups/hooker
+-  https://github.com/Ayuto/DynamicHooks
+-  https://github.com/sincoder/wow64hook
+-  https://github.com/strobejb/sslhook
+-  https://github.com/petrgeorgievsky/gtaRenderHook
+-  https://github.com/WopsS/RenHook
 -  https://github.com/chinatiny/InlineHookLib (R3 & R0)
 -  https://github.com/tongzeyu/HookSysenter
 -  https://github.com/VideoCardGuy/HideProcessInTaskmgr
@@ -97,6 +114,7 @@
 
 ## inject technique
 
+-  https://github.com/strobejb/injdll
 -  https://github.com/alex9191/Kernel-dll-injector (DllInjectFromKernel)
 -  https://github.com/strivexjun/DriverInjectDll (MapInjectDll)
 -  https://github.com/wbenny/keinject (ApcInjectFromKernel)
@@ -222,6 +240,10 @@
 -  https://github.com/EasyHook/EasyHook
 -  https://github.com/RelicOfTesla/Detours
 
+## bypass memory scanner
+
+-  https://github.com/Microwave89/rtsectiontest
+
 ## callback
 
 -  https://github.com/ZhuHuiBeiShaDiao/ObRegisterCallBacksByPass
@@ -261,6 +283,7 @@
 
 ## virtual file system
 
+-  https://github.com/TanninOne/usvfs
 -  https://github.com/ExpLife/CodeUMVFS
 -  https://github.com/yogendersolanki91/ProcessFileSystem
 -  https://github.com/BenjaminKim/dokanx
@@ -346,6 +369,7 @@
 
 ## rootkits
 
+-  https://github.com/Microwave89/drvtricks
 -  https://github.com/Psychotropos/xhunter1_privesc (XIGNCODE3)
 -  https://github.com/ionescu007/r0ak (RWE)
 -  https://github.com/cyberweapons/cyberweapons
@@ -823,10 +847,13 @@
 
 ## unpacker
 
+-  https://github.com/BromiumLabs/PackerAttacker
 -  http://n10info.blogspot.com/2018/03/xvolkolak-010.html
 
 ## pin
 
+-  https://github.com/hasherezade/MyPinTools
+-  https://github.com/hasherezade/tiny_tracer
 -  https://github.com/dyninst/dyninst
 
 ## symbolic execution
@@ -1065,6 +1092,7 @@
 
 ## ring3 nt api
 
+-  https://github.com/codereversing/wow64syscall
 -  https://github.com/processhacker/phnt
 -  https://github.com/ntdiff/ntdiff
 -  https://ntdiff.github.io
@@ -1177,8 +1205,26 @@
 
 -  https://github.com/tboox/vm86
 
+## spy++
+
+-  https://github.com/strobejb/winspy
+
 ## pe tool
 
+-  https://github.com/hasherezade/hollows_hunter  (scan hook)
+-  https://github.com/hasherezade/pe-sieve
+-  https://github.com/hasherezade/bearparser
+-  https://github.com/hasherezade/libpeconv
+-  https://github.com/hasherezade/malware_analysis
+-  https://github.com/hasherezade/libpeconv_project_template
+-  https://github.com/hasherezade/libpeconv_wrappers
+-  https://github.com/hasherezade/process_doppelganging
+-  https://github.com/hasherezade/bee_parser
+-  https://github.com/hasherezade/pe_to_shellcode
+-  https://github.com/hasherezade/mal_unpack
+-  https://github.com/hasherezade/process_chameleon (modify exe path)
+-  https://github.com/hasherezade/loaderine
+-  https://github.com/hasherezade/chimera_loader
 -  https://github.com/YajS/NikPEViewer
 
 ## tools
