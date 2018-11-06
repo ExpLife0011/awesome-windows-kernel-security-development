@@ -68,6 +68,13 @@
     
 ## eat/iat/object/irp/iat hook
 
+-  https://github.com/hasherezade/IAT_patcher
+-  https://github.com/Cyrex1337/hook.lib
+-  https://github.com/hMihaiDavid/hooks
+-  https://github.com/Scorbutics/IATHook
+-  https://github.com/amazadota/AFD-HOOK-
+-  https://github.com/wyyqyl/HookIAT
+-  https://github.com/smore007/remote-iat-hook
 -  https://github.com/m0n0ph1/IAT-Hooking-Revisited
 -  https://github.com/xiaomagexiao/GameDll
 -  https://github.com/HollyDi/Ring0Hook
