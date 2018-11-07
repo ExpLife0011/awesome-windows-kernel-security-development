@@ -110,6 +110,7 @@
 
 ## hook engine
 
+-  https://github.com/stevemk14ebr/PolyHook
 -  https://github.com/TsudaKageyu/minhook
 -  https://github.com/martona/mhook
 -  https://github.com/Microsoft/Detours
