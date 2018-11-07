@@ -108,6 +108,14 @@
 -  https://github.com/G-E-N-E-S-I-S/latebros
 -  https://bbs.pediy.com/thread-214582.htm
 
+## hook engine
+
+-  https://github.com/TsudaKageyu/minhook
+-  https://github.com/martona/mhook
+-  https://github.com/Microsoft/Detours
+-  https://github.com/EasyHook/EasyHook
+-  https://github.com/Microwave89/ntapihook
+
 ## anti hook
 
 -  https://github.com/nickcano/ReloadLibrary
