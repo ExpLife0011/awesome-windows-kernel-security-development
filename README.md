@@ -692,6 +692,7 @@
 
 ## cve
 
+-  https://github.com/LyleMi/dom-vuln-db
 -  https://github.com/renorobert/virtualbox-cve-2018-2844
 -  https://github.com/LiuCan01/cve-list-pro
 -  https://github.com/CVEProject/cvelist
