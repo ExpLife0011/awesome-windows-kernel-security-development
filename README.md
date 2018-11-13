@@ -1321,6 +1321,7 @@
 
 ## miscellaneous
 
+-  https://github.com/wjcsharp/wintools
 -  https://github.com/nmgwddj/HttpSourceViewer
 -  https://github.com/nmgwddj/nvapi-example (Digital Vibrance Controls)
 -  https://github.com/n1nj4sec/memorpy
