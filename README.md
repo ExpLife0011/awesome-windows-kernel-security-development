@@ -17,6 +17,7 @@
 
 ## windows system programming
 
+-  https://github.com/mullvad/windows-libraries
 -  https://github.com/wjcsharp/wintools
 -  https://github.com/nmgwddj/logs-monitor
 -  https://github.com/nmgwddj/TaskbarTool
@@ -325,8 +326,9 @@
 
 -  https://github.com/avalon1610/ALPC
 
-## lsp
+## lsp/spi
 
+-  https://github.com/TinkerBravo/SPIRemove
 -  https://github.com/AnwarMohamed/Packetyzer
 
 ## afd
@@ -348,6 +350,7 @@
 
 ## wfp
 
+-  https://github.com/TinkerBravo/WFPKit
 -  https://github.com/Arno0x/DivertTCPconn
 -  https://github.com/mullvad/libwfp
 -  https://github.com/gifur/NetworkMnt
