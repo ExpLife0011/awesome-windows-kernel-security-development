@@ -123,6 +123,7 @@
 -  https://github.com/WopsS/RenHook
 -  https://github.com/chinatiny/InlineHookLib (R3 & R0)
 -  https://github.com/tongzeyu/HookSysenter
+-  https://github.com/idkwim/frookSINATRA  (x64 sysenter hook)
 -  https://github.com/VideoCardGuy/HideProcessInTaskmgr
 -  https://github.com/MalwareTech/FstHook
 -  https://github.com/Menooker/FishHook
@@ -946,6 +947,7 @@
 
 ## windbg plugin
 
+- https://github.com/panoramixor/GDIObjDump
 - https://codeday.me/bug/20171003/80216.html
 - http://virtualkd.sysprogs.org/
 - https://github.com/VincentSe/WatchTrees
