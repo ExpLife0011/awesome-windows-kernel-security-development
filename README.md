@@ -26,6 +26,7 @@
 
 ## windows kernel driver
 
+-  https://github.com/Sqdwr/WriteFile_IRP
 -  https://github.com/nmgwddj/learn-windows-drivers
 -  https://github.com/mq1n/EasyRing0
 
@@ -665,6 +666,7 @@
 
 ## LPE
 
+-  https://github.com/khr0x40sh/WhiteListEvasion
 -  https://github.com/ohpe/juicy-potato
 -  https://github.com/nmulasmajic/syscall_exploit_CVE-2018-8897
 -  https://github.com/codewhitesec/UnmarshalPwn
@@ -739,6 +741,7 @@
 
 ## vt
 
+-  https://github.com/xdel/bluepillstudy
 -  https://github.com/SinaKarvandi/Hypervisor-From-Scratch
 -  https://github.com/wbenny/hvpp
 -  https://github.com/Sqdwr/Multi_CPU_VtBase
@@ -805,6 +808,7 @@
 
 ## game hack
 
+-  https://github.com/GameHackingBook/GameHackingCode
 -  https://github.com/danielkrupinski/Osiris (Counter-Strike)
 -  https://github.com/moccajoghurt/MemWars
 -  https://github.com/dsasmblr/hacking-online-games
