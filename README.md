@@ -525,6 +525,7 @@
 
 ## arktools
 
+-  https://github.com/hedgeh/SEWindows (doc:hedgeh.github.io/startup.html)
 -  https://github.com/glmcdona/MALM
 -  https://github.com/ahmad-siavashi/Ana-Process-Explorer
 -  https://github.com/alex9191/KernelModeMonitor
