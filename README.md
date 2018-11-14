@@ -131,6 +131,7 @@
 
 ## hook engine
 
+-  https://github.com/Synestraa/ArchUltimate.HookLib
 -  https://github.com/stevemk14ebr/PolyHook
 -  https://github.com/TsudaKageyu/minhook
 -  https://github.com/martona/mhook
@@ -401,6 +402,7 @@
 
 ## rootkits
 
+-  https://github.com/Synestraa/Highcall-Library (Highcall)
 -  https://github.com/Microwave89/drvtricks
 -  https://github.com/Psychotropos/xhunter1_privesc (XIGNCODE3)
 -  https://github.com/ionescu007/r0ak (RWE)
