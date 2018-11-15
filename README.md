@@ -1566,6 +1566,7 @@
 
 ## paper
 
+-  https://translation-zh-cn.readthedocs.io/zh_CN/
 -  https://speakerdeck.com
 
 ## ebook
