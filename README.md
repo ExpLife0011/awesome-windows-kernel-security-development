@@ -1422,6 +1422,7 @@
 
 ## blogs
 
+-  https://secrary.com/RandomPosts
 -  http://www.mycode.net.cn/
 -  http://split-code.com
 -  http://eternalsakura13.com
