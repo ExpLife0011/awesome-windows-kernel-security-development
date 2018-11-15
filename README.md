@@ -785,6 +785,7 @@
 
 ## fuzzer
 
+-  https://github.com/sogeti-esec-lab/RPCForge
 -  https://github.com/RootUp/BFuzz
 -  https://github.com/necst/crave
 -  https://github.com/IOActive/FuzzNDIS
@@ -1092,6 +1093,7 @@
 
 ## pykd
 
+-  https://github.com/sogeti-esec-lab/LKD
 -  https://www.anquanke.com/post/id/86909
 -  https://www.anquanke.com/post/id/86896
 -  https://www.anquanke.com/post/id/83205
