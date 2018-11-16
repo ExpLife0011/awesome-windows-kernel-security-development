@@ -516,6 +516,7 @@
 
 ## malware analysis
 
+-  https://github.com/MalwareCantFly/Vba2Graph
 -  https://github.com/unexpectedBy/Automated-Malware-Analysis-List
 -  https://github.com/wchen-r7/amsiscanner (Microsoft's Antimalware Scan Interface)
 -  https://github.com/ctxis/capemon
@@ -959,6 +960,7 @@
 
 ## ida script & plugin
 
+-  https://github.com/ecx86/classinformer-ida7
 -  https://github.com/IOActive/kmdf_re
 -  https://github.com/a1ext/labeless 
 -  https://github.com/kkHAIKE/tinyidb
