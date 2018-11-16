@@ -514,6 +514,10 @@
 -  https://github.com/xmrig/xmrig
 -  https://github.com/TolgaSEZER/EternalPulse 
 
+## shellcode analysis
+
+-  https://github.com/OALabs/BlobRunner
+
 ## malware analysis
 
 -  https://github.com/MalwareCantFly/Vba2Graph
