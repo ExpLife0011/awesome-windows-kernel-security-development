@@ -1576,6 +1576,7 @@
 
 ## paper
 
+-  https://github.com/tyranid/WindowsRuntimeSecurityDemos
 -  https://translation-zh-cn.readthedocs.io/zh_CN/
 -  https://speakerdeck.com
 
