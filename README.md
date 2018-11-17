@@ -135,11 +135,15 @@
 ## hook engine
 
 -  https://github.com/Synestraa/ArchUltimate.HookLib
+-  https://github.com/DominicTobias/detourxs
+-  https://github.com/Ilyatk/HookEngine
+-  https://github.com/zyantific/zyan-hook-engine
+-  https://github.com/martona/mhook
+-  https://github.com/EasyHook/EasyHook
+-  https://github.com/RelicOfTesla/Detours
 -  https://github.com/stevemk14ebr/PolyHook
 -  https://github.com/TsudaKageyu/minhook
--  https://github.com/martona/mhook
 -  https://github.com/Microsoft/Detours
--  https://github.com/EasyHook/EasyHook
 -  https://github.com/Microwave89/ntapihook
 
 ## anti hook
@@ -263,16 +267,6 @@
 -  https://github.com/9176324/KernelMemoryModule (Enable Exception)
 -  https://github.com/not-wlan/driver-hijack
 -  https://github.com/Professor-plum/Reflective-Driver-Loader
-
-## hook engine
-
--  https://github.com/Synestraa/ArchUltimate.HookLib
--  https://github.com/DominicTobias/detourxs
--  https://github.com/Ilyatk/HookEngine
--  https://github.com/zyantific/zyan-hook-engine
--  https://github.com/martona/mhook
--  https://github.com/EasyHook/EasyHook
--  https://github.com/RelicOfTesla/Detours
 
 ## bypass memory scanner
 
