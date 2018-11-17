@@ -1219,6 +1219,7 @@
 
 ## awesome
 
+-  https://github.com/phith0n/Mind-Map
 -  https://github.com/CHYbeta/Software-Security-Learning
 -  https://github.com/0x4D31/awesome-threat-detection
 -  https://github.com/Escapingbug/awesome-browser-exploit
