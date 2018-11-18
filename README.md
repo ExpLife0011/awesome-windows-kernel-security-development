@@ -17,6 +17,10 @@
 
 ## windows system programming
 
+-  https://github.com/NoMoreFood/putty-cac
+-  https://github.com/NoMoreFood/Repacls
+-  https://github.com/NoMoreFood/WinPriv
+-  https://github.com/NoMoreFood/Crypture
 -  https://github.com/Microsoft/winfile
 -  https://github.com/mullvad/windows-libraries
 -  https://github.com/wjcsharp/wintools
