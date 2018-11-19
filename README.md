@@ -1592,6 +1592,13 @@
 -  https://github.com/l3m0n/pentest_tools
 -  https://github.com/l3m0n/linux_information
 
+## pac
+
+-  http://www.devnotes.in/2014/11/08/auto-proxy-settings-with-PAC.html
+-  http://www.lybbn.cn/data/datas.php?yw=76
+-  https://blog.huzhifeng.com/2017/07/16/PAC/
+-  https://github.com/manugarg/pacparser
+
 ## library
 
 -  https://www.ctolib.com/
