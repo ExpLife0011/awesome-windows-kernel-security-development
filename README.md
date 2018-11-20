@@ -315,6 +315,7 @@
 
 ## virtual file system
 
+-  https://github.com/ufrisk/MemProcFS (The Memory Process File System)
 -  https://github.com/TanninOne/usvfs
 -  https://github.com/ExpLife/CodeUMVFS
 -  https://github.com/yogendersolanki91/ProcessFileSystem
