@@ -156,6 +156,8 @@
 
 ## inject technique
 
+-  https://github.com/BorjaMerino/tlsInjector (tls)
+-  https://github.com/BorjaMerino/Pazuzu (InjectFromMemory)
 -  https://github.com/strobejb/injdll
 -  https://github.com/alex9191/Kernel-dll-injector (DllInjectFromKernel)
 -  https://github.com/strivexjun/DriverInjectDll (MapInjectDll)
@@ -489,6 +491,8 @@
 
 ## malware
 
+-  https://github.com/malwaredllc/bamf
+-  https://github.com/malwaredllc/byob (py)
 -  https://github.com/fereh/tacekit
 -  https://github.com/eset/malware-ioc
 -  https://github.com/lianglixin/RemoteControl-X3
