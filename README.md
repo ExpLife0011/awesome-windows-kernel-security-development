@@ -1487,6 +1487,7 @@
 
 ## web security research site
 
+-  http://malware-traffic-analysis.net
 -  https://malwaretips.com/
 -  https://www.sec-wiki.com
 -  https://www.anquanke.com/
