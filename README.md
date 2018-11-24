@@ -17,6 +17,7 @@
 
 ## windows system programming
 
+-  https://github.com/notscimmy/YASS (sig scanner)
 -  https://github.com/942860759/BrowserHistory
 -  https://github.com/NoMoreFood/putty-cac
 -  https://github.com/NoMoreFood/Repacls
@@ -71,6 +72,7 @@
 
 ## dkom
 
+-  https://github.com/notscimmy/pplib
 -  https://blog.csdn.net/zhuhuibeishadiao/article/details/51136650 (get process full path name)
 -  https://bbs.pediy.com/thread-96427.htm (modify process image name)
 -  https://github.com/ZhuHuiBeiShaDiao/PathModification
@@ -157,6 +159,7 @@
 
 ## inject technique
 
+-  https://github.com/notscimmy/libinject
 -  https://github.com/BorjaMerino/tlsInjector (tls)
 -  https://github.com/BorjaMerino/Pazuzu (InjectFromMemory)
 -  https://github.com/strobejb/injdll
@@ -281,6 +284,7 @@
 
 ## callback
 
+-  https://github.com/notscimmy/libelevate
 -  https://github.com/ZhuHuiBeiShaDiao/ObRegisterCallBacksByPass
 -  https://github.com/Sqdwr/RemoveCallBacks
 -  https://github.com/JKornev/hidden
