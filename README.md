@@ -743,6 +743,7 @@
 
 ## hips
 
+-  https://malwaretips.com/threads/av-self-protection-process-c-c.66200/
 -  https://github.com/zareprj/JAV-AV-Engine
 -  https://github.com/0xdabbad00/OpenHIPS
 -  https://github.com/ExpLife/Norton_AntiVirus_SourceCode
