@@ -1485,6 +1485,10 @@
 -  http://gosecure.net/2018/01/10/vmware-horizon-v4h-v4pa-desktop-agent-privilege-escalation-vulnerability-cve-2017-4946/
 -  http://www.msreverseengineering.com/blog/2018/1/23/a-walk-through-tutorial-with-code-on-statically-unpacking-the-finspy-vm-part-one-x86-deobfuscation
 
+## sec tools
+
+-  https://securityxploded.com
+
 ## web security research site
 
 -  http://malware-traffic-analysis.net
