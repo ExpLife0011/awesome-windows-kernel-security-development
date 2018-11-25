@@ -1355,6 +1355,8 @@
 
 ## miscellaneous
 
+-  https://github.com/piaoyunsoft/WebRedemption
+-  https://github.com/sudoconf/http_encode
 -  https://github.com/wjcsharp/wintools
 -  https://github.com/nmgwddj/HttpSourceViewer
 -  https://github.com/nmgwddj/nvapi-example (Digital Vibrance Controls)
