@@ -17,6 +17,8 @@
 
 ## windows system programming
 
+-  https://github.com/OSRDrivers/dirchange
+-  https://github.com/OSRDrivers/deleteex (FileDispositionInfoEx)
 -  https://github.com/notscimmy/YASS (sig scanner)
 -  https://github.com/942860759/BrowserHistory
 -  https://github.com/NoMoreFood/putty-cac
@@ -227,6 +229,10 @@
 
 -  https://github.com/1ce0ear/DllLoaderUnpacker
 
+## dll hijack
+
+-  https://github.com/zeffy/proxydll_template
+
 ## anti dll hijack
 
 -  https://github.com/fortiguard-lion/anti-dll-hijacking
@@ -284,6 +290,12 @@
 
 ## callback
 
+-  https://github.com/OSRDrivers/kmexts (callbacks)
+-  https://github.com/godaddy/procfilter (yara-integrated)
+-  https://github.com/McSimp/unfairplay
+-  https://github.com/jjdredd/procsentinel (verify the address space of a process)
+-  https://github.com/SanseoLab/simpleAVdriver
+-  https://github.com/SanseoLab/ProcLogger
 -  https://github.com/notscimmy/libelevate
 -  https://github.com/ZhuHuiBeiShaDiao/ObRegisterCallBacksByPass
 -  https://github.com/Sqdwr/RemoveCallBacks
@@ -743,6 +755,8 @@
 
 ## hips
 
+-  https://github.com/godaddy/procfilter
+-  https://github.com/BrunoMCBraga/Kernel-Whisperer
 -  https://malwaretips.com/threads/av-self-protection-process-c-c.66200/
 -  https://github.com/zareprj/JAV-AV-Engine
 -  https://github.com/0xdabbad00/OpenHIPS
@@ -966,6 +980,8 @@
 
 ## windbg plugin
 
+- https://github.com/OSRDrivers/penter
+- https://github.com/OSRDrivers/windbg-exts
 - https://github.com/panoramixor/GDIObjDump
 - https://codeday.me/bug/20171003/80216.html
 - http://virtualkd.sysprogs.org/
