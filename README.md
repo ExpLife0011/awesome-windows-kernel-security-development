@@ -816,6 +816,7 @@
 
 ## fuzzer
 
+-  https://github.com/lcatro/How-to-Read-Source-and-Fuzzing (learn fuzzer)
 -  https://github.com/sogeti-esec-lab/RPCForge
 -  https://github.com/RootUp/BFuzz
 -  https://github.com/necst/crave
