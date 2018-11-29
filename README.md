@@ -307,6 +307,7 @@
 
 ## minifilter
 
+-  https://github.com/yedushusheng/FileEncryption
 -  https://github.com/JokerMars/engine
 -  https://github.com/icedxu/Monitor
 -  https://github.com/smartinm/diskcryptor (disk encrypt)
