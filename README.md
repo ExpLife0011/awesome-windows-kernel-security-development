@@ -307,6 +307,7 @@
 
 ## minifilter
 
+-  https://github.com/MUmesha/SecureFile
 -  https://github.com/anystayisjk/WordEncrypt
 -  https://github.com/anystayisjk/EncryptEngine
 -  https://github.com/yedushusheng/FileEncryption
