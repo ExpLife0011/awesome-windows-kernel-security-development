@@ -855,6 +855,7 @@
 
 ## game hack
 
+-  https://github.com/DragonQuestHero/PUBG-PAK-Hacker (BattlEye)
 -  https://github.com/GameHackingBook/GameHackingCode
 -  https://github.com/danielkrupinski/Osiris (Counter-Strike)
 -  https://github.com/moccajoghurt/MemWars
