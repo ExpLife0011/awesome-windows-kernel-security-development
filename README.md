@@ -307,6 +307,12 @@
 
 ## minifilter
 
+-  https://github.com/aviadyifrah/NAGuard
+-  https://github.com/y0n0622/DriversCode
+-  https://github.com/NotSurprised/MiniLogger
+-  https://github.com/hidd3ncod3s/hipara
+-  https://github.com/NtRaiseHardError/Providence
+-  https://github.com/maaaaz/mimicertz
 -  https://github.com/MUmesha/SecureFile
 -  https://github.com/anystayisjk/WordEncrypt
 -  https://github.com/anystayisjk/EncryptEngine
@@ -333,6 +339,12 @@
 -  https://github.com/tandasat/Scavenger
 -  https://github.com/fishfly/X70FSD
 -  https://github.com/ExpLife/BKAV.Filter
+
+## anti Ransomware
+
+-  https://github.com/clavis0x/AntiRansomware
+-  https://github.com/DecryptoniteTeam/Decryptonite
+-  https://github.com/ofercas/ransomware_begone
 
 ## virtual disk
 
