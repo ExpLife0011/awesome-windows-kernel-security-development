@@ -24,6 +24,9 @@
 
 ## windows system programming
 
+-  https://github.com/intel/safestringlib
+-  https://github.com/eyusoft/asutlity
+-  https://github.com/ThomasThelen/BrowserLib
 -  https://github.com/OSRDrivers/dirchange
 -  https://github.com/OSRDrivers/deleteex (FileDispositionInfoEx)
 -  https://github.com/notscimmy/YASS (sig scanner)
@@ -1401,6 +1404,7 @@
 
 ## miscellaneous
 
+-  https://github.com/MeeSong/Windows_OS_Internals_Curriculum_Resource_Kit-ACADEMIC
 -  https://github.com/piaoyunsoft/WebRedemption
 -  https://github.com/sudoconf/http_encode
 -  https://github.com/wjcsharp/wintools
