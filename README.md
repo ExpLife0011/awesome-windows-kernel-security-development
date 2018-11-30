@@ -15,6 +15,7 @@
     
 ## direct ui
 
+-  https://github.com/zhongyang219/MusicPlayer2
 -  https://github.com/nmgwddj/duilib_tutorial
 -  https://github.com/redrains/DuiLib_Redrain
 -  https://github.com/nmgwddj/InstallAssist
@@ -24,7 +25,10 @@
 
 ## windows system programming
 
--  https://github.com/codereba/data_scrambler
+-  https://github.com/wanttobeno/SunDaySearchSignCode (fast search memory)
+-  https://github.com/zhongyang219/SimpleNotePad
+-  https://github.com/zhongyang219/TrafficMonitor
+-  https://github.com/codereba/data_scrambler (scrambler)
 -  https://github.com/3gstudent/Catch-specified-file-s-handle (enum file handle)
 -  https://github.com/intel/safestringlib
 -  https://github.com/eyusoft/asutlity
