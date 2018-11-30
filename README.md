@@ -6,6 +6,13 @@
 
 :heart:
     
+## meltdown/spectre poc
+
+-  https://github.com/turbo/KPTI-PoC-Collection
+-  https://github.com/gkaindl/meltdown-poc
+-  https://github.com/feruxmax/meltdown
+-  https://github.com/Eugnis/spectre-attack
+    
 ## direct ui
 
 -  https://github.com/nmgwddj/duilib_tutorial
@@ -289,6 +296,10 @@
 ## bypass memory scanner
 
 -  https://github.com/Microwave89/rtsectiontest
+
+## KeUserModeCallBack
+
+-  https://github.com/Sqdwr/KeUserModeCallBack
 
 ## callback
 
