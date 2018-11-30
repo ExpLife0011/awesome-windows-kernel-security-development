@@ -549,6 +549,7 @@
 
 ## malware
 
+-  https://github.com/zerosum0x0/koadic (JScript RAT)
 -  https://github.com/malwaredllc/bamf
 -  https://github.com/malwaredllc/byob (py)
 -  https://github.com/fereh/tacekit
