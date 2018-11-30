@@ -457,6 +457,7 @@
 
 ## wsk
 
+-  https://github.com/xalley/WskHttp
 -  https://github.com/reinhardvz/wsk
 -  https://github.com/akayn/kbMon
 -  https://github.com/02strich/audionet
