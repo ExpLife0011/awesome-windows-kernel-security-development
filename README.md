@@ -231,6 +231,8 @@
 
 ## dll hijack
 
+-  https://github.com/anhkgg/SuperDllHijack
+-  https://github.com/strivexjun/AheadLib-x86-x64
 -  https://github.com/zeffy/proxydll_template
 
 ## anti dll hijack
@@ -1199,10 +1201,6 @@
 -  https://ntdiff.github.io
 -  https://github.com/ntdiff/headers
 -  https://github.com/Chuyu-Team/NativeLib
-
-## dll hijack
-
--  https://github.com/strivexjun/AheadLib-x86-x64
 
 ## winpcap
 
