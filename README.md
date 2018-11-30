@@ -116,7 +116,7 @@
 ## inline hook
 
 -  https://github.com/gfreivasc/VMTHook
--  https://github.com/zhipeng515/MemberFunctionHook （成员函数HOOK）
+-  https://github.com/zhipeng515/MemberFunctionHook （member function hook）
 -  https://github.com/windy32/win32-console-hook-lib
 -  https://github.com/M0rtale/Universal-WndProc-Hook
 -  https://github.com/a7031x/HookApi
