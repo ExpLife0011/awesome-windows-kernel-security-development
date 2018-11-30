@@ -464,6 +464,7 @@
 
 ## rootkits
 
+-  https://github.com/zerosum0x0/puppetstrings
 -  https://github.com/Synestraa/Highcall-Library (Highcall)
 -  https://github.com/Microwave89/drvtricks
 -  https://github.com/Psychotropos/xhunter1_privesc (XIGNCODE3)
