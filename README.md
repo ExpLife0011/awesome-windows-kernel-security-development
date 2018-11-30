@@ -91,6 +91,7 @@
 
 ## dkom
 
+-  https://github.com/waryas/EUPMAccess
 -  https://github.com/notscimmy/pplib
 -  https://blog.csdn.net/zhuhuibeishadiao/article/details/51136650 (get process full path name)
 -  https://bbs.pediy.com/thread-96427.htm (modify process image name)
