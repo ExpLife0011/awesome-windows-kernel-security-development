@@ -24,6 +24,7 @@
 
 ## windows system programming
 
+-  https://github.com/lantaoxu/data_scrambler
 -  https://github.com/3gstudent/Catch-specified-file-s-handle (enum file handle)
 -  https://github.com/intel/safestringlib
 -  https://github.com/eyusoft/asutlity
