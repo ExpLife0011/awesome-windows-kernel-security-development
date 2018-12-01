@@ -162,6 +162,7 @@
 
 ## hook engine
 
+-  https://github.com/coltonon/RegHookEx
 -  https://github.com/Synestraa/ArchUltimate.HookLib
 -  https://github.com/DominicTobias/detourxs
 -  https://github.com/Ilyatk/HookEngine
