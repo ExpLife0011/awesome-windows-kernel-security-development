@@ -792,6 +792,7 @@
 
 ## anti exploit
 
+-  https://github.com/shjalayeri/MCEDP
 -  https://github.com/Empier/Anti-Exploit
 
 ## cve
