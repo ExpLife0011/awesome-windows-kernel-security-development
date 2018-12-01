@@ -25,6 +25,7 @@
 
 ## windows system programming
 
+-  https://github.com/xqymain/ServerLocker
 -  https://github.com/wanttobeno/SunDaySearchSignCode (fast search memory)
 -  https://github.com/zhongyang219/SimpleNotePad
 -  https://github.com/zhongyang219/TrafficMonitor
@@ -333,6 +334,7 @@
 
 ## minifilter
 
+-  https://github.com/cn505240/lightweight-reactive-snapshot-service
 -  https://github.com/aviadyifrah/NAGuard
 -  https://github.com/y0n0622/DriversCode
 -  https://github.com/NotSurprised/MiniLogger
@@ -944,6 +946,7 @@
 
 ## anti cheat
 
+-  https://github.com/Mouka-Yang/AntiCheatProtector
 -  https://github.com/mq1n/NoMercy
 -  https://github.com/SagaanTheEpic/Sagaan-AntiCheat-V2.0
 -  https://github.com/SagaanTheEpic/SAC-Sagaan-AntiCheat-Module-
