@@ -1696,6 +1696,7 @@
 
 -  https://beautifier.io/
 -  https://tool.lu/js/
+-  https://www.52pojie.cn/thread-128803-1-1.html
 -  http://www.kahusecurity.com/2011/javascript-deobfuscation-tools-part-1/
 -  http://www.kahusecurity.com/2011/javascript-deobfucation-tools-part-2/
 -  http://deobfuscatejavascript.com/
