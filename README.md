@@ -1692,6 +1692,15 @@
 -  https://blog.huzhifeng.com/2017/07/16/PAC/
 -  https://github.com/manugarg/pacparser
 
+## js obfuscator/deobfuscator
+
+-  https://beautifier.io/
+-  https://tool.lu/js/
+-  http://www.kahusecurity.com/2011/javascript-deobfuscation-tools-part-1/
+-  http://www.kahusecurity.com/2011/javascript-deobfucation-tools-part-2/
+-  http://deobfuscatejavascript.com/
+-  http://js.pnote.net/#/js
+
 ## library
 
 -  https://www.ctolib.com/
