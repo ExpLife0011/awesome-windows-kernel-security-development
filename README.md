@@ -1512,6 +1512,7 @@
 
 ## blogs
 
+-  https://ktkitty.github.io/ (vul)
 -  https://secrary.com/RandomPosts
 -  http://www.mycode.net.cn/
 -  http://split-code.com
