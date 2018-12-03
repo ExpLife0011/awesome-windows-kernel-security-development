@@ -25,6 +25,7 @@
 
 ## windows system programming
 
+-  https://github.com/SergioCalderonR/DelSvc
 -  https://github.com/wyrover/win-privileges-examples (DACL)
 -  https://github.com/nccgroup/WindowsDACLEnumProject (DACL)
 -  https://github.com/xqymain/ServerLocker
