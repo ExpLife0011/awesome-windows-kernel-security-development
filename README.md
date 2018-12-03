@@ -1702,6 +1702,10 @@
 -  http://deobfuscatejavascript.com/
 -  http://js.pnote.net/#/js
 
+## encryption/decryption tools
+
+-  https://www.devglan.com
+
 ## library
 
 -  https://www.ctolib.com/
