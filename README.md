@@ -25,6 +25,8 @@
 
 ## windows system programming
 
+-  https://github.com/Biswa96/PDBDownloader
+-  https://github.com/Biswa96/TraceEvent
 -  https://github.com/hfiref0x/Misc
 -  https://github.com/SergioCalderonR/DelSvc
 -  https://github.com/wyrover/win-privileges-examples (DACL)
@@ -54,6 +56,14 @@
 -  https://github.com/nmgwddj/DevCon
 -  https://github.com/nmgwddj/SystemProcessInfo
 -  https://github.com/nmgwddj/ServiceMgr
+
+## wsl/unix
+
+-  https://github.com/Biswa96/WSLInstall
+-  https://github.com/Biswa96/WslReverse
+-  https://github.com/Biswa96/XConPty
+-  https://github.com/mintty/wsltty.appx
+-  
 
 ## windows kernel driver
 
