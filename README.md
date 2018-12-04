@@ -1058,6 +1058,7 @@
 
 ## ida script & plugin
 
+-  https://github.com/ax330d/functions-plus
 -  https://github.com/ecx86/classinformer-ida7
 -  https://github.com/IOActive/kmdf_re
 -  https://github.com/a1ext/labeless 
