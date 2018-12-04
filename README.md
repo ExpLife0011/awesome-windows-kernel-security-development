@@ -25,6 +25,7 @@
 
 ## windows system programming
 
+-  https://github.com/ax330d/Symex
 -  https://github.com/Biswa96/PDBDownloader
 -  https://github.com/Biswa96/TraceEvent
 -  https://github.com/hfiref0x/Misc
@@ -1058,6 +1059,8 @@
 
 ## ida script & plugin
 
+-  https://github.com/ax330d/hrdev
+-  https://github.com/ax330d/ida_pdb_loader
 -  https://github.com/ax330d/functions-plus
 -  https://github.com/ecx86/classinformer-ida7
 -  https://github.com/IOActive/kmdf_re
