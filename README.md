@@ -195,15 +195,19 @@
 
 -  https://github.com/nickcano/ReloadLibrary
 
-## inject technique
+## inject technique (ring0)
 
+-  https://github.com/GoodstudyChina/APC-injection-x86-x64 (InjectFromKernel)
+-  https://github.com/alex9191/Kernel-dll-injector (DllInjectFromKernel)
+-  https://github.com/wbenny/keinject (ApcInjectFromKernel)
+
+
+## inject technique (ring3)
 -  https://github.com/notscimmy/libinject
 -  https://github.com/BorjaMerino/tlsInjector (tls)
 -  https://github.com/BorjaMerino/Pazuzu (InjectFromMemory)
 -  https://github.com/strobejb/injdll
--  https://github.com/alex9191/Kernel-dll-injector (DllInjectFromKernel)
 -  https://github.com/strivexjun/DriverInjectDll (MapInjectDll)
--  https://github.com/wbenny/keinject (ApcInjectFromKernel)
 -  https://github.com/sud0loo/ProcessInjection
 -  https://github.com/apriorit/SvcHostDemo
 -  https://github.com/can1357/ThePerfectInjector
@@ -346,6 +350,10 @@
 -  https://github.com/swwwolf/cbtest
 -  https://github.com/nmgwddj/Learn-Windows-Drivers
 -  https://github.com/SamLarenN/CallbackDisabler
+
+## usb filter
+
+-  https://github.com/GoodstudyChina/USBlocker
 
 ## minifilter
 
@@ -916,6 +924,7 @@
 
 ## game hack
 
+-  https://github.com/GoodstudyChina/CSGO-Cheat
 -  https://github.com/Nixer1337/Nixware-GMOD
 -  https://github.com/DragonQuestHero/PUBG-PAK-Hacker (BattlEye)
 -  https://github.com/GameHackingBook/GameHackingCode
