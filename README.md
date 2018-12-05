@@ -197,10 +197,8 @@
 
 ## inject technique (ring0)
 
--  https://github.com/GoodstudyChina/APC-injection-x86-x64 (InjectFromKernel)
 -  https://github.com/alex9191/Kernel-dll-injector (DllInjectFromKernel)
 -  https://github.com/wbenny/keinject (ApcInjectFromKernel)
-
 
 ## inject technique (ring3)
 -  https://github.com/notscimmy/libinject
