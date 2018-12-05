@@ -1630,6 +1630,7 @@
 
 ## openssl
 
+-  https://github.com/square/certstrap (go)
 -  https://github.com/hioa-cs/IncludeOS/blob/fd92a5394b493b5b645b2123966d38c1576df250/src/net/https/openssl_server.cpp#L72
 -  https://github.com/robertblackwell/marvincpp
 -  https://github.com/equalitie/ouinet
@@ -1702,7 +1703,7 @@
 -  https://github.com/l3m0n/pentest_tools
 -  https://github.com/l3m0n/linux_information
 
-## pac
+## wpad/pac
 
 -  http://www.devnotes.in/2014/11/08/auto-proxy-settings-with-PAC.html
 -  http://www.lybbn.cn/data/datas.php?yw=76
