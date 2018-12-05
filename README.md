@@ -25,6 +25,7 @@
 
 ## windows system programming
 
+-  https://github.com/PBfordev/wxAutoExcel
 -  https://github.com/ax330d/Symex
 -  https://github.com/Biswa96/PDBDownloader
 -  https://github.com/Biswa96/TraceEvent
@@ -882,6 +883,7 @@
 
 ## fuzzer
 
+-  https://github.com/CERTCC/dranzer (activex/com)
 -  https://github.com/lcatro/How-to-Read-Source-and-Fuzzing (learn fuzzer)
 -  https://github.com/sogeti-esec-lab/RPCForge
 -  https://github.com/RootUp/BFuzz
@@ -914,6 +916,7 @@
 
 ## game hack
 
+-  https://github.com/Nixer1337/Nixware-GMOD
 -  https://github.com/DragonQuestHero/PUBG-PAK-Hacker (BattlEye)
 -  https://github.com/GameHackingBook/GameHackingCode
 -  https://github.com/danielkrupinski/Osiris (Counter-Strike)
@@ -1405,6 +1408,7 @@
 
 ## 3rd party library
 
+-  https://github.com/asmjit/asmjit (jit)
 -  https://github.com/acl-dev/acl
 -  https://github.com/kingsamchen/WinAntHttp
 -  https://github.com/kingsamchen/KAdBlockEngine
