@@ -324,7 +324,7 @@
 ## load driver from memory
 
 -  https://github.com/ZhuHuiBeiShaDiao/DriverMaper
--  https://github.com/9176324/KernelMemoryModule (Enable Exception)
+-  https://github.com/fadetrack/KernelMemoryModule (Enable Exception)
 -  https://github.com/not-wlan/driver-hijack
 -  https://github.com/Professor-plum/Reflective-Driver-Loader
 
