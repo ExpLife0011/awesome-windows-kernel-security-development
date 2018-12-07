@@ -202,6 +202,8 @@
 -  https://github.com/wbenny/keinject (ApcInjectFromKernel)
 
 ## inject technique (ring3)
+
+-  https://github.com/UserExistsError/InjectDll  (InjectFromMemory)  
 -  https://github.com/notscimmy/libinject
 -  https://github.com/BorjaMerino/tlsInjector (tls)
 -  https://github.com/BorjaMerino/Pazuzu (InjectFromMemory)
@@ -260,6 +262,7 @@
 
 ## load Dll from memory
 
+-  https://github.com/UserExistsError/DllLoaderShellcode
 -  https://github.com/jnastarot/native_peloader
 -  https://github.com/fancycode/MemoryModule
 -  https://github.com/strivexjun/MemoryModulePP
