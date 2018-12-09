@@ -25,6 +25,7 @@
 
 ## windows system programming
 
+-  https://github.com/nkga/self-updater (framework for secure self-update)
 -  https://github.com/liamkirton/sslcat (nc with ssl)
 -  https://github.com/Seineruo/RSA-Tool
 -  https://github.com/PBfordev/wxAutoExcel
