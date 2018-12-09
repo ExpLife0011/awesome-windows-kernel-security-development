@@ -206,6 +206,7 @@
 
 ## inject technique (ring3)
 
+-  https://github.com/ez8-co/yapi (Yet Another Process Injector)
 -  https://github.com/UserExistsError/InjectDll  (InjectFromMemory)  
 -  https://github.com/notscimmy/libinject
 -  https://github.com/BorjaMerino/tlsInjector (tls)
@@ -1351,7 +1352,12 @@
 
 ## json
 
+-  https://github.com/ez8-co/xpjson
 -  https://github.com/marcusbotacin/MyJSON
+
+## serialization
+
+-  https://github.com/ez8-co/es11n
 
 ## awesome
 
@@ -1443,6 +1449,10 @@
 
 ## 3rd party library
 
+-  https://github.com/ez8-co/ezpp
+-  https://github.com/ez8-co/emock
+-  https://github.com/ez8-co/atomic
+-  https://github.com/ez8-co/linked_hash
 -  https://github.com/asmjit/asmjit (jit)
 -  https://github.com/acl-dev/acl
 -  https://github.com/kingsamchen/WinAntHttp
