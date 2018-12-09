@@ -941,6 +941,7 @@
 
 ## game hack
 
+-  https://github.com/fenix01/cheatengine-library  (cheatengine library wrapper)
 -  https://github.com/GoodstudyChina/CSGO-Cheat
 -  https://github.com/Nixer1337/Nixware-GMOD
 -  https://github.com/DragonQuestHero/PUBG-PAK-Hacker (BattlEye)
