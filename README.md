@@ -25,6 +25,7 @@
 
 ## windows system programming
 
+-  https://github.com/717021/PCMgr (task manager)
 -  https://github.com/silverf0x/RpcView (rpc)
 -  https://github.com/ez8-co/unlocker ()
 -  https://github.com/nkga/self-updater (framework for secure self-update)
