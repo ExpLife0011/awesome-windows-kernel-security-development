@@ -1492,6 +1492,7 @@
 
 ## miscellaneous
 
+-  https://www.unknowncheats.me/forum/c-and-c-/179852-ring0-random-string-generator-kernel-driver.html
 -  https://github.com/gztss/SerialTool (serial debug tool)
 -  https://github.com/platomav/CPUMicrocodes
 -  https://github.com/DavexPro/PocHunter
