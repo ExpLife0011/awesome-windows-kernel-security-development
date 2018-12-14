@@ -73,6 +73,10 @@
 -  https://github.com/Biswa96/XConPty
 -  https://github.com/mintty/wsltty.appx
 
+## irp monitor
+
+-  https://github.com/MartinDrab/IRPMon
+
 ## windows kernel driver
 
 -  https://github.com/tdevuser/MalwFinder
