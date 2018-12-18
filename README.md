@@ -925,6 +925,7 @@
 
 ## fuzzer
 
+-  https://github.com/hfiref0x/ROCALL
 -  https://github.com/bin2415/fuzzing_paper
 -  https://github.com/CERTCC/dranzer (activex/com)
 -  https://github.com/lcatro/How-to-Read-Source-and-Fuzzing (learn fuzzer)
