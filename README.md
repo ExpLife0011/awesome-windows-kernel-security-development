@@ -13,6 +13,12 @@
 -  https://github.com/feruxmax/meltdown
 -  https://github.com/Eugnis/spectre-attack
     
+## lightweight c++ gui library 
+
+-  https://github.com/hasaranga/RFC-Framework
+-  https://github.com/dustpg/LongUI    
+-  https://github.com/bognikol/Eleusis    
+    
 ## direct ui
 
 -  https://github.com/wanttobeno/bkuilib
