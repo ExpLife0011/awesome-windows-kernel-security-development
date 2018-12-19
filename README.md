@@ -23,6 +23,7 @@
     
 ## direct ui
 
+-  https://github.com/v-star0719/MFC_LogicalWnd
 -  https://github.com/duzhi5368/FKDuiLibEditor
 -  https://github.com/wanttobeno/bkuilib
 -  https://github.com/wanttobeno/XSkin1.0
