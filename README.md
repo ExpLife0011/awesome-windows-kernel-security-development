@@ -15,6 +15,13 @@
     
 ## direct ui
 
+-  https://github.com/wanttobeno/bkuilib
+-  https://github.com/wanttobeno/XSkin1.0
+-  https://github.com/idea4good/GuiLite
+-  https://github.com/redrains/DuiLib_Redrain
+-  https://github.com/wanttobeno/UIDesigner
+-  https://github.com/zhongyang219/TrafficMonitor
+-  https://github.com/wanttobeno/Duilib_Extension
 -  https://github.com/zhongyang219/MusicPlayer2
 -  https://github.com/nmgwddj/duilib_tutorial
 -  https://github.com/redrains/DuiLib_Redrain
@@ -23,8 +30,95 @@
 -  https://github.com/nmgwddj/Optimizer
 -  https://github.com/nmgwddj/BarPCMaster (netbar)
 
+## cef
+
+-  https://github.com/acristoffers/CEF3SimpleSample
+-  https://github.com/sanwer/Browser
+
+## WebBrowser
+
+-  https://github.com/wanttobeno/Study_IWebBrowser2
+
+## d3d
+
+-  https://github.com/ThirteenAG/d3d9-wrapper
+
+## c++ & js
+
+-  https://github.com/wanttobeno/Study_mujs
+
+##  gdi/gdi+
+
+-  https://github.com/wanttobeno/AlphaEditor
+-  https://github.com/wanttobeno/FastZoomDemo (zoom)
+-  https://github.com/wanttobeno/GdiPlusTextEffect
+-  https://github.com/wanttobeno/GdiPlusString
+-  https://github.com/wanttobeno/WindowFinder
+-  https://github.com/wanttobeno/ymagine
+-  https://github.com/wanttobeno/levels-adjustment
+-  https://github.com/wanttobeno/ElipsePic
+-  https://github.com/wanttobeno/windows-effect
+-  https://github.com/wanttobeno/Study_easing_animation
+-  https://github.com/wanttobeno/Study_FindPicAlgorithm (find picture algorithm)
+-  https://github.com/wanttobeno/Window_GlassIntro_demo
+
+## computer vision & machine learning
+
+-  https://github.com/wanttobeno/sod
+
+## compress
+
+-  https://github.com/wanttobeno/snappy
+
+## 
+
+-  https://github.com/wanttobeno/Dongle
+
 ## windows system programming
 
+-  https://github.com/wanttobeno/mousehook (setwindowhook)
+-  https://github.com/wanttobeno/DXF-Viewer
+-  https://github.com/wanttobeno/XmlConfigDemo
+-  https://github.com/wanttobeno/GeneralHashFunctions
+-  https://github.com/wanttobeno/Chrome-base-cpu
+-  https://github.com/wanttobeno/stl_util
+-  https://github.com/wanttobeno/LinkHelper
+-  https://github.com/wanttobeno/Ring3GetProcessInfo
+-  https://github.com/zsummer/breeze
+-  https://github.com/wanttobeno/SoftWareManager
+-  https://github.com/wanttobeno/GetMacAddress
+-  https://github.com/wanttobeno/HtmlViewer
+-  https://github.com/wanttobeno/AltServer
+-  https://github.com/wanttobeno/GetPeInfo
+-  https://github.com/wanttobeno/notepad
+-  https://github.com/wanttobeno/PELearningMaterials
+-  https://github.com/wanttobeno/Detours_4.0.1
+-  https://github.com/wanttobeno/skinsb
+-  https://github.com/wanttobeno/DLib-Attacher
+-  https://github.com/wanttobeno/VmpHandle
+-  https://github.com/wanttobeno/ScopeGuard (resource safe delete)
+-  https://github.com/wanttobeno/HashMapDemo
+-  https://github.com/wanttobeno/nanob (protobuf)
+-  https://github.com/wanttobeno/baidu-sofa-pbrpc-win (protobuf)
+-  https://github.com/xlet/UpdateClient
+-  https://github.com/wanttobeno/AesFileProtection
+-  https://github.com/wanttobeno/IeProxy
+-  https://github.com/wanttobeno/MyProtocol
+-  https://github.com/wanttobeno/Window_KeyAndMouseHook
+-  https://github.com/wanttobeno/doublebufferedqueue (double buffered queue)
+-  https://github.com/DoubleLabyrinth/010Editor-keygen (keygen)
+-  https://github.com/wanttobeno/Cpp11ThreadPool
+-  https://github.com/wanttobeno/Study_shellcode (shellcode)
+-  https://github.com/wanttobeno/Study_algorithm (data struct)
+-  https://github.com/wanttobeno/ThreadPool
+-  https://github.com/wanttobeno/Study_threadpool (thread pool)
+-  https://github.com/wanttobeno/Study_Websocket (websocket)
+-  https://github.com/Amanieu/asyncplusplus
+-  https://github.com/wanttobeno/Study_Socket
+-  https://github.com/wanttobeno/DllProtect
+-  https://github.com/allenyllee/The-CPUID-Explorer
+-  https://github.com/wanttobeno/SunDaySearchSignCode
+-  https://github.com/wanttobeno/x64_AOB_Search (fast search memory algorithm)
 -  https://github.com/wanttobeno/iQIYI_Web_Video_Upload (http simulate upload)
 -  https://github.com/wanttobeno/Study_XiaoMi_Login (https simulate login)
 -  https://github.com/fawdlstty/NetToolbox
@@ -86,6 +180,7 @@
 
 ## windows kernel driver
 
+-  https://github.com/wanttobeno/ProcessManager_Ring0
 -  https://github.com/wanttobeno/Win_Driver_Mouse_And_Key
 -  https://github.com/wanttobeno/Win64DriverStudy_Src
 -  https://github.com/tdevuser/MalwFinder
@@ -198,6 +293,7 @@
 
 ## hook engine
 
+-  https://github.com/wanttobeno/ADE32_InlineHook
 -  https://github.com/coltonon/RegHookEx (mid function)
 -  https://github.com/Synestraa/ArchUltimate.HookLib
 -  https://github.com/DominicTobias/detourxs
@@ -222,6 +318,7 @@
 
 ## inject technique (ring3)
 
+-  https://github.com/secrary/InjectProc
 -  https://github.com/ez8-co/yapi (Yet Another Process Injector)
 -  https://github.com/UserExistsError/InjectDll  (InjectFromMemory)  
 -  https://github.com/notscimmy/libinject
@@ -458,6 +555,7 @@
 
 ## tdi
 
+-  https://github.com/wanttobeno/wmifilter
 -  https://github.com/xue-blood/adfilter
 -  https://github.com/alex9191/NetDriver (send & receive HTTP requests)
 -  https://github.com/alex9191/ZeroBank-ring0-bundle
