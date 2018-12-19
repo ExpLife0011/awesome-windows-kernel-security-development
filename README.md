@@ -25,6 +25,8 @@
 
 ## windows system programming
 
+-  https://github.com/wanttobeno/iQIYI_Web_Video_Upload (http simulate upload)
+-  https://github.com/wanttobeno/Study_XiaoMi_Login (https simulate login)
 -  https://github.com/fawdlstty/NetToolbox
 -  https://github.com/hzqst/FuckCertVerifyTimeValidity
 -  https://github.com/717021/PCMgr (task manager)
