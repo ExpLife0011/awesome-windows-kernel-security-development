@@ -178,6 +178,10 @@
 
 -  https://github.com/MartinDrab/IRPMon
 
+## nt crucial modules
+
+-  https://github.com/MeeSong/Nt-Crucial-Modules
+
 ## windows kernel driver
 
 -  https://github.com/wanttobeno/ProcessManager_Ring0
