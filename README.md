@@ -15,12 +15,15 @@
     
 ## lightweight c++ gui library 
 
+-  https://github.com/Dovyski/cvui
+-  https://github.com/andlabs/libui
 -  https://github.com/hasaranga/RFC-Framework
 -  https://github.com/dustpg/LongUI    
 -  https://github.com/bognikol/Eleusis    
     
 ## direct ui
 
+-  https://github.com/duzhi5368/FKDuiLibEditor
 -  https://github.com/wanttobeno/bkuilib
 -  https://github.com/wanttobeno/XSkin1.0
 -  https://github.com/idea4good/GuiLite
