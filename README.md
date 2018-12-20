@@ -1043,6 +1043,7 @@
 
 ## fuzzer
 
+-  https://github.com/oxagast/ansvif
 -  https://github.com/hfiref0x/ROCALL
 -  https://github.com/bin2415/fuzzing_paper
 -  https://github.com/CERTCC/dranzer (activex/com)
