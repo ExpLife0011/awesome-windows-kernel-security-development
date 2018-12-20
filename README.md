@@ -1044,6 +1044,7 @@
 
 ## fuzzer
 
+-  https://github.com/nickjackson2011/study-TTF_format
 -  https://github.com/oxagast/ansvif
 -  https://github.com/hfiref0x/ROCALL
 -  https://github.com/bin2415/fuzzing_paper
