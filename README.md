@@ -311,6 +311,7 @@
 
 ## hook engine
 
+-  https://github.com/jonasblunck/DP (com hook)
 -  https://github.com/jonasblunck/DynHook
 -  https://github.com/wanttobeno/ADE32_InlineHook
 -  https://github.com/coltonon/RegHookEx (mid function)
