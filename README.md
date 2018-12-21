@@ -87,6 +87,8 @@
 
 ## windows system programming
 
+-  https://github.com/wanttobeno/Screenshot
+-  https://github.com/scarsty/tinypot
 -  https://github.com/jonasblunck/DynHook
 -  https://github.com/y11en/PEBFake (PEB fake)
 -  https://github.com/wanttobeno/mousehook (setwindowhook)
@@ -338,6 +340,7 @@
 
 ## inject technique (ring3)
 
+-  https://github.com/blaquee/APCHook  (apc inject)
 -  https://github.com/secrary/InjectProc
 -  https://github.com/ez8-co/yapi (Yet Another Process Injector)
 -  https://github.com/UserExistsError/InjectDll  (InjectFromMemory)  
@@ -393,6 +396,9 @@
 
 ## anti dll inject
 
+-  https://0cch.com/2015/04/10/e998b2e6ada2global-windows-hookse6b3a8e585a5e79a84e4b880e4b8aae696b9e6b395/  (global hook)
+-  https://blog.csdn.net/songjinshi/article/details/7808561 (message hook)
+-  https://blog.csdn.net/songjinshi/article/details/7808624 (message hook)
 -  https://github.com/mq1n/DLLThreadInjectionDetector
 -  https://github.com/analyst004/antinject
 -  https://github.com/ExpLife/BotKiller
@@ -1082,6 +1088,10 @@
 
 -  https://github.com/Empier/MemoryEditor
 
+## game
+
+-  https://github.com/scarsty/kys-cpp
+
 ## game hack
 
 -  https://github.com/fenix01/cheatengine-library  (cheatengine library wrapper)
@@ -1167,6 +1177,8 @@
 
 ## pin
 
+-  https://github.com/BreakingMalware/Selfie
+-  https://github.com/BreakingMalware/AVulnerabilityChecker
 -  https://github.com/hasherezade/MyPinTools
 -  https://github.com/hasherezade/tiny_tracer
 -  https://github.com/dyninst/dyninst
