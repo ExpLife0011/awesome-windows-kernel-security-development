@@ -335,6 +335,7 @@
 
 ## inject technique (ring0)
 
+-  https://github.com/haidragon/NewInjectDrv
 -  https://github.com/alex9191/Kernel-dll-injector (DllInjectFromKernel)
 -  https://github.com/wbenny/keinject (ApcInjectFromKernel)
 
@@ -504,6 +505,10 @@
 ## usb filter
 
 -  https://github.com/GoodstudyChina/USBlocker
+
+## sfilter
+
+-  https://github.com/haidragon/sfilter
 
 ## minifilter
 
@@ -1014,6 +1019,7 @@
 
 ## vt
 
+-  https://github.com/haidragon/newbluepill
 -  https://github.com/Gbps/gbhv
 -  https://github.com/ionescu007/SimpleVisor
 -  https://github.com/xdel/bluepillstudy
