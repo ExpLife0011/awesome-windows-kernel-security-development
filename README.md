@@ -1065,6 +1065,7 @@
 
 ## fuzzer
 
+-  https://github.com/wnagzihxa1n/BrowserSecurity
 -  https://github.com/Dongdongshe/neuzz 
 -  https://github.com/nickjackson2011/study-TTF_format
 -  https://github.com/oxagast/ansvif
