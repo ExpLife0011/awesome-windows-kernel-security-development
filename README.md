@@ -92,6 +92,7 @@
 
 ## windows system programming
 
+-  https://github.com/WalkingCat/SymDiff
 -  https://github.com/libyal/libevtx
 -  https://github.com/wanttobeno/Screenshot
 -  https://github.com/scarsty/tinypot
