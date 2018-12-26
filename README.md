@@ -1210,6 +1210,7 @@
 
 ## deobfuscation
 
+-  https://github.com/1111joe1111/tuts (vmprotect 3+)
 -  https://github.com/F8LEFT/DecLLVM
 -  https://github.com/mmyydd/relative-pattern
 -  https://github.com/SCUBSRGroup/OLLVM_Deobfuscation
