@@ -1256,6 +1256,7 @@
 
 ## windbg plugin
 
+- https://github.com/REhints/WinDbg
 - https://github.com/jthuraisamy/DIRT
 - https://github.com/OSRDrivers/penter
 - https://github.com/OSRDrivers/windbg-exts
