@@ -321,6 +321,7 @@
 
 ## hook engine
 
+-  https://github.com/aschrein/apiparse
 -  https://github.com/zyantific/zyan-hook-engine
 -  https://github.com/jonasblunck/DP (com hook)
 -  https://github.com/jonasblunck/DynHook
