@@ -736,6 +736,7 @@
 
 ## anti debug
 
+-  https://github.com/atlantis2013/Evasion-Tools
 -  https://github.com/AlicanAkyol/sems
 -  https://github.com/strivexjun/XAntiDebug
 -  https://github.com/marcusbotacin/Anti.Analysis
