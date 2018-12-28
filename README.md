@@ -1961,6 +1961,10 @@
 -  http://deobfuscatejavascript.com/
 -  http://js.pnote.net/#/js
 
+## decompiler
+
+-  https://github.com/wargio/r2dec-js (asm to c)
+
 ## encryption/decryption tools
 
 -  https://www.devglan.com
