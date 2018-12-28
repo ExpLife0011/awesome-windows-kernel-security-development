@@ -1539,6 +1539,7 @@
 
 ## awesome
 
+-  https://github.com/danielmiessler/SecLists
 -  https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
 -  https://github.com/REMath/literature_review
 -  https://github.com/phith0n/Mind-Map
