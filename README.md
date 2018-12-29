@@ -41,6 +41,10 @@
 -  https://github.com/nmgwddj/Optimizer
 -  https://github.com/nmgwddj/BarPCMaster (netbar)
 
+## chrome
+
+-  https://github.com/shuax/GreenChrome
+
 ## cef
 
 -  https://github.com/acristoffers/CEF3SimpleSample
