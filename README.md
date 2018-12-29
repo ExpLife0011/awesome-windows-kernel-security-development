@@ -1933,6 +1933,7 @@
 
 ## ebook
 
+-  https://github.com/xuanhun/PythonHackingBook1
 -  https://github.com/xapax/security
 -  https://github.com/chryzsh/DarthSidious (AD Domain hack)
 -  https://github.com/chryzsh/practical-hacking
