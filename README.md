@@ -100,6 +100,8 @@
 
 ## windows system programming
 
+-  https://github.com/GameTechDev/PresentMon
+-  https://github.com/hfiref0x/BSODScreen
 -  https://github.com/CasualX/LibEx
 -  https://github.com/syhyz1990/baiduyun
 -  https://github.com/WalkingCat/SymDiff
@@ -1083,6 +1085,7 @@
 
 ## fuzzer
 
+-  https://github.com/googleprojectzero/p0tools
 -  https://github.com/wnagzihxa1n/BrowserSecurity
 -  https://github.com/Dongdongshe/neuzz 
 -  https://github.com/nickjackson2011/study-TTF_format
