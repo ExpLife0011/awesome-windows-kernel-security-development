@@ -364,6 +364,7 @@
 
 ## inject technique (ring3)
 
+-  https://github.com/Cybellum/DoubleAgent
 -  https://github.com/realoriginal/reflective-rewrite (InjectFromMemory)
 -  https://github.com/blaquee/APCHook  (apc inject)
 -  https://github.com/secrary/InjectProc
