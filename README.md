@@ -834,6 +834,7 @@
 
 ## malware analysis
 
+-  https://github.com/tdevuser/MalwFinder
 -  https://github.com/MalwareCantFly/Vba2Graph
 -  https://github.com/unexpectedBy/Automated-Malware-Analysis-List
 -  https://github.com/wchen-r7/amsiscanner (Microsoft's Antimalware Scan Interface)
