@@ -1500,6 +1500,8 @@
 
 ## hash dump
 
+-  https://github.com/AlessandroZ/LaZagneForensic
+-  https://github.com/AlessandroZ/LaZagne (browser credentials recovery)
 -  https://github.com/gentilkiwi/mimikatz
 
 ##  auxiliary lib
