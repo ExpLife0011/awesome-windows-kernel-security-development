@@ -100,6 +100,7 @@
 
 ## Shell Extension for Windows Explorer
 
+-  https://github.com/abhimanyusirohi/ThumbFish (nice demo)
 -  https://github.com/matssigge/JASE
 -  https://github.com/Oeffner/MtzExtInfoTip
 -  https://github.com/danielgrigg/ContextMenuDemo
