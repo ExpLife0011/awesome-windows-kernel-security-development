@@ -1072,6 +1072,7 @@
 
 ## windows hypervisor 
 
+-  https://github.com/gamozolabs/falkervisor_grilled_cheese
 -  https://github.com/redogwu/hyper-v
 -  https://github.com/Ekrte/hithithit
 -  https://github.com/Microsoft/FirewallEventMonitor
@@ -1084,6 +1085,7 @@
 
 ## vt
 
+-  https://github.com/gamozolabs/applepie
 -  https://github.com/haidragon/newbluepill
 -  https://github.com/Gbps/gbhv
 -  https://github.com/ionescu007/SimpleVisor
