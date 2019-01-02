@@ -999,6 +999,7 @@
 
 ## LPE
 
+-  https://github.com/AlessandroZ/BeRoot
 -  https://github.com/HackerPide/The-Division-Bypass (division bypass)
 -  https://github.com/khr0x40sh/WhiteListEvasion
 -  https://github.com/ohpe/juicy-potato
