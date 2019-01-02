@@ -98,8 +98,41 @@
 
 -  https://github.com/wanttobeno/Dongle
 
+## Shell Extension for Windows Explorer
+
+-  https://github.com/matssigge/JASE
+-  https://github.com/Oeffner/MtzExtInfoTip
+-  https://github.com/danielgrigg/ContextMenuDemo
+-  https://github.com/monolithpl/stexbar
+-  https://github.com/CaSchmidt/csMenu
+-  https://github.com/blndev/ExplorerUtilitys
+-  https://github.com/pke/Windows-Explorer-OSGi-Shell-Extensions
+-  https://github.com/Anton-V-K/MultiThumbExtension
+-  https://github.com/0ffffffffh/ffmpegShellExtension
+-  https://github.com/Ralph-Lee/WinShellExt
+-  https://github.com/slivermeteor/LockKeys
+-  https://github.com/alexandermenze/ShellExtensionInfoTip
+-  https://github.com/jbrandwood/EditWith
+-  https://github.com/calzakk/CyoHash
+-  https://github.com/asa75asa/ImageResizer
+-  https://github.com/tillig/JunctionShellExtensions
+-  https://github.com/keybase/KBShellExt
+-  https://github.com/T800G/StatusBar7
+-  https://github.com/vladm3/ShellExtension
+-  https://github.com/sop/cygextreg
+-  https://github.com/AndreasVerhoeven/HTMLPreviewShellExtension
+-  https://github.com/alvinhochun/KritaShellExtension
+-  https://github.com/AUTOMATIC1111/3ds-shell 
+-  https://github.com/google/google-drive-shell-extension 
+-  https://github.com/TortoiseGit/TortoiseGit
+-  https://github.com/sanje2v/MantaPropertyExtension 
+-  https://github.com/phwitti/cmdhere
+
 ## windows system programming
 
+-  https://github.com/ruusty/NAntMenu
+-  https://github.com/chrdavis/PIFShellExtensions
+-  https://github.com/codepongo/zshellext
 -  https://github.com/lz77win/lz77win_sources
 -  https://github.com/Microsoft/perfview
 -  https://github.com/GameTechDev/PresentMon
