@@ -406,6 +406,7 @@
 
 ## inject technique (ring3)
 
+-  https://github.com/xiaobo93/UnModule_shellcode_Inject
 -  https://github.com/Cybellum/DoubleAgent
 -  https://github.com/realoriginal/reflective-rewrite (InjectFromMemory)
 -  https://github.com/blaquee/APCHook  (apc inject)
