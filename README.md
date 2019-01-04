@@ -851,6 +851,7 @@
 
 ## arktools
 
+-  https://github.com/AxtMueller/Windows-Kernel-Explorer
 -  https://github.com/hedgeh/SEWindows (doc:hedgeh.github.io/startup.html)
 -  https://github.com/glmcdona/MALM
 -  https://github.com/ahmad-siavashi/Ana-Process-Explorer
