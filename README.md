@@ -406,6 +406,7 @@
 
 ## inject technique (ring3)
 
+-  https://github.com/Shaxzy/VibranceInjector
 -  https://github.com/xiaobo93/UnModule_shellcode_Inject
 -  https://github.com/Cybellum/DoubleAgent
 -  https://github.com/realoriginal/reflective-rewrite (InjectFromMemory)
@@ -468,6 +469,10 @@
 -  https://github.com/georgenicolaou/HeavenInjector
 -  https://github.com/georgenicolaou/W64oWoW64
 -  https://github.com/Rprop/X86Call
+-  https://github.com/rwfpl/rewolf-wow64ext
+-  https://github.com/ovidiuvio/libntdbg
+-  https://github.com/haidragon/x86tox64
+-  https://github.com/3gstudent/CreateRemoteThread
 
 ## anti autorun
 
