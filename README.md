@@ -131,6 +131,7 @@
 
 ## windows system programming
 
+-  https://github.com/webees/ADkiller
 -  https://github.com/skysilent/coroutine_study (fiber)
 -  https://github.com/ruusty/NAntMenu
 -  https://github.com/chrdavis/PIFShellExtensions
