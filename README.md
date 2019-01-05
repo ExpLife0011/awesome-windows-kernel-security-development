@@ -1277,6 +1277,12 @@
 -  https://github.com/BromiumLabs/PackerAttacker
 -  http://n10info.blogspot.com/2018/03/xvolkolak-010.html
 
+## emulate code execution
+
+-  https://github.com/hzqst/unicorn_pe
+-  https://github.com/inaz2/Unico
+-  https://github.com/Coldzer0/Cmulator
+
 ## pin
 
 -  https://github.com/BreakingMalware/Selfie
