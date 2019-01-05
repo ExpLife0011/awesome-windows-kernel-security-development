@@ -473,6 +473,7 @@
 -  https://github.com/ovidiuvio/libntdbg
 -  https://github.com/haidragon/x86tox64
 -  https://github.com/3gstudent/CreateRemoteThread
+-  https://github.com/RaMMicHaeL/Textify
 
 ## anti autorun
 
