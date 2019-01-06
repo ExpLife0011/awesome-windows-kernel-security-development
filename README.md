@@ -131,6 +131,7 @@
 
 ## windows system programming
 
+-  https://github.com/wyrover/CodeLib
 -  https://github.com/Rprop/CppDLL (dll to .h and lib)
 -  https://github.com/seledka/syslib
 -  https://github.com/leecher1337/regremap
