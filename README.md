@@ -131,6 +131,7 @@
 
 ## windows system programming
 
+-  https://github.com/bailey27/cppcryptfs  ( gocryptfs encrypted overlay filesystem)
 -  https://github.com/etsubu/MacroRecorder (recording keyboard and mouse macros)
 -  https://github.com/wyrover/CodeLib
 -  https://github.com/Rprop/CppDLL (dll to .h and lib)
