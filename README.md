@@ -1345,6 +1345,8 @@
 
 ## windbg plugin
 
+- https://github.com/hugsy/windbg_js_scripts (js)
+- https://github.com/0vercl0k/windbg-scripts (js)
 - https://github.com/REhints/WinDbg
 - https://github.com/jthuraisamy/DIRT
 - https://github.com/OSRDrivers/penter
