@@ -131,6 +131,7 @@
 
 ## windows system programming
 
+-  https://github.com/etsubu/MacroRecorder (recording keyboard and mouse macros)
 -  https://github.com/wyrover/CodeLib
 -  https://github.com/Rprop/CppDLL (dll to .h and lib)
 -  https://github.com/seledka/syslib
@@ -1669,6 +1670,7 @@
 
 ## vm
 
+-  https://github.com/etsubu/NanoVM (x64)
 -  https://github.com/tboox/vm86
 
 ## spy++
