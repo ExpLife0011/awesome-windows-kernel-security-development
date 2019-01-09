@@ -1753,6 +1753,7 @@
 
 ## rpc
 
+-  https://github.com/houjingyi233/ALPC-fuzz-study
 -  https://github.com/muxq/hellorpc
 
 ## adblock
