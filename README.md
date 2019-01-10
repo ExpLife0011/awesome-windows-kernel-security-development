@@ -2066,6 +2066,10 @@
 
 -  https://www.devglan.com
 
+## english
+
+-  https://github.com/yujiangshui/An-English-Guide-for-Programmers
+
 ## library
 
 -  https://www.ctolib.com/
