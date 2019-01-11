@@ -1865,6 +1865,8 @@
 
 ## blogs
 
+-  https://blog.csdn.net/lpwstr/article/details/81190171
+-  http://www.yiiyee.cn/Blog/win8-driver/
 -  https://blog.csdn.net/liwen930723
 -  https://ktkitty.github.io/ (vul)
 -  https://secrary.com/RandomPosts
