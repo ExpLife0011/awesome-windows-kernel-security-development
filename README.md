@@ -1865,8 +1865,9 @@
 
 ## blogs
 
--  https://docs.microsoft.com/zh-cn/previous-versions//jj572863(v=vs.85)
--  https://blog.csdn.net/lpwstr/article/details/81190171
+-  https://blog.csdn.net/qq_18218335/article/details/77480475 (VS WDK Config)
+-  https://docs.microsoft.com/zh-cn/previous-versions//jj572863(v=vs.85) (VS WDK Config)
+-  https://blog.csdn.net/lpwstr/article/details/81190171 (VS WDK Config)
 -  http://www.yiiyee.cn/Blog/win8-driver/
 -  https://blog.csdn.net/liwen930723
 -  https://ktkitty.github.io/ (vul)
