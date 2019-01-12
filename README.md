@@ -133,6 +133,8 @@
 
 ## windows system programming
 
+-  https://github.com/Zero3K/connectfusion (download manager)
+-  https://github.com/Zero3K/ERAM (RAM Disk)
 -  https://github.com/bailey27/cppcryptfs  ( gocryptfs encrypted overlay filesystem)
 -  https://github.com/etsubu/MacroRecorder (recording keyboard and mouse macros)
 -  https://github.com/wyrover/CodeLib
