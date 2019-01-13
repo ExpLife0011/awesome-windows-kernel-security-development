@@ -1119,6 +1119,7 @@
 
 ## vt
 
+-  https://github.com/tklengyel/drakvuf
 -  https://github.com/gamozolabs/applepie
 -  https://github.com/haidragon/newbluepill
 -  https://github.com/Gbps/gbhv
