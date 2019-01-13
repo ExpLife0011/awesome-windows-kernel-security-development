@@ -1686,6 +1686,8 @@
 
 ## pe tool
 
+-  https://www.pelock.com/products/string-encrypt
+-  https://www.pelock.com/products/obfuscator
 -  https://github.com/hasherezade/hollows_hunter  (scan hook)
 -  https://github.com/hasherezade/pe-sieve
 -  https://github.com/hasherezade/bearparser
