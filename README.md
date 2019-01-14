@@ -1871,6 +1871,7 @@
 
 ## blogs
 
+-  http://www.reconstructer.org/papers/Hunting%20rootkits%20with%20Windbg.pdf
 -  https://www.slideshare.net/MSbluehat/bluehat-v18-memory-resident-implants-code-injection-is-alive-and-well
 -  https://www.sekoia.fr/blog
 -  https://docs.microsoft.com/en-us/windows-hardware/drivers/kernel/single-binary-opt-in-pool-nx-optin (VS WDK Config)
