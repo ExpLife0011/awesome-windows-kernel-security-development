@@ -1871,6 +1871,7 @@
 
 ## blogs
 
+-  https://www.slideshare.net/MSbluehat/bluehat-v18-memory-resident-implants-code-injection-is-alive-and-well
 -  https://www.sekoia.fr/blog
 -  https://docs.microsoft.com/en-us/windows-hardware/drivers/kernel/single-binary-opt-in-pool-nx-optin (VS WDK Config)
 -  https://blog.csdn.net/qq_18218335/article/details/77480475 (VS WDK Config)
