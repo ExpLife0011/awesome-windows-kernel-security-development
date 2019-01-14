@@ -1871,6 +1871,7 @@
 
 ## blogs
 
+-  https://www.sekoia.fr/blog
 -  https://docs.microsoft.com/en-us/windows-hardware/drivers/kernel/single-binary-opt-in-pool-nx-optin (VS WDK Config)
 -  https://blog.csdn.net/qq_18218335/article/details/77480475 (VS WDK Config)
 -  https://docs.microsoft.com/zh-cn/previous-versions//jj572863(v=vs.85) (VS WDK Config)
