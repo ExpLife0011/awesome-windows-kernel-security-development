@@ -1164,6 +1164,7 @@
 
 ## fuzzer
 
+-  https://github.com/payatu/EMFFuzzer
 -  https://github.com/googleprojectzero/bochspwn-reloaded
 -  https://github.com/googleprojectzero/p0tools
 -  https://github.com/wnagzihxa1n/BrowserSecurity
