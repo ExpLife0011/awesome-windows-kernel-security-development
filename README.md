@@ -1356,6 +1356,7 @@
 
 ## windbg plugin
 
+- http://www.andreybazhan.com/debugging.html
 - https://github.com/vallejocc/Reverse-Engineering-Arsenal/ (anti-anti_debugging winDbg scripts)
 - https://github.com/vagnerpilar/windbgtree (nice plugin)
 - https://github.com/hugsy/windbg_js_scripts (js)
