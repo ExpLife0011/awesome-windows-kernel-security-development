@@ -133,6 +133,7 @@
 
 ## windows system programming
 
+-  https://github.com/KangLin/RabbitIm
 -  https://github.com/kingsunc/MiniDump
 -  https://github.com/amdf/reparselib
 -  https://github.com/Zero3K/connectfusion (download manager)
