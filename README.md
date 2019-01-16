@@ -57,7 +57,7 @@
 ## WebBrowser
 
 -  https://github.com/litehtml/litebrowser 
--  https://github.com/venam/Browser
+-  https://github.com/venam/Browser (lib)
 -  https://github.com/wanttobeno/Study_IWebBrowser2
 
 ## d3d
