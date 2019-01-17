@@ -1566,6 +1566,7 @@
 
 ## ring3 nt api
 
+-  https://www.vergiliusproject.com/kernels
 -  https://github.com/DissectMalware/WinNativeIO
 -  https://github.com/zodiacon/WindowsInternals/tree/master/MemLimit/ndk
 -  https://github.com/codereversing/wow64syscall
