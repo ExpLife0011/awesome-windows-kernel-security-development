@@ -133,6 +133,7 @@
 
 ## windows system programming
 
+-  https://github.com/zhaolong/libparser (static lib parse)
 -  https://github.com/WildByDesign/Privexec
 -  https://github.com/KangLin/RabbitIm
 -  https://github.com/kingsunc/MiniDump
