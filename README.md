@@ -1091,6 +1091,7 @@
 
 ## cve
 
+-  https://github.com/ze0r/cve-2018-8453-exp
 -  https://github.com/gravitational/cve-2018-1002105
 -  https://github.com/LyleMi/dom-vuln-db
 -  https://github.com/renorobert/virtualbox-cve-2018-2844
