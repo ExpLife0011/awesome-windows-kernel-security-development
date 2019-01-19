@@ -1346,6 +1346,10 @@
 -  https://github.com/ExpLife/patchdiff2_ida6
 -  https://github.com/ExpLife/patchdiff2
 
+## debugger
+
+-  https://github.com/marakew/syser
+
 ## x64dbg plugin
 
 -  https://github.com/Gbps/x64dbg-consonance-theme
