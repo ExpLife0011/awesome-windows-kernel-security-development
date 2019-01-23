@@ -1297,6 +1297,7 @@
 
 ## pe protector
 
+-  https://github.com/devilogic/xvirus
 -  https://github.com/nickcano/RelocBonus 
 -  https://github.com/jnastarot/furikuri
 
