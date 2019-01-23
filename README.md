@@ -133,6 +133,7 @@
 
 ## windows system programming
 
+-  https://github.com/longmode/authzsec-mod-um (AppContainer and ACL)
 -  https://github.com/henrypp/memreduct
 -  https://github.com/thomaslaurenson/LiveDiff (live diff)
 -  https://github.com/thomaslaurenson/CellXML-offreg (hive file parse)
