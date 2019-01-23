@@ -254,6 +254,7 @@
 
 ## wsl/unix
 
+-  https://github.com/Mermeze/wslam (wsl anti malware)
 -  https://github.com/Biswa96/WSLInstall
 -  https://github.com/Biswa96/WslReverse
 -  https://github.com/Biswa96/XConPty
