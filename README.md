@@ -75,6 +75,7 @@
 
 ##  gdi/gdi+
 
+-  http://www.mctrl.org/ (win32 control lib)
 -  https://github.com/wanttobeno/AlphaEditor
 -  https://github.com/wanttobeno/FastZoomDemo (zoom)
 -  https://github.com/wanttobeno/GdiPlusTextEffect
