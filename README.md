@@ -135,6 +135,7 @@
 
 ## windows system programming
 
+-  https://github.com/troldal/OpenXLSX (.xlsx format)
 -  https://github.com/mity/windrawlib (GDI+ Helper)
 -  https://github.com/henrypp/errorlookup
 -  https://github.com/longmode/authzsec-mod-um (AppContainer and ACL)
