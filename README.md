@@ -319,6 +319,7 @@
 
 ## hidinput
 
+-  https://github.com/hawku/TabletDriver
 -  https://github.com/ViGEm/HidGuardian
 -  https://github.com/ecologylab/EcoTUIODriver
 -  https://github.com/djpnewton/vmulti
