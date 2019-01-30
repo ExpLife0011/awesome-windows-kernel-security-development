@@ -904,6 +904,7 @@
 
 ## arktools
 
+-  https://github.com/basketwill/Sysmon_reverse
 -  https://github.com/ZhuHuiBeiShaDiao/KernelHooksDetection_x64
 -  https://github.com/AxtMueller/Windows-Kernel-Explorer
 -  https://github.com/hedgeh/SEWindows (doc:hedgeh.github.io/startup.html)
