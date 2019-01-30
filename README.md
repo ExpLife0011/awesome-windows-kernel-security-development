@@ -1594,6 +1594,7 @@
 
 ## ring3 nt api
 
+-  https://github.com/icestudent/ontl
 -  https://www.vergiliusproject.com/kernels
 -  https://github.com/DissectMalware/WinNativeIO
 -  https://github.com/zodiacon/WindowsInternals/tree/master/MemLimit/ndk
