@@ -1682,6 +1682,7 @@
 
 ## awesome
 
+-  https://github.com/Ridter/Intranet_Penetration_Tips
 -  https://github.com/danielmiessler/SecLists
 -  https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
 -  https://github.com/REMath/literature_review
