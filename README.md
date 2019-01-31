@@ -423,6 +423,7 @@
 
 ## inject technique (ring0)
 
+-  https://github.com/Sqdwr/LoadImageInject
 -  https://github.com/haidragon/NewInjectDrv
 -  https://github.com/alex9191/Kernel-dll-injector (DllInjectFromKernel)
 -  https://github.com/wbenny/keinject (ApcInjectFromKernel)
