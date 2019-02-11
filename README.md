@@ -3,9 +3,7 @@
 ![Gitee license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 # `awesome-windows-kernel-security-development`
-
-:heart:
-    
+ 
 ## pe file format
 
 -  https://github.com/corkami/pics
