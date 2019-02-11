@@ -1822,6 +1822,7 @@
 
 ## miscellaneous
 
+-  https://github.com/z175/kdmapper
 -  https://github.com/heckerli/netshield
 -  https://github.com/TalAloni/SMBLibrary
 -  https://www.unknowncheats.me/forum/c-and-c-/179852-ring0-random-string-generator-kernel-driver.html
