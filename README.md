@@ -765,6 +765,7 @@
 
 ## rootkits
 
+-  https://github.com/KIDofot/BypassDriverDetection_And_Kill360Process
 -  https://github.com/longmode/UTKModule
 -  https://github.com/nkga/cheat-driver (read/write memory of arbitrary processes)
 -  https://github.com/lantaoxu/HWIDFaker (hwid fake)
