@@ -1694,6 +1694,7 @@
 
 ## awesome
 
+-  https://github.com/fr0gger/awesome-ida-x64-olly-plugin
 -  https://github.com/Ridter/Intranet_Penetration_Tips
 -  https://github.com/danielmiessler/SecLists
 -  https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
