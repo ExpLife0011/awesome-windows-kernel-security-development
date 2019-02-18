@@ -1326,6 +1326,7 @@
 
 ## unpacker
 
+-  https://github.com/Phat3/PINdemonium (pin)
 -  https://github.com/BromiumLabs/PackerAttacker
 -  http://n10info.blogspot.com/2018/03/xvolkolak-010.html
 
