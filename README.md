@@ -1198,6 +1198,7 @@
 
 ## fuzzer
 
+-  https://github.com/mwrlabs/ViridianFuzzer
 -  https://github.com/GoSSIP-SJTU/TripleDoggy
 -  https://github.com/payatu/EMFFuzzer
 -  https://github.com/googleprojectzero/bochspwn-reloaded
