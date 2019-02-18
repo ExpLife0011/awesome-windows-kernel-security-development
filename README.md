@@ -301,7 +301,7 @@
 
 -  https://github.com/DragonQuestHero/Kernel-Force-Delete (force delete file)
 -  https://github.com/MeeSong/WDKExt
--  https://github.com/HoShiMin/Kernel-Bridge
+-  https://github.com/HoShiMin/Kernel-Bridge (power)
 -  https://github.com/wjcsharp/Common
 -  https://github.com/ExpLife/DriverSTL
 -  https://github.com/sysprogs/BazisLib
