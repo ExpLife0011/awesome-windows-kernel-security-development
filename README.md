@@ -405,6 +405,7 @@
 
 ## hook engine
 
+-  https://github.com/HoShiMin/HookLib (r3 & r0)
 -  https://github.com/Rebzzel/kiero (d3d hook)
 -  https://github.com/aschrein/apiparse
 -  https://github.com/zyantific/zyan-hook-engine
