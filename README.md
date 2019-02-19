@@ -134,6 +134,7 @@
 
 ## windows system programming
 
+-  https://github.com/TonyChen56/HackerTools
 -  https://github.com/libyal/liblnk
 -  https://github.com/NtRaiseHardError/Kaiser
 -  https://github.com/mengskysama/V8 (chrome v8 engine)
