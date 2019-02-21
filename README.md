@@ -1354,6 +1354,10 @@
 -  https://github.com/illera88/Ponce
 -  https://github.com/gaasedelen/lighthouse
 
+## obfuscation
+
+-  https://github.com/DoctorLai/VBScript_Obfuscator
+
 ## deobfuscation
 
 -  https://github.com/JonathanSalwan/Tigress_protection
