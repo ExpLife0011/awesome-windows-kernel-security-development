@@ -134,6 +134,7 @@
 
 ## windows system programming
 
+-  https://github.com/Alex3434/GetHDDSerial
 -  https://github.com/TonyChen56/HackerTools
 -  https://github.com/libyal/liblnk
 -  https://github.com/NtRaiseHardError/Kaiser
