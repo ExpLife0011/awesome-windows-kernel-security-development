@@ -775,6 +775,7 @@
 
 ## rootkits
 
+-  https://github.com/Alex3434/wmi-static-spoofer
 -  https://github.com/KIDofot/BypassDriverDetection_And_Kill360Process
 -  https://github.com/longmode/UTKModule
 -  https://github.com/nkga/cheat-driver (read/write memory of arbitrary processes)
