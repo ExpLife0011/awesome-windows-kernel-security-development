@@ -17,6 +17,7 @@
     
 ## lightweight c++ gui library 
 
+-  https://github.com/idea4good/GuiLite
 -  https://github.com/golang-ui/nuklear
 -  https://github.com/Dovyski/cvui
 -  https://github.com/andlabs/libui
