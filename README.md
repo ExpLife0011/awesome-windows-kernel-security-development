@@ -767,6 +767,7 @@
 
 ## wsk
 
+-  https://github.com/adrianyy/rw_socket_driver
 -  https://github.com/wbenny/KSOCKET
 -  https://github.com/xalley/WskHttp
 -  https://github.com/reinhardvz/wsk
