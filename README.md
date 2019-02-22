@@ -380,6 +380,7 @@
 
 ## inline hook
 
+-  https://github.com/adrianyy/kernelhook
 -  https://github.com/gfreivasc/VMTHook
 -  https://github.com/zhipeng515/MemberFunctionHook （member function hook）
 -  https://github.com/windy32/win32-console-hook-lib
@@ -434,6 +435,7 @@
 
 ## inject technique (ring0)
 
+-  https://github.com/adrianyy/KeInject
 -  https://github.com/Sqdwr/LoadImageInject
 -  https://github.com/haidragon/NewInjectDrv
 -  https://github.com/alex9191/Kernel-dll-injector (DllInjectFromKernel)
