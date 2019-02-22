@@ -1623,6 +1623,7 @@
 
 ## ring3 nt api
 
+-  https://github.com/adrianyy/x64-syscall
 -  https://github.com/icestudent/ontl
 -  https://www.vergiliusproject.com/kernels
 -  https://github.com/DissectMalware/WinNativeIO
