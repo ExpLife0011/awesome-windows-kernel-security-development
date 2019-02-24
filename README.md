@@ -1665,6 +1665,10 @@
 
 -  https://github.com/lcxl/lcxl-shadow
 
+## network lib
+
+-  https://github.com/zhllxt/asio2
+
 ## http
 
 -  https://github.com/farawaaay/http2 (http/2)
