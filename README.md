@@ -139,6 +139,7 @@
 
 ## windows system programming
 
+-  https://github.com/Claybird/lhaforge
 -  https://github.com/jjzhang166/nargnos-WindowsUtil
 -  https://github.com/cool2528/baiduCDP
 -  https://github.com/anhkgg/SuperWeChatPC
