@@ -139,6 +139,7 @@
 
 ## windows system programming
 
+-  https://github.com/cool2528/baiduCDP
 -  https://github.com/anhkgg/SuperWeChatPC
 -  https://github.com/Alex3434/GetHDDSerial
 -  https://github.com/TonyChen56/HackerTools
