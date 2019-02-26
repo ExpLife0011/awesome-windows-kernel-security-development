@@ -1680,6 +1680,8 @@
 
 ## http
 
+-  https://github.com/vlinhd11/WinHttpClass
+-  https://github.com/hpsocket/restclient-cpp
 -  https://github.com/farawaaay/http2 (http/2)
 -  https://github.com/OlehKulykov/libnhr
 -  https://github.com/erickutcher/httpdownloader
