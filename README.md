@@ -1865,6 +1865,7 @@
 
 ## miscellaneous
 
+-  https://github.com/theopolis/uefi-firmware-parser
 -  https://github.com/z175/kdmapper
 -  https://github.com/heckerli/netshield
 -  https://github.com/TalAloni/SMBLibrary
