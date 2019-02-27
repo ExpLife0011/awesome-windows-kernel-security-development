@@ -882,6 +882,7 @@
 
 ## malware
 
+-  https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp (C#)
 -  https://github.com/zerosum0x0/koadic (JScript RAT)
 -  https://github.com/malwaredllc/bamf
 -  https://github.com/malwaredllc/byob (py)
