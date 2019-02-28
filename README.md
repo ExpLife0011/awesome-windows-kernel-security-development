@@ -1317,6 +1317,7 @@
 
 ## anti cheat
 
+-  https://github.com/GravitLauncher/Avanguard
 -  https://github.com/Mouka-Yang/AntiCheatProtector
 -  https://github.com/mq1n/NoMercy
 -  https://github.com/SagaanTheEpic/Sagaan-AntiCheat-V2.0
