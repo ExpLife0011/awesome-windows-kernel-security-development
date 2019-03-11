@@ -1268,6 +1268,7 @@
 
 ## game hack
 
+-  https://github.com/M-T3K/GameHacking
 -  https://github.com/nanoric/pkn
 -  https://github.com/luciouskami/APEX-EACBypass
 -  https://github.com/fenix01/cheatengine-library  (cheatengine library wrapper)
