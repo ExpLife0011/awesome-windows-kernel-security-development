@@ -1416,6 +1416,7 @@
 
 ## x64dbg plugin
 
+-  https://github.com/changeofpace/Force-Page-Protection
 -  https://github.com/secrary/idenLib
 -  https://github.com/Gbps/x64dbg-consonance-theme
 -  https://github.com/ThunderCls/xAnalyzer
