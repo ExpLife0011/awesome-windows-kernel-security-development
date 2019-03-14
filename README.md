@@ -1088,6 +1088,7 @@
 
 ## LPE
 
+-  https://github.com/DoubleLabyrinth/SdoKeyCrypt-sys-local-privilege-elevation
 -  https://github.com/AlessandroZ/BeRoot
 -  https://github.com/HackerPide/The-Division-Bypass (division bypass)
 -  https://github.com/khr0x40sh/WhiteListEvasion
