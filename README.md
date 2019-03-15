@@ -1435,6 +1435,7 @@
 
 ## windbg plugin
 
+- https://github.com/pstolarz/dumpext (pe unpack)
 - http://www.andreybazhan.com/debugging.html
 - https://github.com/vallejocc/Reverse-Engineering-Arsenal/ (anti-anti_debugging winDbg scripts)
 - https://github.com/vagnerpilar/windbgtree (nice plugin)
