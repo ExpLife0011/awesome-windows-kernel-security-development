@@ -139,6 +139,8 @@
 
 ## windows system programming
 
+-  https://github.com/lifenjoiner/pacdbger
+-  https://github.com/lifenjoiner/sendto-plus
 -  https://github.com/billziss-gh/winspd
 -  https://github.com/ffiirree/Capturer
 -  https://github.com/Claybird/lhaforge
