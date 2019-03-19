@@ -2154,6 +2154,8 @@
 
 ## ebook
 
+-  https://github.com/cfenollosa/os-tutorial 
+-  https://github.com/Snowming04/The-Hacker-Playbook-3-Translation
 -  https://github.com/xuanhun/PythonHackingBook1
 -  https://github.com/xapax/security
 -  https://github.com/chryzsh/DarthSidious (AD Domain hack)
