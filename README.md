@@ -2154,6 +2154,7 @@
 
 ## paper
 
+-  https://hitcon.org/2018/CMT/slide-files/d1_s5_r0.pdf?v=2 (game cheat)
 -  https://github.com/tyranid/WindowsRuntimeSecurityDemos
 -  https://translation-zh-cn.readthedocs.io/zh_CN/
 -  https://speakerdeck.com
