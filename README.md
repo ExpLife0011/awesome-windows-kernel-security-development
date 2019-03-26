@@ -2181,6 +2181,10 @@
 -  https://blog.huzhifeng.com/2017/07/16/PAC/
 -  https://github.com/manugarg/pacparser
 
+## javascript
+
+-  https://github.com/Daotin/front-end-self-study-notes
+
 ## js obfuscator/deobfuscator
 
 -  https://beautifier.io/
