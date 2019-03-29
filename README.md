@@ -139,6 +139,7 @@
 
 ## windows system programming
 
+-  https://github.com/jnastarot/shibari (pe+)
 -  https://github.com/NoMoreFood/WinPriv
 -  https://github.com/yejiansnake/windows-sys-base
 -  https://github.com/lifenjoiner/pacdbger
