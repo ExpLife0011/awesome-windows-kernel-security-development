@@ -139,6 +139,7 @@
 
 ## windows system programming
 
+-  https://github.com/horsicq/xntsv (nt struct)
 -  https://github.com/jnastarot/shibari (pe+)
 -  https://github.com/NoMoreFood/WinPriv
 -  https://github.com/yejiansnake/windows-sys-base
