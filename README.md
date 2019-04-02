@@ -1752,6 +1752,7 @@
 
 ## awesome
 
+-  https://github.com/yeyintminthuhtut/Awesome-Windows-Exploitation-Study-References
 -  https://github.com/anhkgg/awesome-windbg-extensions
 -  https://github.com/wcventure/FuzzingPaper
 -  https://github.com/fr0gger/awesome-ida-x64-olly-plugin
