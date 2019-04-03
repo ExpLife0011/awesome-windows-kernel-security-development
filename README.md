@@ -1992,6 +1992,7 @@
 
 ## blogs
 
+-  http://www.dbgtech.net (windbg help)
 -  https://blog.csdn.net/hgy413/article/details/7054870 (windbg  usage)
 -  https://guidedhacking.com (game hack)
 -  http://kdext.com/links.html
