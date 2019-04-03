@@ -2167,6 +2167,7 @@
 
 ## paper
 
+-  https://www.virusbulletin.com/uploads/pdf/conference_slides/2018/Svajcer-VB2018-KernelModeAnalysis.pdf (windbg usage)
 -  https://hitcon.org/2018/CMT/slide-files/d1_s5_r0.pdf?v=2 (game cheat)
 -  https://github.com/tyranid/WindowsRuntimeSecurityDemos
 -  https://translation-zh-cn.readthedocs.io/zh_CN/
