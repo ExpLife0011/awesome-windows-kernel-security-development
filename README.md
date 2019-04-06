@@ -1282,6 +1282,7 @@
 
 ## game hack
 
+-  https://github.com/EquiFox/KsDumper (process dump from kernel space)
 -  https://github.com/EternityX/DEADCELL-CSGO
 -  https://github.com/M-T3K/GameHacking
 -  https://github.com/nanoric/pkn
