@@ -141,6 +141,7 @@
 
 ## windows system programming
 
+-  https://github.com/bb107/WinSudo
 -  https://github.com/can1357/WinFaults
 -  https://github.com/Silica/sandbox
 -  https://github.com/horsicq/Nauz-File-Detector
