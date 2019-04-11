@@ -27,6 +27,8 @@
     
 ## direct ui
 
+-  https://github.com/SOUI2/soui
+-  https://github.com/netease-im/NIM_Duilib_Framework
 -  https://github.com/gclxry/EasyDuilib
 -  https://github.com/v-star0719/MFC_LogicalWnd
 -  https://github.com/duzhi5368/FKDuiLibEditor
