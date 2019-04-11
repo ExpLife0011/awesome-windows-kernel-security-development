@@ -1473,6 +1473,7 @@
 
 ## ida script & plugin
 
+-  https://github.com/0xeb/ida-qscripts (easy developing script)
 -  https://github.com/google/binexport
 -  https://github.com/nihilus/ida-pro-swf
 -  https://github.com/ax330d/hrdev
