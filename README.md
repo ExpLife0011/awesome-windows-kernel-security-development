@@ -2238,6 +2238,7 @@
 
 ## library
 
+-  https://github.com/myfreeer/cppreference2mshelp/
 -  https://www.ctolib.com/
 
 # `awesome-windows-kernel-security-development`
