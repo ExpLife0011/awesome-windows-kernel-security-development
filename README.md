@@ -899,6 +899,7 @@
 
 ## malware
 
+-  https://github.com/Darkabode/possessor
 -  https://github.com/Darkabode/zerokit
 -  https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp (C#)
 -  https://github.com/zerosum0x0/koadic (JScript RAT)
@@ -1815,6 +1816,7 @@
 
 ## pe tool
 
+-  https://github.com/Darkabode/amte
 -  https://www.pelock.com/products/string-encrypt
 -  https://www.pelock.com/products/obfuscator
 -  https://github.com/hasherezade/funky_malware_formats
