@@ -902,6 +902,7 @@
 
 ## malware
 
+-  https://github.com/mstfknn/malware-sample-library
 -  https://github.com/Darkabode/possessor
 -  https://github.com/Darkabode/zerokit
 -  https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp (C#)
