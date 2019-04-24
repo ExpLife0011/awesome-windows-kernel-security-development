@@ -1040,6 +1040,7 @@
 
 ## windows kernel exploits
 
+-  https://github.com/n3k/EKOParty2015_Windows_SMEP_Bypass (SEMP bypass)
 -  https://github.com/saaramar/execve_exploit (WSL)
 -  https://github.com/siberas/CVE-2016-3309_Reloaded
 -  https://github.com/moccajoghurt/drvmap_secure
