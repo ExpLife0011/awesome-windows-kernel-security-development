@@ -2206,6 +2206,7 @@
 
 ## pentest
 
+-  https://github.com/aleenzz/Cobalt_Strike_wiki
 -  https://github.com/l3m0n/pentest_study
 -  https://github.com/l3m0n/pentest_tools
 -  https://github.com/l3m0n/linux_information
