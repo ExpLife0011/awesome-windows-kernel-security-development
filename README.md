@@ -1773,6 +1773,7 @@
 
 ## awesome
 
+-  https://github.com/jobbole/awesome-design-cn
 -  https://github.com/xuanhun/HackingResource
 -  https://github.com/yeyintminthuhtut/Awesome-Windows-Exploitation-Study-References
 -  https://github.com/anhkgg/awesome-windbg-extensions
