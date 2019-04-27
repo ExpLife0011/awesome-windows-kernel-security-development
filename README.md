@@ -890,6 +890,7 @@
 
 ## anti debug
 
+-  https://github.com/nihilboy/anti
 -  https://github.com/atlantis2013/Evasion-Tools
 -  https://github.com/AlicanAkyol/sems
 -  https://github.com/strivexjun/XAntiDebug
