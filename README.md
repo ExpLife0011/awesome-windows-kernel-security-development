@@ -2090,6 +2090,7 @@
 
 ## web security research site
 
+-  https://github.com/frizb/Bypassing-Web-Application-Firewalls (bypass waf)
 -  http://malware-traffic-analysis.net
 -  https://malwaretips.com/
 -  https://www.sec-wiki.com
