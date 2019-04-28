@@ -810,6 +810,7 @@
 
 ## rootkits
 
+-  https://github.com/GayPig/driverless-basic-driver
 -  https://github.com/zerosum0x0/smbdoor
 -  https://github.com/Alex3434/wmi-static-spoofer
 -  https://github.com/KIDofot/BypassDriverDetection_And_Kill360Process
