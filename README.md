@@ -1395,6 +1395,7 @@
 
 ## pin
 
+-  https://github.com/Fare9/ANBU
 -  https://github.com/BreakingMalware/Selfie
 -  https://github.com/BreakingMalware/AVulnerabilityChecker
 -  https://github.com/hasherezade/MyPinTools
