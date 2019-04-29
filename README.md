@@ -1776,6 +1776,7 @@
 
 ## awesome
 
+-  https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References
 -  https://github.com/jobbole/awesome-design-cn
 -  https://github.com/xuanhun/HackingResource
 -  https://github.com/yeyintminthuhtut/Awesome-Windows-Exploitation-Study-References
