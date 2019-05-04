@@ -144,6 +144,7 @@
 
 ## windows system programming
 
+-  https://github.com/laxodev/RAII-WINAPI-Memory-Manager
 -  https://github.com/hfiref0x/WDExtract
 -  https://github.com/binbibi/libedge
 -  https://github.com/bb107/WinSudo
