@@ -2257,6 +2257,10 @@
 
 -  https://github.com/alanzhangzm/Photon
 
+## python
+
+-  https://github.com/jackfrued/Python-100-Days
+
 ## library
 
 -  https://github.com/myfreeer/cppreference2mshelp/
