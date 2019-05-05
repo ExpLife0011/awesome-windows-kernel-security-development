@@ -1299,6 +1299,7 @@
 
 ## game hack
 
+-  https://github.com/EternityX/DEADCELL-CSGO
 -  https://github.com/adrianyy/EACReversing （EAC）
 -  https://github.com/EquiFox/KsDumper (process dump from kernel space)
 -  https://github.com/EternityX/DEADCELL-CSGO
