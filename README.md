@@ -907,6 +907,7 @@
 
 ## malware
 
+-  https://github.com/InQuest/malware-samples
 -  https://github.com/mstfknn/malware-sample-library
 -  https://github.com/Darkabode/possessor
 -  https://github.com/Darkabode/zerokit
