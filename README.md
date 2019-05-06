@@ -1523,6 +1523,7 @@
 
 ## idapython
 
+-  https://github.com/sophoslabs/WebAssembly
 -  https://github.com/howmp/COMFinder
 -  https://github.com/maddiestone/IDAPythonEmbeddedToolkit
 -  https://github.com/zyantific/IDASkins
