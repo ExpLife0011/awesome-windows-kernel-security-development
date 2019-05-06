@@ -1299,6 +1299,7 @@
 
 ## game hack
 
+-  https://github.com/ApexLegendsUC/anti-cheat-emulator
 -  https://github.com/EternityX/DEADCELL-CSGO
 -  https://github.com/adrianyy/EACReversing （EAC）
 -  https://github.com/EquiFox/KsDumper (process dump from kernel space)
