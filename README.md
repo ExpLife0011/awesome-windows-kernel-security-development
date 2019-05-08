@@ -2026,6 +2026,7 @@
 
 ## blogs
 
+-  https://redogwu.github.io (kernel exp)
 -  https://docs.microsoft.com/zh-cn/windows-hardware/drivers/debugger/debug-universal-drivers--kernel-mode-#kernelmodedebuggingcommandsandtechniques (windbg help)
 -  http://www.dbgtech.net (windbg help)
 -  https://blog.csdn.net/hgy413/article/details/7054870 (windbg  usage)
