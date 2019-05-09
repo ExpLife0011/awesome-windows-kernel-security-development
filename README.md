@@ -60,6 +60,7 @@
 
 ## WebBrowser
 
+-  https://github.com/zhichao281/duilib-MiniBlinkBrowser
 -  https://github.com/litehtml/litebrowser 
 -  https://github.com/venam/Browser (lib)
 -  https://github.com/wanttobeno/Study_IWebBrowser2
