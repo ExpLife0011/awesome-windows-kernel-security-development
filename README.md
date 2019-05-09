@@ -6,7 +6,7 @@
  
 ## pe file format
 
--  https://github.com/corkami/pics
+-  https://github.com/corkami/pics 
     
 ## meltdown/spectre poc
 
@@ -143,7 +143,8 @@
 -  https://github.com/phwitti/cmdhere
 
 ## windows system programming
-
+ 
+-  https://github.com/microsoft/NetworkDirect
 -  https://github.com/jay/gethooks
 -  https://github.com/laxodev/RAII-WINAPI-Memory-Manager
 -  https://github.com/hfiref0x/WDExtract
@@ -152,7 +153,7 @@
 -  https://github.com/can1357/WinFaults
 -  https://github.com/Silica/sandbox
 -  https://github.com/horsicq/Nauz-File-Detector
--  https://github.com/horsicq/xntsv (nt struct)
+-  https://github.com/horsicq/xntsv (nt struct) 
 -  https://github.com/jnastarot/shibari (pe+)
 -  https://github.com/NoMoreFood/WinPriv
 -  https://github.com/yejiansnake/windows-sys-base
