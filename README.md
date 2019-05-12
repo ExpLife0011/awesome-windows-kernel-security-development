@@ -1305,6 +1305,7 @@
 
 ## game hack
 
+-  https://github.com/danielkrupinski/Osiris
 -  https://github.com/ApexLegendsUC/anti-cheat-emulator
 -  https://github.com/EternityX/DEADCELL-CSGO
 -  https://github.com/adrianyy/EACReversing （EAC）
