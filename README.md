@@ -2220,6 +2220,7 @@
 
 ## ebook
 
+-  https://github.com/firmianay/CTF-All-In-One
 -  https://github.com/cfenollosa/os-tutorial 
 -  https://github.com/Snowming04/The-Hacker-Playbook-3-Translation
 -  https://github.com/xuanhun/PythonHackingBook1
