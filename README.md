@@ -901,6 +901,7 @@
 
 ## anti debug
 
+-  https://github.com/sharepub/CheckVM-Sandbox
 -  https://github.com/nihilboy/anti
 -  https://github.com/atlantis2013/Evasion-Tools
 -  https://github.com/AlicanAkyol/sems
