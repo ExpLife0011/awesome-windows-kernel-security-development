@@ -1312,6 +1312,7 @@
 
 ## game hack
 
+-  https://github.com/luciouskami/LOL-CN-Anti-AntCheat
 -  https://github.com/danielkrupinski/Osiris
 -  https://github.com/ApexLegendsUC/anti-cheat-emulator
 -  https://github.com/EternityX/DEADCELL-CSGO
