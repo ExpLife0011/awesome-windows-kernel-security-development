@@ -1045,6 +1045,7 @@
 
 ## windows exploits
 
+-  https://github.com/rockmelodies/CVE-2019-0708-Exploit (RDP)
 -  https://github.com/admintony/svnExploit
 -  https://github.com/smgorelik/Windows-RCE-exploits
 -  https://github.com/WindowsExploits/Exploits
