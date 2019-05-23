@@ -149,6 +149,7 @@
 
 ## windows system programming
 
+-  https://github.com/mtth-bfft/lsobj
 -  https://github.com/mtth-bfft/ntsec
 -  https://github.com/fritzone/obfy
 -  https://github.com/microsoft/NetworkDirect
