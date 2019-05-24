@@ -1266,6 +1266,7 @@
 
 ## fuzzer
 
+-  https://github.com/wcventure/FuzzingPaper
 -  https://github.com/mwrlabs/ViridianFuzzer
 -  https://github.com/GoSSIP-SJTU/TripleDoggy
 -  https://github.com/payatu/EMFFuzzer
