@@ -149,6 +149,7 @@
 
 ## windows system programming
 
+-  https://github.com/jnastarot/soul_eater (it can extract functions from .dll, .exe, .sys)
 -  https://github.com/mtth-bfft/lsobj
 -  https://github.com/mtth-bfft/ntsec
 -  https://github.com/fritzone/obfy
@@ -1266,6 +1267,7 @@
 
 ## fuzzer
 
+-  https://github.com/compsec-snu/razzer
 -  https://github.com/wcventure/FuzzingPaper
 -  https://github.com/mwrlabs/ViridianFuzzer
 -  https://github.com/GoSSIP-SJTU/TripleDoggy
