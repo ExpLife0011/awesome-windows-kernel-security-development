@@ -149,6 +149,7 @@
 
 ## windows system programming
 
+-  https://github.com/amitwaisel/Malproxy (Proxy system calls over an RPC channel)
 -  https://github.com/jnastarot/soul_eater (it can extract functions from .dll, .exe, .sys)
 -  https://github.com/mtth-bfft/lsobj
 -  https://github.com/mtth-bfft/ntsec
