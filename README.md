@@ -631,6 +631,7 @@
 
 ## hide & delete dll
 
+-  https://github.com/strivexjun/HideDll
 -  https://github.com/wyyqyl/HideModule
 
 ## load driver from memory
