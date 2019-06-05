@@ -1272,6 +1272,7 @@
 
 ## fuzzer
 
+-  https://github.com/trailofbits/sienna-locomotive
 -  https://github.com/compsec-snu/razzer
 -  https://github.com/wcventure/FuzzingPaper
 -  https://github.com/mwrlabs/ViridianFuzzer
