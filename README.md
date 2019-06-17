@@ -1151,6 +1151,7 @@
 
 ## office exploit
 
+-  https://github.com/houjingyi233/office-exploit-case-study
 -  https://github.com/rxwx/CVE-2017-8570
 
 ## flash exploit
