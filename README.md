@@ -1846,9 +1846,14 @@
 
 ## windows Driver Kit ddi (device driver interface) documentation
 
+-  https://docs.microsoft.com/zh-cn/windows-hardware/drivers/install/
 -  https://docs.microsoft.com/zh-cn/windows-hardware/drivers/kernel/
+-  https://docs.microsoft.com/zh-cn/windows-hardware/drivers/network/
 -  https://docs.microsoft.com/zh-cn/windows-hardware/drivers/ddi/
--  https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/windbg-scripting-preview
+-  https://docs.microsoft.com/zh-cn/windows-hardware/drivers/driversecurity
+-  https://docs.microsoft.com/zh-cn/windows-hardware/drivers/wdf/
+-  https://docs.microsoft.com/zh-cn/windows-hardware/drivers/samples/
+-  https://docs.microsoft.com/zh-cn/windows-hardware/drivers/debugger/
 
 ## windbg preview & jsprovider
 
