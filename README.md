@@ -1196,6 +1196,7 @@
 
 ## cve
 
+-  https://github.com/sophoslabs/CVE-2019-0888 (ADO UAF)
 -  https://github.com/Iamgublin/CVE-2019-0803 (LPE)
 -  https://github.com/ze0r/cve-2019-0808-poc
 -  https://github.com/Ridter/acefile
