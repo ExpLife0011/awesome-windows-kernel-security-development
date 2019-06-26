@@ -746,6 +746,7 @@
 
 ## alpc
 
+-  https://github.com/LoukaMB/Beacon
 -  https://github.com/avalon1610/ALPC
 
 ## lsp/spi
