@@ -2064,6 +2064,7 @@
 
 ## slides
 
+-  http://security.cs.rpi.edu/courses/binexp-spring2015
 -  https://rmusser.net/docs/
 -  https://keenlab.tencent.com/zh
 
