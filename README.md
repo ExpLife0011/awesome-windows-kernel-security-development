@@ -152,6 +152,7 @@
 
 ## windows system programming
 
+-  https://github.com/ZhanLang/msdk (sdk)
 -  https://github.com/MiroKaku/ConMon
 -  https://github.com/SinaKarvandi/Process-Magics
 -  https://github.com/LoukaMB/ExceptionSupervisor
