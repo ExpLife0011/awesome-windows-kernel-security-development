@@ -1200,6 +1200,7 @@
 
 ## cve
 
+-  https://github.com/thepwnrip/leHACK-Analysis-of-CVE-2018-8453
 -  https://github.com/o0xmuhe/RealWorldPwn
 -  https://github.com/sophoslabs/CVE-2019-0888 (ADO UAF)
 -  https://github.com/Iamgublin/CVE-2019-0803 (LPE)
