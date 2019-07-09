@@ -152,6 +152,7 @@
 
 ## windows system programming
 
+-  https://github.com/zodiacon/RegEditX
 -  https://github.com/ZhanLang/jcfs (everything)
 -  https://github.com/ZhanLang/msdk (sdk)
 -  https://github.com/MiroKaku/ConMon
