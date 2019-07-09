@@ -28,6 +28,8 @@
     
 ## direct ui
  
+-  http://www.skinui.cn/
+-  https://www.showdoc.cc/skinui?page_id=135303
 -  http://help.5yyz.com/665984 
 -  https://github.com/SOUI2/soui
 -  https://github.com/netease-im/NIM_Duilib_Framework
