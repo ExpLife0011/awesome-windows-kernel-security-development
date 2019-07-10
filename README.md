@@ -2275,6 +2275,10 @@
 -  https://github.com/chryzsh/practical-hacking
 -  http://www.foxebook.net/
 
+## ctf
+
+-  https://github.com/ktecv2000/How-to-play-CTF
+
 ## pentest
 
 -  https://github.com/aleenzz/Cobalt_Strike_wiki
