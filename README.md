@@ -1829,6 +1829,7 @@
 
 ## awesome
 
+-  https://github.com/BlackINT3/awesome-debugging
 -  https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References
 -  https://github.com/jobbole/awesome-design-cn
 -  https://github.com/xuanhun/HackingResource
