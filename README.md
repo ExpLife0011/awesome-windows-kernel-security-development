@@ -17,7 +17,7 @@
     
 ## lightweight c++ gui library 
 
--  https://github.com/zlgopen/awtk
+-  https://github.com/zlgopen/awtk 
 -  https://github.com/idea4good/GuiLite
 -  https://github.com/golang-ui/nuklear
 -  https://github.com/Dovyski/cvui
@@ -152,6 +152,7 @@
 
 ## windows system programming
 
+-  https://github.com/d35ha/CallObfuscator
 -  https://github.com/zodiacon/RegEditX
 -  https://github.com/ZhanLang/jcfs (everything)
 -  https://github.com/ZhanLang/msdk (sdk)
