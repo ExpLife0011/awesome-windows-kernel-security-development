@@ -844,6 +844,7 @@
 
 ## rootkits
 
+-  https://github.com/isoadam/gina_public
 -  https://github.com/GayPig/driverless-basic-driver
 -  https://github.com/zerosum0x0/smbdoor
 -  https://github.com/Alex3434/wmi-static-spoofer
