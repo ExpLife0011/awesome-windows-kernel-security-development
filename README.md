@@ -1446,6 +1446,7 @@
 
 ## emulate code execution
 
+-  https://github.com/sycurelab
 -  https://github.com/hzqst/unicorn_pe
 -  https://github.com/inaz2/Unico
 -  https://github.com/Coldzer0/Cmulator
