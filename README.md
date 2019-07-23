@@ -492,6 +492,7 @@
 
 ## inject technique (ring0)
 
+-  https://github.com/mactec0/Kernelmode-manual-mapping-through-IAT 
 -  https://github.com/adrianyy/KeInject
 -  https://github.com/Sqdwr/LoadImageInject
 -  https://github.com/haidragon/NewInjectDrv
@@ -500,7 +501,6 @@
 
 ## inject technique (ring3)
 
--  https://github.com/mactec0/Kernelmode-manual-mapping-through-IAT 
 -  https://github.com/M-r-J-o-h-n/SWH-Injector
 -  https://github.com/nccgroup/ncloader (A session-0 capable dll injection utility)
 -  https://github.com/vmcall/eye_mapper (BattlEye x64 usermode injector)
