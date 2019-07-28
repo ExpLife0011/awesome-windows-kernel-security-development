@@ -1256,6 +1256,7 @@
 
 ## vt
 
+-  https://github.com/Kelvinhack/NoTruth
 -  https://github.com/udosteinberg/NOVA
 -  https://github.com/changeofpace/VivienneVMM (stealthy debugging framework)
 -  https://github.com/tklengyel/drakvuf
