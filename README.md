@@ -80,6 +80,10 @@
 
 -  https://github.com/vinniefalco/LuaBridge
 
+## DesignPattern
+
+-  https://github.com/GoodmanTao/DesignPatternInC
+
 ## c++ & js
 
 -  https://github.com/panopticoncentral/jsrt-wrappers
