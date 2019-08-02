@@ -1304,6 +1304,7 @@
 
 ## fuzzer
 
+-  https://github.com/rk700/uniFuzzer (closed-source binaries fuzzer)
 -  https://github.com/trailofbits/sienna-locomotive
 -  https://github.com/compsec-snu/razzer
 -  https://github.com/wcventure/FuzzingPaper
