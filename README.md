@@ -355,6 +355,7 @@
 
 ## windows kernel driver
 
+-  https://github.com/apriorit/antirootkit-anti-splicer 
 -  https://github.com/Mouka-Yang/KernelDriverDemo
 -  https://github.com/tomLadder/WinLib
 -  https://github.com/coltonon/MoaRpm
