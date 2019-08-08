@@ -1895,6 +1895,7 @@
 -  https://docs.microsoft.com/zh-cn/windows-hardware/drivers/samples/
 -  https://docs.microsoft.com/zh-cn/windows-hardware/drivers/debugger/
 -  https://docs.microsoft.com/zh-cn/previous-versions/windows/embedded/gg157655(v=winembedded.80)
+-  https://docs.microsoft.com/zh-cn/windows-hardware/drivers/debugger/time-travel-debugging-overview
 
 ## windbg preview & jsprovider
 
