@@ -448,6 +448,7 @@
 
 ## inline hook
 
+-  https://github.com/everdox/InfinityHook (Hook system calls, context switches, page faults)
 -  https://github.com/adrianyy/kernelhook
 -  https://github.com/gfreivasc/VMTHook
 -  https://github.com/zhipeng515/MemberFunctionHook （member function hook）
