@@ -515,6 +515,7 @@
 
 ## inject technique (ring3)
 
+-  https://github.com/SafeBreach-Labs/pinjectra
 -  https://github.com/odzhan/injection
 -  https://github.com/M-r-J-o-h-n/SWH-Injector
 -  https://github.com/nccgroup/ncloader (A session-0 capable dll injection utility)
