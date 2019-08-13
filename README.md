@@ -156,6 +156,7 @@
 
 ## windows system programming
 
+-  https://github.com/nogginware/mstscdump
 -  https://github.com/zodiacon/ApiSetView
 -  https://github.com/DOGSHITD/SciDetectorApp (SCI)
 -  https://github.com/DOGSHITD/AcpiTool (ACPI)
