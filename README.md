@@ -1790,6 +1790,7 @@
 
 ## metasploit
 
+-  https://github.com/entynetproject/entypreter
 -  https://github.com/dr0op/MsfRpcApi
 -  https://github.com/phackt/stager.dll
 -  https://github.com/ExpLife/metasploit-framework
