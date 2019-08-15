@@ -1245,6 +1245,7 @@
 
 ## hips
 
+-  https://github.com/secrary/DrSemu
 -  https://github.com/godaddy/procfilter
 -  https://github.com/BrunoMCBraga/Kernel-Whisperer
 -  https://malwaretips.com/threads/av-self-protection-process-c-c.66200/
