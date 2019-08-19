@@ -863,6 +863,7 @@
 
 ## rootkits
 
+-  https://github.com/zouxianyu/PhysicalMemoryRW
 -  https://github.com/zouxianyu/KernelHiddenExecute
 -  https://github.com/isoadam/gina_public
 -  https://github.com/GayPig/driverless-basic-driver
