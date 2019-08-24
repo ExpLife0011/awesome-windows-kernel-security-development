@@ -358,6 +358,7 @@
 
 ## windows kernel driver
 
+-  https://github.com/mstefanowich/IsFileSigned
 -  https://github.com/apriorit/antirootkit-anti-splicer 
 -  https://github.com/Mouka-Yang/KernelDriverDemo
 -  https://github.com/tomLadder/WinLib
