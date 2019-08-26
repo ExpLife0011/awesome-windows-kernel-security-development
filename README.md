@@ -2323,6 +2323,7 @@
 
 ## ctf
 
+-  https://github.com/Ignitetechnologies/Privilege-Escalation
 -  https://github.com/ktecv2000/How-to-play-CTF
 
 ## pentest
