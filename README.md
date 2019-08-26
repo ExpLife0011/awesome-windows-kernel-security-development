@@ -7,7 +7,13 @@
 ## pe file format
 
 -  https://github.com/corkami/pics 
-    
+
+## asm ide
+
+-  https://github.com/ThomasJaeger/VisualMASM
+-  https://github.com/Dman95/SASM
+-  https://github.com/mrfearless/UASM-with-RadASM
+
 ## meltdown/spectre poc
 
 -  https://github.com/turbo/KPTI-PoC-Collection
