@@ -1921,6 +1921,7 @@
 -  https://docs.microsoft.com/zh-cn/windows-hardware/drivers/debugger/
 -  https://docs.microsoft.com/zh-cn/previous-versions/windows/embedded/gg157655(v=winembedded.80)
 -  https://docs.microsoft.com/zh-cn/windows-hardware/drivers/debugger/time-travel-debugging-overview
+-  https://docs.microsoft.com/zh-cn/previous-versions/visualstudio/visual-studio-2010/aa983363(v=vs.100) (vmx)
 
 ## windbg preview & jsprovider
 
