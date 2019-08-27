@@ -511,6 +511,7 @@
 
 ## anti hook
 
+-  https://github.com/vol4ok/libsplice
 -  https://github.com/nickcano/ReloadLibrary
 
 ## inject technique (ring0)
