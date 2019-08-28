@@ -489,6 +489,7 @@
 
 ## hook engine
 
+-  https://github.com/vol4ok/libsplice (r3 & r0)
 -  https://github.com/HoShiMin/HookLib (r3 & r0)
 -  https://github.com/Rebzzel/kiero (d3d hook)
 -  https://github.com/aschrein/apiparse
@@ -511,7 +512,6 @@
 
 ## anti hook
 
--  https://github.com/vol4ok/libsplice
 -  https://github.com/nickcano/ReloadLibrary
 
 ## inject technique (ring0)
