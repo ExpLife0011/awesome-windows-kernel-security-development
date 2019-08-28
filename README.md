@@ -1198,6 +1198,11 @@
 -  https://github.com/codewhitesec/UnmarshalPwn
 -  https://ohpe.github.io/juicy-potato/
 
+## linux exploit
+
+-  https://github.com/Lazenca/Exploit-tech
+-  https://github.com/Lazenca/Kernel-exploit-tech
+
 ## office exploit
 
 -  https://github.com/houjingyi233/office-exploit-case-study
