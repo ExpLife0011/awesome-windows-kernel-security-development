@@ -162,6 +162,7 @@
 
 ## windows system programming
 
+-  https://github.com/marcosd4h/sysmonx
 -  https://github.com/Dankirk/RegSLScan
 -  https://github.com/nogginware/mstscdump
 -  https://github.com/zodiacon/ApiSetView
