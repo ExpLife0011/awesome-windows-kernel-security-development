@@ -380,6 +380,7 @@
 
 ## windows kernel driver with c++ runtime
 
+-  https://github.com/ZhanLang/msddk
 -  https://github.com/DragonQuestHero/Kernel-Force-Delete (force delete file)
 -  https://github.com/MeeSong/WDKExt
 -  https://github.com/HoShiMin/Kernel-Bridge (power)
