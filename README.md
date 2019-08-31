@@ -490,6 +490,7 @@
 
 ## hook engine
 
+-  https://github.com/danielkrupinski/vac-hooks
 -  https://github.com/vol4ok/libsplice (r3 & r0)
 -  https://github.com/HoShiMin/HookLib (r3 & r0)
 -  https://github.com/Rebzzel/kiero (d3d hook)
@@ -633,6 +634,7 @@
 
 ## com hijack
 
+-  https://github.com/leoloobeek/COMProxy
 -  https://github.com/enigma0x3/MessageBox
 
 ## anti dll hijack
@@ -1190,6 +1192,7 @@
 
 ## LPE
 
+-  https://github.com/itm4n/UsoDllLoader
 -  https://github.com/DoubleLabyrinth/SdoKeyCrypt-sys-local-privilege-elevation
 -  https://github.com/AlessandroZ/BeRoot
 -  https://github.com/HackerPide/The-Division-Bypass (division bypass)
@@ -1340,6 +1343,7 @@
 
 ## fuzzer
 
+-  https://github.com/bin2415/fuzzing_paper
 -  https://github.com/mxmssh/manul
 -  https://github.com/nccgroup/fuzzowski
 -  https://github.com/rk700/uniFuzzer (closed-source binaries fuzzer)
