@@ -88,6 +88,7 @@
 
 ## DesignPattern
 
+-  https://github.com/Waleon/DesignPatterns
 -  https://github.com/GoodmanTao/DesignPatternInC
 
 ## c++ & js
