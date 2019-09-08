@@ -92,6 +92,7 @@
 
 ## DesignPattern
 
+-  https://design-patterns.readthedocs.io/zh_CN/latest/index.html
 -  https://github.com/Waleon/DesignPatterns
 -  https://github.com/GoodmanTao/DesignPatternInC
 
