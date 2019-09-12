@@ -89,7 +89,13 @@
 
 ## c++ 11/14/17/20
 
+-  https://github.com/xiaoweiChen/CPP-Concurrency-In-Action-2ed-2019
+-  https://github.com/xiaoweiChen/CPP-17-STL-cookbook
 -  https://github.com/changkun/modern-cpp-tutorial
+
+## cmake
+
+-  https://github.com/xiaoweiChen/CMake-Cookbook
 
 ## DesignPattern
 
