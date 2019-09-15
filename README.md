@@ -2304,6 +2304,7 @@
 
 ## crypto api
 
+-  https://github.com/tplgy/cppcodec (c++11 base64)
 -  https://github.com/maldevel/AES256
 -  https://github.com/wbenny/mini-tor
 -  https://github.com/wyrover/CryptoAPI-examples
