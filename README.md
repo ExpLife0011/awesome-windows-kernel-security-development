@@ -1317,6 +1317,7 @@
 
 ## vt
 
+-  https://github.com/Kelvinhack/DeviceMon
 -  https://github.com/Kelvinhack/NoTruth
 -  https://github.com/udosteinberg/NOVA
 -  https://github.com/changeofpace/VivienneVMM (stealthy debugging framework)
@@ -2265,7 +2266,8 @@
 
 ## leaked source code 
 
--  https://github.com/misterch0c/shadowbroker  (NSA)
+-  https://github.com/cocus/openmsvbvm
+-  https://github.com/misterch0c/shadowbroker (NSA)
 -  https://github.com/pustladi/Windows-2000
 -  https://github.com/killbug2004/NT_4.0_SourceCode
 -  https://github.com/pustladi/TrueCrypt-7.2
@@ -2366,6 +2368,7 @@
 
 ## pentest
 
+-  https://github.com/jiansiting/Kali-Windows
 -  https://github.com/uknowsec/Active-Directory-Pentest-Notes
 -  https://micro8.gitbook.io/micro8/
 -  https://github.com/aleenzz/Cobalt_Strike_wiki
