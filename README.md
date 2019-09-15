@@ -2366,6 +2366,7 @@
 
 ## pentest
 
+-  https://github.com/uknowsec/Active-Directory-Pentest-Notes
 -  https://micro8.gitbook.io/micro8/
 -  https://github.com/aleenzz/Cobalt_Strike_wiki
 -  https://github.com/l3m0n/pentest_study
