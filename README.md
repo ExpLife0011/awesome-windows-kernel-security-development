@@ -1123,6 +1123,7 @@
 
 ## windows exploits
 
+-  https://github.com/NAXG/cve_2019_0708_bluekeep_rce (RDP)
 -  https://github.com/wchen-r7/VulnCases (cases)
 -  https://github.com/rockmelodies/CVE-2019-0708-Exploit (RDP)
 -  https://github.com/admintony/svnExploit
