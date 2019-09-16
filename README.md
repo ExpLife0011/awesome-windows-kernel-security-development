@@ -1270,6 +1270,7 @@
 
 ## cve
 
+-  https://github.com/Barakat/CVE-2019-16098 (LPE)
 -  https://github.com/qazbnm456/awesome-cve-poc#cve-2016-3088
 -  https://github.com/Vlad-tri/CVE-2019-1132
 -  https://github.com/RingLcy/VulnerabilityAnalysisAndExploit
