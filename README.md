@@ -831,6 +831,7 @@
 
 ## wfp
 
+-  https://github.com/guidoreina/http_inspect
 -  https://github.com/ZhanLang/netmonsys
 -  https://github.com/reinhardvz/enumwfp
 -  https://github.com/BOT-Man-JL/WFP-Traffic-Redirection-Driver
