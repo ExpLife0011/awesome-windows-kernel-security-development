@@ -175,6 +175,7 @@
 
 ## windows system programming
 
+-  https://github.com/MFCer/AutoUpdate
 -  https://github.com/ufrisk/LeechCore (Physical Memory Acquisition Library)
 -  https://github.com/marcosd4h/sysmonx
 -  https://github.com/Dankirk/RegSLScan
