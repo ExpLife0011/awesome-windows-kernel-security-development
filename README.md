@@ -2008,6 +2008,7 @@
 
 ## post-exploitation
 
+- https://github.com/0x09AL/DNS-Persist (DNS C&C)
 - https://github.com/francisck/DanderSpritz_lab 
 - https://github.com/francisck/DanderSpritz_docs
 
