@@ -2374,6 +2374,7 @@
 
 ## pentest
 
+-  https://github.com/hongriSec/Web-Security-Attack
 -  https://github.com/jiansiting/Kali-Windows
 -  https://github.com/uknowsec/Active-Directory-Pentest-Notes
 -  https://micro8.gitbook.io/micro8/
