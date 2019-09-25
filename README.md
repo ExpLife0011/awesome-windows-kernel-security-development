@@ -1913,6 +1913,7 @@
 
 ## awesome
 
+-  https://github.com/toutiaoio/awesome-architecture
 -  https://github.com/streetleague/0xbird.github.io
 -  https://github.com/BlackINT3/awesome-debugging
 -  https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References
