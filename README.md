@@ -23,6 +23,7 @@
     
 ## lightweight c++ gui library 
 
+-  https://github.com/Xoliper/ANGE
 -  https://github.com/iUIShop/LibUIDK (mfc skin ui)
 -  https://github.com/zlgopen/awtk 
 -  https://github.com/idea4good/GuiLite
@@ -1088,6 +1089,7 @@
 
 ## bypass patchguard
 
+-  https://github.com/zzhouhe/PG1903
 -  https://github.com/9176324/Shark
 -  https://github.com/hfiref0x/UPGDSED
 -  https://github.com/tandasat/PgResarch
