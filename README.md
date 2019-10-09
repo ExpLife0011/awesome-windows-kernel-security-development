@@ -1619,6 +1619,10 @@
 - http://virtualkd.sysprogs.org/
 - https://github.com/VincentSe/WatchTrees
 
+## virtualkd
+
+- https://github.com/4d61726b/VirtualKD-Redux
+
 ## ida script & plugin
 
 -  https://github.com/ampotos/dynStruct
