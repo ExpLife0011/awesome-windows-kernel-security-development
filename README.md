@@ -383,6 +383,7 @@
 
 ## windows kernel driver
 
+-  https://github.com/alxbrn/kdmapper-1803-1903
 -  https://github.com/juniorjacob/readwrite-kernel-stable
 -  https://github.com/mstefanowich/IsFileSigned
 -  https://github.com/apriorit/antirootkit-anti-splicer 
