@@ -2438,6 +2438,10 @@
 
 -  https://github.com/jackfrued/Python-100-Days
 
+## puppeteer
+
+-  https://github.com/csbun/thal
+
 ## library
 
 -  https://github.com/myfreeer/cppreference2mshelp/
