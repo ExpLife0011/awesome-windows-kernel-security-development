@@ -1094,6 +1094,7 @@
 
 ## bypass patchguard
 
+-  https://github.com/can1357/ByePg
 -  https://github.com/zzhouhe/PG1903
 -  https://github.com/9176324/Shark
 -  https://github.com/hfiref0x/UPGDSED
