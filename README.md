@@ -2429,6 +2429,7 @@
 
 ## decompiler
 
+-  https://github.com/herumi/xbyak
 -  https://github.com/wargio/r2dec-js (asm to c)
 
 ## encryption/decryption tools
