@@ -2457,6 +2457,14 @@
 -  https://blog.csdn.net/qupan1993/article/details/85371556
 -  https://www.php.cn/js-tutorial-399252.html
 
+## java
+
+-  https://blog.csdn.net/pinlantu/article/details/83957672
+
+## android
+
+-  https://blog.csdn.net/aqi00/article/details/50012511
+
 ## library
 
 -  https://github.com/myfreeer/cppreference2mshelp/
