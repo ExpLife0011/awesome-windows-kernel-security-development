@@ -1982,6 +1982,7 @@
 
 ## windbg preview & jsprovider
 
+- https://github.com/benoitsevens/applying-ttd-to-malware-analysis
 - https://github.com/Microsoft/WinDbg-Samples
 - https://bbs.pediy.com/thread-246449.htm
 - http://doar-e.github.io/blog/2017/12/01/debugger-data-model/
