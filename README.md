@@ -1634,6 +1634,7 @@
 
 ## ida script & plugin
 
+-  https://github.com/mefistotelis/ida-pro-loadmap
 -  https://github.com/ampotos/dynStruct
 -  https://github.com/patois/HRDevHelper 
 -  https://github.com/0xeb/ida-qscripts (easy developing script)
