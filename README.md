@@ -1864,6 +1864,10 @@
 -  https://github.com/NytroRST/NetRipper
 -  https://github.com/breenmachine/RottenPotatoNG
 
+#  shellcode generator
+
+-  https://github.com/TheWover/donut
+
 ## shellcode encoder
 
 -  https://github.com/ecx86/shellcode_encoder
