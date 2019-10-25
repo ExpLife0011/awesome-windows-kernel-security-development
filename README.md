@@ -1058,6 +1058,7 @@
 
 ## arktools
 
+-  https://github.com/DavidXanatos/TaskExplorer
 -  https://github.com/BlackINT3/OpenArk
 -  https://github.com/basketwill/Sysmon_reverse
 -  https://github.com/ZhuHuiBeiShaDiao/KernelHooksDetection_x64
