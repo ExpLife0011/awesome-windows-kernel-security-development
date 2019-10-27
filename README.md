@@ -1107,6 +1107,7 @@
 
 ## bypass dse
 
+-  https://github.com/alxbrn/gdrv-loader
 -  https://github.com/Mattiwatti/EfiGuard
 -  https://github.com/hfiref0x/TDL
 -  https://github.com/hfiref0x/DSEFix
