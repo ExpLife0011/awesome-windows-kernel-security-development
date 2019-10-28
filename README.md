@@ -384,6 +384,7 @@
 
 ## windows kernel driver
 
+-  https://github.com/alxbrn/r6s-external-nuklear-socket
 -  https://github.com/vmcall/dxgkrnl_hook
 -  https://github.com/alxbrn/kdmapper-1803-1903
 -  https://github.com/juniorjacob/readwrite-kernel-stable
