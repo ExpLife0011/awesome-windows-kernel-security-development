@@ -2478,6 +2478,7 @@
 
 -  https://github.com/JesusFreke/smali
 -  https://bitbucket.org/JesusFreke/smali
+-  https://github.com/skylot/jadx
 
 ## library
 
