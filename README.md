@@ -2474,6 +2474,10 @@
 
 -  https://blog.csdn.net/aqi00/article/details/50012511
 
+## android reverse engine
+
+-  https://github.com/JesusFreke/smali
+
 ## library
 
 -  https://github.com/myfreeer/cppreference2mshelp/
