@@ -2477,6 +2477,7 @@
 ## android reverse engine
 
 -  https://github.com/JesusFreke/smali
+-  https://bitbucket.org/JesusFreke/smali
 
 ## library
 
