@@ -2482,6 +2482,7 @@
 -  https://github.com/java-decompiler/jd-gui
 -  https://github.com/skylot/jadx
 -  https://github.com/Konloch/bytecode-viewer
+-  https://github.com/MobSF/Mobile-Security-Framework-MobSF
 
 ## library
 
