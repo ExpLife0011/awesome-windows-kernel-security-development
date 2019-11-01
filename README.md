@@ -106,6 +106,7 @@
 
 ## c++ & js
 
+-  https://github.com/xhawk18/promise-cpp
 -  https://github.com/panopticoncentral/jsrt-wrappers
 -  https://github.com/wargio/WSH-Framework
 -  https://github.com/ExpLife0011/WebBrowser
