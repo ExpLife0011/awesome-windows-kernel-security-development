@@ -906,6 +906,7 @@
 
 ## rootkits
 
+-  https://github.com/realoriginal/doublepulsar-poc
 -  https://github.com/zouxianyu/PhysicalMemoryRW
 -  https://github.com/zouxianyu/KernelHiddenExecute
 -  https://github.com/isoadam/gina_public
