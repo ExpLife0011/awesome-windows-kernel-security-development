@@ -4,6 +4,10 @@
 
 # `awesome-windows-kernel-security-development`
  
+## powershell
+
+-  https://github.com/rootclay/Powershell-Attack-Guide
+ 
 ## pe file format
 
 -  https://github.com/corkami/pics 
