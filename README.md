@@ -1445,6 +1445,7 @@
 
 ## game hack
 
+-  https://github.com/vmcall/battleye_emulation
 -  https://github.com/JakeDahl/ApexStuff
 -  https://github.com/luciouskami/LOL-CN-Anti-AntCheat
 -  https://github.com/danielkrupinski/Osiris
