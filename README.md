@@ -1344,6 +1344,8 @@
 
 ## vt
 
+-  https://github.com/stonedreamforest/Mirage
+-  https://github.com/IgorKorkin/MemoryRanger
 -  https://github.com/hrbust86/SvmNest
 -  https://github.com/Kelvinhack/DeviceMon
 -  https://github.com/Kelvinhack/NoTruth
