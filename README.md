@@ -1394,6 +1394,7 @@
 
 ## fuzzer
 
+-  https://bbs.pediy.com/thread-255544.htm
 -  https://bbs.pediy.com/thread-255162.htm (winafl)
 -  https://github.com/bin2415/fuzzing_paper
 -  https://github.com/mxmssh/manul
