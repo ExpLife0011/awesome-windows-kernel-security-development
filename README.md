@@ -149,7 +149,8 @@
 -  https://github.com/wjx0912/MySpy
 
 ## Shell Extension for Windows Explorer
-
+    
+-  https://github.com/derceg/explorerplusplus
 -  https://github.com/XhmikosR/perfmonbar (perfmonbar)
 -  https://github.com/abhimanyusirohi/ThumbFish (nice demo)
 -  https://github.com/matssigge/JASE
