@@ -1957,6 +1957,7 @@
 
 ## awesome
 
+-  https://github.com/xrkk/awesome-ida
 -  https://github.com/SecWiki/sec-chart
 -  https://github.com/skywind3000/awesome-cheatsheets (cheatsheets)
 -  https://github.com/toutiaoio/awesome-architecture
