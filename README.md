@@ -648,6 +648,7 @@
 
 ## load Dll from memory
 
+-  https://github.com/hasherezade/module_overloading
 -  https://github.com/UserExistsError/DllLoaderShellcode
 -  https://github.com/jnastarot/native_peloader
 -  https://github.com/fancycode/MemoryModule
