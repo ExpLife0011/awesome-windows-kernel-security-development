@@ -2488,6 +2488,8 @@
 
 ## java
 
+-  http://www.52im.net/thread-28-1-1.html (beautyeye GUI)
+-  https://github.com/JackJiang2011/beautyeye (beautyeye GUI)
 -  https://blog.csdn.net/pinlantu/article/details/83957672
 
 ## android
