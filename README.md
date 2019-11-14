@@ -912,6 +912,7 @@
 
 ## rootkits
 
+-  https://github.com/Mr-Un1k0d3r/SCShell
 -  https://github.com/realoriginal/doublepulsar-poc
 -  https://github.com/zouxianyu/PhysicalMemoryRW
 -  https://github.com/zouxianyu/KernelHiddenExecute
