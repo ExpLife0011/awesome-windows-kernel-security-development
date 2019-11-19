@@ -2478,6 +2478,7 @@
 
 ## python
 
+-  https://github.com/Kr1s77/awesome-python-login-model
 -  https://github.com/Kr1s77/Python-crawler-tutorial-starts-from-zero
 -  https://github.com/jackfrued/Python-100-Days
 
