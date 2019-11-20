@@ -183,6 +183,8 @@
 
 ## windows system programming
 
+-  https://github.com/maharmstone/smbfs (SMB filesystem driver for Windows)
+-  https://github.com/maharmstone/btrfs (Windows driver for the next-generation Linux filesystem Btrfs)
 -  https://github.com/CoatiSoftware/Sourcetrail (Source code explorer)
 -  https://github.com/DoubleLabyrinth/WindowsSudo
 -  https://github.com/AzureGreen/NetView
