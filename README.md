@@ -183,8 +183,6 @@
 
 ## windows system programming
 
--  https://github.com/maharmstone/smbfs (SMB filesystem driver for Windows)
--  https://github.com/maharmstone/btrfs (Windows driver for the next-generation Linux filesystem Btrfs)
 -  https://github.com/CoatiSoftware/Sourcetrail (Source code explorer)
 -  https://github.com/DoubleLabyrinth/WindowsSudo
 -  https://github.com/AzureGreen/NetView
@@ -393,6 +391,8 @@
 
 ## windows kernel driver
 
+-  https://github.com/maharmstone/smbfs (SMB filesystem driver for Windows)
+-  https://github.com/maharmstone/btrfs (Windows driver for the next-generation Linux filesystem Btrfs)
 -  https://github.com/zodiacon/windowskernelprogrammingbook (sample)
 -  https://github.com/0xcpu/ExecutiveCallbackObjects
 -  https://github.com/alxbrn/r6s-external-nuklear-socket
