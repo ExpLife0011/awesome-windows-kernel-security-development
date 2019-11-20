@@ -391,6 +391,7 @@
 
 ## windows kernel driver
 
+-  https://github.com/zodiacon/windowskernelprogrammingbook (sample)
 -  https://github.com/0xcpu/ExecutiveCallbackObjects
 -  https://github.com/alxbrn/r6s-external-nuklear-socket
 -  https://github.com/vmcall/dxgkrnl_hook
