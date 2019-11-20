@@ -1458,6 +1458,7 @@
 
 ## game hack
 
+-  https://github.com/tomLadder/Call-of-Duty-Black-Ops-III-Cheat
 -  https://github.com/vmcall/battleye_emulation
 -  https://github.com/JakeDahl/ApexStuff
 -  https://github.com/luciouskami/LOL-CN-Anti-AntCheat
