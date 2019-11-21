@@ -495,12 +495,12 @@
 
 ## InfinityHook
 
+-  https://github.com/yanjuan99/yanjuan99.github.io/blob/d0c64c0bb10609c4680c30321253dd362a8a3097/_posts/2019-08-03-syscallhook.md
 -  https://github.com/huoji120/huoji_debuger
 -  https://github.com/everdox/InfinityHook
 
 ## inline hook
 
--  https://github.com/everdox/InfinityHook (Hook system calls, context switches, page faults)
 -  https://github.com/adrianyy/kernelhook
 -  https://github.com/gfreivasc/VMTHook
 -  https://github.com/zhipeng515/MemberFunctionHook （member function hook）
