@@ -493,6 +493,11 @@
 -  https://github.com/mgeeky/prc_xchk
 -  https://github.com/tinysec/iathook
 
+## InfinityHook
+
+-  https://github.com/huoji120/huoji_debuger
+-  https://github.com/everdox/InfinityHook
+
 ## inline hook
 
 -  https://github.com/everdox/InfinityHook (Hook system calls, context switches, page faults)
