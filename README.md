@@ -495,7 +495,7 @@
 
 ## InfinityHook
 
--  https://github.com/yanjuan99/yanjuan99.github.io/blob/d0c64c0bb10609c4680c30321253dd362a8a3097/_posts/2019-08-03-syscallhook.md
+-  https://yanjuan.xyz/2019/08/syscallhook/
 -  https://github.com/huoji120/huoji_debuger
 -  https://github.com/everdox/InfinityHook
 
