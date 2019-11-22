@@ -1307,6 +1307,7 @@
 
 ## cve
 
+-  https://github.com/apt69/COMahawk
 -  https://github.com/DownWithUp/CVE-Stockpile
 -  https://github.com/badd1e/Disclosures
 -  https://github.com/Barakat/CVE-2019-16098 (LPE)
