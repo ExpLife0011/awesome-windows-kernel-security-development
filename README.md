@@ -391,6 +391,7 @@
 
 ## windows kernel driver
 
+-  https://github.com/btbd/wpp (Intercepting DeviceControl via WPP)
 -  https://github.com/maharmstone/smbfs (SMB filesystem driver for Windows)
 -  https://github.com/maharmstone/btrfs (Windows driver for the next-generation Linux filesystem Btrfs)
 -  https://github.com/zodiacon/windowskernelprogrammingbook (sample)
