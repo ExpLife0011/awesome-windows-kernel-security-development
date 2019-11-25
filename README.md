@@ -808,6 +808,7 @@
 
 ## anti Ransomware
 
+-  https://github.com/NtRaiseHardError/Antimalware-Research
 -  https://github.com/clavis0x/AntiRansomware
 -  https://github.com/DecryptoniteTeam/Decryptonite
 -  https://github.com/ofercas/ransomware_begone
