@@ -1676,6 +1676,7 @@
 
 ## ida script & plugin
 
+-  https://github.com/fireeye/FIDL
 -  https://github.com/mefistotelis/ida-pro-loadmap
 -  https://github.com/ampotos/dynStruct
 -  https://github.com/patois/HRDevHelper 
