@@ -2457,6 +2457,7 @@
 
 ## wpad/pac
 
+-  https://github.com/marx-yu/ProxyParser
 -  http://www.devnotes.in/2014/11/08/auto-proxy-settings-with-PAC.html
 -  http://www.lybbn.cn/data/datas.php?yw=76
 -  https://blog.huzhifeng.com/2017/07/16/PAC/
