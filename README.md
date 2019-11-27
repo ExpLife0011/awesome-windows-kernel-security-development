@@ -1427,7 +1427,7 @@
 -  https://github.com/trailofbits/sienna-locomotive
 -  https://github.com/compsec-snu/razzer
 -  https://github.com/wcventure/FuzzingPaper
--  https://github.com/mwrlabs/ViridianFuzzer
+-  https://github.com/mwrlabs/ViridianFuzzer (fuzz Hyper-V hypercalls)
 -  https://github.com/GoSSIP-SJTU/TripleDoggy
 -  https://github.com/payatu/EMFFuzzer
 -  https://github.com/googleprojectzero/bochspwn-reloaded
