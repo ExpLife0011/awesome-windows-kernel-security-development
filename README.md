@@ -1415,6 +1415,7 @@
 
 ## fuzzer
 
+-  https://github.com/wcventure/FuzzingPaper (paper)
 -  https://github.com/FoxHex0ne/Silfen
 -  https://bbs.pediy.com/thread-255544.htm
 -  https://bbs.pediy.com/thread-255162.htm (winafl)
