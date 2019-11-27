@@ -1415,6 +1415,7 @@
 
 ## fuzzer
 
+-  https://github.com/wcventure/WasmFuzz
 -  https://github.com/wcventure/FuzzingPaper (paper)
 -  https://github.com/FoxHex0ne/Silfen
 -  https://bbs.pediy.com/thread-255544.htm
@@ -1981,6 +1982,8 @@
 
 ## awesome
 
+-  https://github.com/wcventure/FuzzingPaper
+-  https://github.com/wcventure/BugDetectionPaper
 -  https://github.com/xrkk/awesome-ida
 -  https://github.com/SecWiki/sec-chart
 -  https://github.com/skywind3000/awesome-cheatsheets (cheatsheets)
@@ -2421,6 +2424,7 @@
 
 ## paper
 
+-  https://github.com/wcventure/PC-Malware-Sklearner
 -  https://www.virusbulletin.com/uploads/pdf/conference_slides/2018/Svajcer-VB2018-KernelModeAnalysis.pdf (windbg usage)
 -  https://hitcon.org/2018/CMT/slide-files/d1_s5_r0.pdf?v=2 (game cheat)
 -  https://github.com/tyranid/WindowsRuntimeSecurityDemos
