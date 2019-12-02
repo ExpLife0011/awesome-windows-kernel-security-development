@@ -1989,6 +1989,7 @@
 
 ## awesome
 
+-  https://github.com/theLSA/CS-checklist
 -  https://github.com/wcventure/FuzzingPaper
 -  https://github.com/wcventure/BugDetectionPaper
 -  https://github.com/xrkk/awesome-ida
