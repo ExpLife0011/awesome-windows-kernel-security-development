@@ -1085,6 +1085,10 @@
 -  https://github.com/CHEF-KOCH/malware-research
 -  https://github.com/gentilkiwi/wanakiwi
 
+## av evasion
+
+-  https://github.com/paranoidninja/CarbonCopy
+
 ## arktools
 
 -  https://github.com/mohuihui/antispy
