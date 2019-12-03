@@ -1288,6 +1288,7 @@
 
 ## sandbox escape
 
+-  https://github.com/b4rtik/ATPMiniDump
 -  https://github.com/ray-cp/vm-escape
 -  https://github.com/xairy/vmware-exploitation
 -  https://github.com/649/Chrome-Sandbox-Exploit
