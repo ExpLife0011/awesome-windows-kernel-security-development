@@ -992,6 +992,7 @@
 
 ## uefi/smm
 
+-  https://github.com/SunnyKi/bareBoot
 -  https://github.com/DeviceObject/Uefi_HelloWorld
 -  https://github.com/LongSoft/UEFITool
 -  https://github.com/dude719/UEFI-Bootkit
