@@ -559,6 +559,7 @@
 
 ## anti hook
 
+-  https://github.com/outflanknl/Dumpert
 -  https://github.com/nickcano/ReloadLibrary
 
 ## inject technique (ring0)
