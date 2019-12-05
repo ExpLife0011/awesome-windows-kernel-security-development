@@ -2334,6 +2334,7 @@
 
 ## web security research site
 
+-  https://pagedout.institute/
 -  https://github.com/frizb/Bypassing-Web-Application-Firewalls (bypass waf)
 -  http://malware-traffic-analysis.net
 -  https://malwaretips.com/
