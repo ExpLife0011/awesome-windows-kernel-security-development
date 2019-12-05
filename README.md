@@ -371,6 +371,10 @@
 -  https://github.com/nmgwddj/SystemProcessInfo
 -  https://github.com/nmgwddj/ServiceMgr
 
+## etw
+
+-  https://github.com/pierricgimmig/orbitprofiler
+
 ## wsl/unix
 
 -  https://github.com/Mermeze/wslam (wsl anti malware)
