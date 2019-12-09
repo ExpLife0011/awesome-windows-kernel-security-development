@@ -2160,6 +2160,11 @@
 -  https://github.com/adblockplus/adblockpluscore
 -  https://github.com/adblockplus/libadblockplus
 
+## bypass uac
+
+-  https://github.com/sailay1996/UAC_Bypass_In_The_Wild
+-  https://github.com/hfiref0x/UACME
+
 ## miscellaneous
 
 -  https://github.com/rabbitstack/fibratus (https://github.com/rabbitstack/fibratus)
@@ -2223,7 +2228,6 @@
 -  https://github.com/intel/haxm
 -  https://github.com/akayn/Resources
 -  https://github.com/DarthTon/SecureEraseWin
--  https://github.com/hfiref0x/UACME
 -  https://github.com/tinysec/windows-syscall-table
 -  https://github.com/tinysec/jsrt
 -  https://github.com/zodiacon/DriverMon
