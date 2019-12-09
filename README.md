@@ -1619,6 +1619,7 @@
 
 ## deobfuscation
 
+-  https://github.com/amimo/ollvm-breaker
 -  https://github.com/JonathanSalwan/Tigress_protection
 -  https://github.com/1111joe1111/tuts (vmprotect 3+)
 -  https://github.com/F8LEFT/DecLLVM
