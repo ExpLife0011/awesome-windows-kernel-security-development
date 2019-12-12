@@ -679,6 +679,7 @@
 
 ## dll hijack
 
+-  https://github.com/itm4n/CDPSvcDllHijacking
 -  https://github.com/Cybereason/siofra (identify and exploit)
 -  https://github.com/anhkgg/SuperDllHijack
 -  https://github.com/strivexjun/AheadLib-x86-x64
