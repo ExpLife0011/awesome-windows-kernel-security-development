@@ -1679,6 +1679,7 @@
 
 ## windbg plugin
 
+- https://github.com/long123king/grep (regular expression)
 - https://github.com/fdiskyou/iris
 - https://github.com/pstolarz/dumpext (pe unpack)
 - http://www.andreybazhan.com/debugging.html
