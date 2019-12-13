@@ -185,6 +185,7 @@
 
 ## windows system programming
 
+-  https://github.com/long123king/TokenInsight
 -  https://github.com/btbd/access (Access without a real handle)
 -  https://github.com/CoatiSoftware/Sourcetrail (Source code explorer)
 -  https://github.com/DoubleLabyrinth/WindowsSudo
@@ -1605,6 +1606,7 @@
 
 ## pin
 
+-  https://github.com/long123king/PE-Replay
 -  https://github.com/Fare9/ANBU
 -  https://github.com/BreakingMalware/Selfie
 -  https://github.com/BreakingMalware/AVulnerabilityChecker
@@ -1679,6 +1681,7 @@
 
 ## windbg plugin
 
+- https://github.com/long123king/tokenext
 - https://github.com/long123king/grep (regular expression)
 - https://github.com/fdiskyou/iris
 - https://github.com/pstolarz/dumpext (pe unpack)
