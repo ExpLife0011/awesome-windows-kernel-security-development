@@ -2105,6 +2105,7 @@
 
 ## tools
 
+-  https://github.com/codilime/veles
 -  https://github.com/glmcdona/strings2
 -  http://bytepointer.com/tools/index.htm#peupdate
 -  https://github.com/endgameinc/xori (Dissasemblers blackhat 2018)
