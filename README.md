@@ -89,6 +89,10 @@
 -  https://github.com/MKXJun/DirectX11-With-Windows-SDK
 -  https://github.com/ThirteenAG/d3d9-wrapper
 
+## opencv
+
+-  https://github.com/JimmyHHua/opencv_tutorials
+
 ## lua
 
 -  https://github.com/vinniefalco/LuaBridge
