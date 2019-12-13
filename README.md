@@ -540,6 +540,7 @@
 
 ## hook engine
 
+-  https://github.com/gdabah/distormx
 -  https://github.com/danielkrupinski/vac-hooks
 -  https://github.com/vol4ok/libsplice (r3 & r0)
 -  https://github.com/HoShiMin/HookLib (r3 & r0)
