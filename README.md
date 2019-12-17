@@ -1201,6 +1201,10 @@
 -  https://github.com/externalist/exploit_playground
 -  https://github.com/cervoise/Abuse-bash-for-windows
 
+## linux exploits
+
+-  https://github.com/ylcangel/exploits
+
 ## windows kernel exploits
 
 -  https://github.com/gdabah/win32k-bugs 
