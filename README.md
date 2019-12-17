@@ -1044,6 +1044,7 @@
 
 ## malware
 
+-  https://github.com/rokups/virtual-reality (backdoor)
 -  https://github.com/InQuest/malware-samples
 -  https://github.com/mstfknn/malware-sample-library
 -  https://github.com/Darkabode/possessor
