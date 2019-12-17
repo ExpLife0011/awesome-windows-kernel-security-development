@@ -1444,6 +1444,7 @@
 
 ## fuzzer
 
+-  https://github.com/uds-se/fuzzingbook
 -  https://github.com/wcventure/WasmFuzz
 -  https://github.com/wcventure/FuzzingPaper (paper)
 -  https://github.com/FoxHex0ne/Silfen
