@@ -2575,6 +2575,7 @@
 
 ## android reverse engine
 
+-  https://github.com/r0ysue/AndroidSecurityStudy
 -  https://github.com/JesusFreke/smali
 -  https://bitbucket.org/JesusFreke/smali
 -  https://github.com/pxb1988/dex2jar
