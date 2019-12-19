@@ -495,6 +495,7 @@
     
 ## eat/iat/object/irp/iat hook
 
+-  https://github.com/Rat431/ColdKernel_KUSER
 -  https://github.com/hasherezade/IAT_patcher
 -  https://github.com/Cyrex1337/hook.lib
 -  https://github.com/hMihaiDavid/hooks
