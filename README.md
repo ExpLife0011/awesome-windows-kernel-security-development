@@ -2024,6 +2024,7 @@
 
 ## awesome
 
+-  https://github.com/1c7/chinese-independent-developer
 -  https://github.com/theLSA/CS-checklist
 -  https://github.com/wcventure/FuzzingPaper
 -  https://github.com/wcventure/BugDetectionPaper
