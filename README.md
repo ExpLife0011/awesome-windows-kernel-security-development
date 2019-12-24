@@ -860,7 +860,8 @@
 -  https://github.com/AnwarMohamed/Packetyzer
 
 ## afd
- 
+
+-  https://github.com/batteryshark/AfdProxy
 -  https://github.com/xiaomagexiao/GameDll 
 -  https://github.com/DeDf/afd
 -  https://github.com/a252293079/NProxy
