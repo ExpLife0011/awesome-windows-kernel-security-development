@@ -39,7 +39,7 @@
 -  https://github.com/bognikol/Eleusis    
     
 ## direct ui
- 
+
 -  http://www.skinui.cn/
 -  https://www.showdoc.cc/skinui?page_id=135303
 -  http://help.5yyz.com/665984 
@@ -86,6 +86,7 @@
 
 ## d3d
 
+-  https://github.com/QianMo/Direct3D-Win32-Book-Src-Code
 -  https://github.com/MKXJun/DirectX11-With-Windows-SDK
 -  https://github.com/ThirteenAG/d3d9-wrapper
 
