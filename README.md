@@ -1457,6 +1457,7 @@
 
 ## fuzzer
 
+-  https://github.com/zhunki/Superion
 -  https://github.com/uds-se/fuzzingbook
 -  https://github.com/wcventure/WasmFuzz
 -  https://github.com/wcventure/FuzzingPaper (paper)
