@@ -549,6 +549,7 @@
 
 ## hook engine
 
+-  https://github.com/btbd/smap
 -  https://github.com/gdabah/distormx
 -  https://github.com/danielkrupinski/vac-hooks
 -  https://github.com/vol4ok/libsplice (r3 & r0)
