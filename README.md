@@ -765,6 +765,7 @@
 
 ## callback
 
+-  https://github.com/socjordi/sauron
 -  https://github.com/OSRDrivers/kmexts (callbacks)
 -  https://github.com/godaddy/procfilter (yara-integrated)
 -  https://github.com/McSimp/unfairplay
