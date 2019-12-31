@@ -781,6 +781,10 @@
 -  https://github.com/nmgwddj/Learn-Windows-Drivers
 -  https://github.com/SamLarenN/CallbackDisabler
 
+## keyboard filter
+
+-  https://github.com/supermanc88/KeyboardEncrypt
+
 ## usb filter
 
 -  https://github.com/GoodstudyChina/USBlocker
