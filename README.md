@@ -433,6 +433,7 @@
 
 ## windows kernel driver with c++ runtime
 
+-  https://github.com/avakar/vcrtl
 -  https://github.com/ZhanLang/msddk
 -  https://github.com/DragonQuestHero/Kernel-Force-Delete (force delete file)
 -  https://github.com/MeeSong/WDKExt
