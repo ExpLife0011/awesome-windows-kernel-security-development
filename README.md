@@ -2043,6 +2043,7 @@
 
 ## awesome
 
+-  https://github.com/alphaSeclab/awesome-reverse-engineering
 -  https://github.com/enovella/TEE-reversing
 -  https://github.com/1c7/chinese-independent-developer
 -  https://github.com/theLSA/CS-checklist
