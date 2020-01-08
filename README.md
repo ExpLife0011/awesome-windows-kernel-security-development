@@ -1365,6 +1365,7 @@
 
 ## cve
 
+-  https://github.com/bluefrostsecurity/CVE-2019-1215 (LPE)
 -  https://github.com/apt69/COMahawk
 -  https://github.com/DownWithUp/CVE-Stockpile
 -  https://github.com/badd1e/Disclosures
