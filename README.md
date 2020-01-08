@@ -1594,6 +1594,7 @@
 
 ## anti cheat
 
+-  https://github.com/niemand-sec/Reversing-XignCode3-Driver
 -  https://github.com/niemand-sec/AntiCheat-Testing-Framework
 -  https://github.com/GravitLauncher/Avanguard
 -  https://github.com/Mouka-Yang/AntiCheatProtector
