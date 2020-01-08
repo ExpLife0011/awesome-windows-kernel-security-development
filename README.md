@@ -2045,6 +2045,7 @@
 
 ## awesome
 
+-  https://chybeta.github.io/2017/08/19/Software-Security-Learning/
 -  https://github.com/alphaSeclab/awesome-reverse-engineering
 -  https://github.com/enovella/TEE-reversing
 -  https://github.com/1c7/chinese-independent-developer
