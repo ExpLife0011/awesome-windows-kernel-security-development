@@ -1534,6 +1534,7 @@
 
 ## game hack
 
+-  https://github.com/huoji120/apex_full_cheat
 -  https://github.com/CasualX/apexbot
 -  https://github.com/tomLadder/Call-of-Duty-Black-Ops-III-Cheat
 -  https://github.com/vmcall/battleye_emulation
