@@ -1646,6 +1646,7 @@
 
 ## pin
 
+-  https://github.com/season-lab/bluepill/
 -  https://github.com/long123king/PE-Replay
 -  https://github.com/Fare9/ANBU
 -  https://github.com/BreakingMalware/Selfie
