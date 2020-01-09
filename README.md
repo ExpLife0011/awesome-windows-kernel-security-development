@@ -1169,6 +1169,7 @@
 
 ## bypass patchguard
 
+-  https://github.com/zhuhuibeishadiao/PatchGuardResearch
 -  https://github.com/can1357/ByePg
 -  https://github.com/zzhouhe/PG1903
 -  https://github.com/9176324/Shark
