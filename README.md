@@ -1598,6 +1598,7 @@
 
 ## anti cheat
 
+-  https://github.com/huoji120/CSGO_CrowAntiCheat
 -  https://github.com/niemand-sec/Reversing-XignCode3-Driver
 -  https://github.com/niemand-sec/AntiCheat-Testing-Framework
 -  https://github.com/GravitLauncher/Avanguard
