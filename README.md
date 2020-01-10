@@ -1472,6 +1472,7 @@
 
 ## fuzzer
 
+-  https://github.com/vanhauser-thc/AFLplusplus (AFLPlusPlus) 
 -  https://github.com/zhunki/Superion
 -  https://github.com/uds-se/fuzzingbook
 -  https://github.com/wcventure/WasmFuzz
