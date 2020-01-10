@@ -1123,6 +1123,7 @@
 
 ## av evasion
 
+-  https://github.com/nccgroup/Winpayloads
 -  https://github.com/TideSec/BypassAntiVirus
 -  https://github.com/jthuraisamy/SysWhispers
 -  https://github.com/huoji120/Antivirus_R3_bypass_demo
