@@ -1536,6 +1536,7 @@
 
 ## game hack
 
+-  https://github.com/zH4x/SoT-DLL (esp)
 -  https://github.com/huoji120/apex_full_cheat
 -  https://github.com/CasualX/apexbot
 -  https://github.com/tomLadder/Call-of-Duty-Black-Ops-III-Cheat
