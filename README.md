@@ -792,6 +792,7 @@
 
 ## usb filter
 
+-  https://github.com/changeofpace/MouClassInputInjection
 -  https://github.com/GoodstudyChina/USBlocker
 
 ## sfilter
