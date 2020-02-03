@@ -1424,6 +1424,7 @@
 
 ## vt
 
+-  https://github.com/jonomango/mango-library (🥭windows memory library aimed towards game hacking)
 -  https://github.com/chillancezen/ZeldaOS.x86_64
 -  https://github.com/9176324/Daat
 -  https://github.com/eyalz800/zpp_hypervisor
