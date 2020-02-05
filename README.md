@@ -190,6 +190,9 @@
 
 ## windows system programming
 
+-  http://rufus.ie/ (Create bootable USB drives the easy way)
+-  https://github.com/emmanuel-marty/em_inflate (Fast, small, in-memory inflate (zlib, deflate and gzip decompression))
+-  https://github.com/skadro-official/skCrypter (string crypt)
 -  https://github.com/hynninen/win-pbkdf2 
 -  https://github.com/K0rz3n/PatchesTester (check system patch info)
 -  https://github.com/nccgroup/WindowsJobLock (Windows Process Lockdown Tool using Job Objects)
@@ -407,6 +410,7 @@
 
 ## windows kernel driver
 
+-  https://github.com/hfiref0x/KDU (Kernel Driver Utility)
 -  https://github.com/zhuhuibeishadiao/JunkDriveOpenSource
 -  https://github.com/dearfuture/DriverTutorial
 -  https://github.com/G4rb3n/Windows-Driver
@@ -770,6 +774,7 @@
 
 ## callback
 
+-  https://github.com/maxkray13/Cvc (Communication via callback)
 -  https://github.com/socjordi/sauron
 -  https://github.com/OSRDrivers/kmexts (callbacks)
 -  https://github.com/godaddy/procfilter (yara-integrated)
@@ -1103,6 +1108,7 @@
 
 ## malware analysis
 
+-  https://github.com/JPCERTCC/EmoCheck
 -  https://github.com/G4rb3n/Malware-Killer
 -  https://github.com/G4rb3n/Malware-Picture
 -  https://github.com/a232319779/mmdt
@@ -1132,6 +1138,7 @@
 
 ## arktools
 
+-  https://github.com/MHaggis/sysmon-dfir (sysmon)
 -  https://github.com/antiwar3/py
 -  https://github.com/weixu8/pcmonitor (kpolarssl)
 -  https://github.com/mohuihui/antispy
@@ -1477,6 +1484,9 @@
 
 ## fuzzer
 
+-  https://www.youtube.com/user/gamozolabs/videos (great fuzz courses)
+-  https://github.com/aflsmart/aflsmart
+-  https://github.com/FoxHex0ne/DocParseFuzzingResources
 -  https://github.com/vanhauser-thc/AFLplusplus (AFLPlusPlus) 
 -  https://github.com/zhunki/Superion
 -  https://github.com/uds-se/fuzzingbook
@@ -1540,6 +1550,7 @@
 
 ## game hack
 
+-  https://github.com/Wando1423/Antario
 -  https://github.com/zH4x/SoT-DLL (esp)
 -  https://github.com/huoji120/apex_full_cheat
 -  https://github.com/CasualX/apexbot
@@ -2233,6 +2244,7 @@
 
 ## miscellaneous
 
+-  https://github.com/sailay1996/awesome_windows_logical_bugs
 -  https://github.com/rabbitstack/fibratus (https://github.com/rabbitstack/fibratus)
 -  https://github.com/theopolis/uefi-firmware-parser
 -  https://github.com/z175/kdmapper
@@ -2541,6 +2553,7 @@
 
 ## pentest
 
+-  https://github.com/Dm2333/ATTCK-PenTester-Book
 -  https://github.com/hongriSec/Web-Security-Attack
 -  https://github.com/jiansiting/Kali-Windows
 -  https://github.com/uknowsec/Active-Directory-Pentest-Notes
