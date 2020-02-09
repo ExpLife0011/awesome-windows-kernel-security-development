@@ -2628,6 +2628,7 @@
 ## android
 
 -  https://blog.csdn.net/aqi00/article/details/50012511
+-  https://github.com/xuexiangjys/XUI (UI)
 
 ## android reverse engine
 
