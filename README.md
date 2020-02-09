@@ -2640,6 +2640,10 @@
 -  https://github.com/Konloch/bytecode-viewer
 -  https://github.com/MobSF/Mobile-Security-Framework-MobSF
 
+## xposed
+
+-  https://github.com/fatal0/XVoiceChanger
+
 ## library
 
 -  https://github.com/myfreeer/cppreference2mshelp/
