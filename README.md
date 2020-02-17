@@ -521,6 +521,7 @@
 
 ## InfinityHook
 
+-  https://github.com/p4xon/SyscallHook
 -  https://yanjuan.xyz/2019/08/syscallhook/
 -  https://github.com/huoji120/huoji_debuger
 -  https://github.com/everdox/InfinityHook
