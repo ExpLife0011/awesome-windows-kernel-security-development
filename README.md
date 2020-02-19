@@ -2630,6 +2630,8 @@
 
 -  https://blog.csdn.net/aqi00/article/details/50012511
 -  https://github.com/xuexiangjys/XUI (UI)
+-  https://github.com/joinAero/AndroidWebServ
+-  https://github.com/lopspower/AndroidWebServer
 
 ## android reverse engine
 
