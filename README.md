@@ -2632,6 +2632,7 @@
 -  https://github.com/xuexiangjys/XUI (UI)
 -  https://github.com/joinAero/AndroidWebServ
 -  https://github.com/lopspower/AndroidWebServer
+-  https://clean-apps.github.io/CleanSCAN/
 
 ## android reverse engine
 
