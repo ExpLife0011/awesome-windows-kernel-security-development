@@ -410,6 +410,7 @@
 
 ## windows kernel driver
 
+-  https://github.com/DavidXanatos/IgnoreACLs
 -  https://github.com/hfiref0x/KDU (Kernel Driver Utility)
 -  https://github.com/zhuhuibeishadiao/JunkDriveOpenSource
 -  https://github.com/dearfuture/DriverTutorial
@@ -438,6 +439,7 @@
 
 ## windows kernel driver with c++ runtime
 
+-  https://github.com/haram/kernel_library
 -  https://github.com/avakar/vcrtl
 -  https://github.com/ZhanLang/msddk
 -  https://github.com/DragonQuestHero/Kernel-Force-Delete (force delete file)
