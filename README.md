@@ -2636,6 +2636,7 @@
 -  https://github.com/lopspower/AndroidWebServer
 -  https://clean-apps.github.io/CleanSCAN/
 -  https://github.com/devinhu/androidone
+-  https://github.com/shishuo365/PinyinIME
 
 ## android reverse engine
 
