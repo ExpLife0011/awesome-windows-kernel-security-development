@@ -190,6 +190,7 @@
 
 ## windows system programming
 
+-  https://github.com/ezrealik/AI-Icarus (AI iflytek SDK)
 -  http://rufus.ie/ (Create bootable USB drives the easy way)
 -  https://github.com/emmanuel-marty/em_inflate (Fast, small, in-memory inflate (zlib, deflate and gzip decompression))
 -  https://github.com/skadro-official/skCrypter (string crypt)
