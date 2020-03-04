@@ -2639,6 +2639,7 @@
 -  https://clean-apps.github.io/CleanSCAN/
 -  https://github.com/devinhu/androidone
 -  https://github.com/shishuo365/PinyinIME
+-  https://github.com/angcyo/RJcenter (Common lib)
 
 ## android reverse engine
 
