@@ -2632,6 +2632,8 @@
 
 ## android
 
+-  https://qmuiteam.com/android
+-  https://github.com/FadedYu/Framework_Android
 -  https://blog.csdn.net/aqi00/article/details/50012511
 -  https://github.com/xuexiangjys/XUI (UI)
 -  https://github.com/joinAero/AndroidWebServ
@@ -2640,6 +2642,26 @@
 -  https://github.com/devinhu/androidone
 -  https://github.com/shishuo365/PinyinIME
 -  https://github.com/angcyo/RJcenter (Common lib)
+-  https://github.com/ChenLittlePing/LearningVideo (FFmpeg)
+-  https://github.com/AriesHoo/FastLib
+-  https://github.com/devinhu/androidone
+-  https://github.com/afkT/DevUtils
+-  https://github.com/smuyyh/CommonLibary
+-  https://github.com/frodoking/App-Architecture
+-  https://github.com/ddnosh/AndroidQuick
+-  https://github.com/fly803/BaseProject
+-  https://blog.csdn.net/fukaimei/category_7160796.html
+-  https://github.com/chenyufeng1991/BaiduMap-TrafficAssistant
+-  https://github.com/naivor/naivorapp
+-  https://github.com/u014427391/elemeimitate (ele)
+-  https://github.com/leavesC/AndroidAllGuide
+-  https://github.com/lzan13/VMChat
+-  https://github.com/open-android/hellocharts-android
+-  https://github.com/sps135/wechatbysimple
+-  https://github.com/smart005/okandroid
+-  https://github.com/decadezuo/DZAgile
+-  https://github.com/jiankian/AnnZone
+-  https://github.com/xiaojigou/XJGARSDKDemoApp-Android
 
 ## android reverse engine
 
