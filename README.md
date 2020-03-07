@@ -1143,6 +1143,7 @@
 
 ## arktools
 
+-  https://github.com/D4stiny/PeaceMaker  (detects advanced techniques used by malware)
 -  https://github.com/MHaggis/sysmon-dfir (sysmon)
 -  https://github.com/antiwar3/py
 -  https://github.com/weixu8/pcmonitor (kpolarssl)
