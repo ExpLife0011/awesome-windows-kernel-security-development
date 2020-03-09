@@ -2665,6 +2665,8 @@
 -  https://github.com/xiaojigou/XJGARSDKDemoApp-Android
 -  https://github.com/mCyp/Orient-Ui
 -  https://github.com/xuexiangjys/XUpdate (Update)
+-  https://github.com/onestravel/playSound (fmod)
+-  https://github.com/onestravel/QQVoiceChange (fmod)
 
 ## android reverse engine
 
