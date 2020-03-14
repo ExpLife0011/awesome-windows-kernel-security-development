@@ -561,6 +561,7 @@
 
 ## hook engine
 
+-  https://github.com/nektra/Deviare-InProc
 -  https://github.com/btbd/smap
 -  https://github.com/gdabah/distormx
 -  https://github.com/danielkrupinski/vac-hooks
