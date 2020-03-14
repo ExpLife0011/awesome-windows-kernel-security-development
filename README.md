@@ -2593,6 +2593,14 @@
 -  http://deobfuscatejavascript.com/
 -  http://js.pnote.net/#/js
 
+## js reverse engine
+
+-  https://blog.csdn.net/weixin_43189702/article/details/103171967
+-  https://github.com/xianyucoder/Crack-JS
+-  https://github.com/freedom-wy/js-reverse
+-  https://github.com/maxnoodles/js_decrypt
+-  https://github.com/DingZaiHub/PythonSpider
+
 ## decompiler
 
 -  https://github.com/herumi/xbyak
