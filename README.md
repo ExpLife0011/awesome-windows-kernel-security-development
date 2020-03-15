@@ -1806,6 +1806,7 @@
 
 ## idapython
 
+-  https://github.com/thalium/idatag  
 -  https://github.com/sophoslabs/WebAssembly
 -  https://github.com/howmp/COMFinder
 -  https://github.com/maddiestone/IDAPythonEmbeddedToolkit
