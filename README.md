@@ -4,10 +4,20 @@
 
 # `awesome-windows-kernel-security-development`
  
+## powershell
+
+-  https://github.com/rootclay/Powershell-Attack-Guide
+ 
 ## pe file format
 
--  https://github.com/corkami/pics
-    
+-  https://github.com/corkami/pics 
+
+## asm ide
+
+-  https://github.com/ThomasJaeger/VisualMASM
+-  https://github.com/Dman95/SASM
+-  https://github.com/mrfearless/UASM-with-RadASM
+
 ## meltdown/spectre poc
 
 -  https://github.com/turbo/KPTI-PoC-Collection
@@ -17,6 +27,9 @@
     
 ## lightweight c++ gui library 
 
+-  https://github.com/Xoliper/ANGE
+-  https://github.com/iUIShop/LibUIDK (mfc skin ui)
+-  https://github.com/zlgopen/awtk 
 -  https://github.com/idea4good/GuiLite
 -  https://github.com/golang-ui/nuklear
 -  https://github.com/Dovyski/cvui
@@ -27,6 +40,11 @@
     
 ## direct ui
 
+-  http://www.skinui.cn/
+-  https://www.showdoc.cc/skinui?page_id=135303
+-  http://help.5yyz.com/665984 
+-  https://github.com/SOUI2/soui
+-  https://github.com/netease-im/NIM_Duilib_Framework
 -  https://github.com/gclxry/EasyDuilib
 -  https://github.com/v-star0719/MFC_LogicalWnd
 -  https://github.com/duzhi5368/FKDuiLibEditor
@@ -49,27 +67,58 @@
 
 -  https://github.com/shuax/GreenChrome
 
+## chrome Extension 
+
+-  https://github.com/Tuhinshubhra/ExtAnalysis
+
 ## cef
 
+-  https://github.com/fanfeilong/cefutil
 -  https://github.com/acristoffers/CEF3SimpleSample
 -  https://github.com/sanwer/Browser
 
 ## WebBrowser
 
+-  https://github.com/zhichao281/duilib-MiniBlinkBrowser
 -  https://github.com/litehtml/litebrowser 
 -  https://github.com/venam/Browser (lib)
 -  https://github.com/wanttobeno/Study_IWebBrowser2
 
 ## d3d
 
+-  https://github.com/QianMo/Direct3D-Win32-Book-Src-Code
+-  https://github.com/MKXJun/DirectX11-With-Windows-SDK
 -  https://github.com/ThirteenAG/d3d9-wrapper
+
+## opencv
+
+-  https://github.com/JimmyHHua/opencv_tutorials
 
 ## lua
 
 -  https://github.com/vinniefalco/LuaBridge
 
+## c++ 11/14/17/20
+
+-  https://github.com/akkaze/ThreadPool
+-  https://github.com/xiaoweiChen/CPP-Concurrency-In-Action-2ed-2019
+-  https://github.com/xiaoweiChen/CPP-17-STL-cookbook
+-  https://github.com/changkun/modern-cpp-tutorial
+
+## cmake
+
+-  https://github.com/xiaoweiChen/CMake-Cookbook
+
+## DesignPattern
+
+-  https://design-patterns.readthedocs.io/zh_CN/latest/index.html
+-  https://github.com/Waleon/DesignPatterns
+-  https://github.com/GoodmanTao/DesignPatternInC
+
 ## c++ & js
 
+-  https://github.com/xhawk18/promise-cpp
+-  https://github.com/panopticoncentral/jsrt-wrappers
 -  https://github.com/wargio/WSH-Framework
 -  https://github.com/ExpLife0011/WebBrowser
 -  https://github.com/wanttobeno/Study_mujs
@@ -107,7 +156,9 @@
 -  https://github.com/wjx0912/MySpy
 
 ## Shell Extension for Windows Explorer
-
+    
+-  https://github.com/derceg/explorerplusplus
+-  https://github.com/XhmikosR/perfmonbar (perfmonbar)
 -  https://github.com/abhimanyusirohi/ThumbFish (nice demo)
 -  https://github.com/matssigge/JASE
 -  https://github.com/Oeffner/MtzExtInfoTip
@@ -139,6 +190,63 @@
 
 ## windows system programming
 
+-  https://github.com/ezrealik/AI-Icarus (AI iflytek SDK)
+-  http://rufus.ie/ (Create bootable USB drives the easy way)
+-  https://github.com/emmanuel-marty/em_inflate (Fast, small, in-memory inflate (zlib, deflate and gzip decompression))
+-  https://github.com/skadro-official/skCrypter (string crypt)
+-  https://github.com/hynninen/win-pbkdf2 
+-  https://github.com/K0rz3n/PatchesTester (check system patch info)
+-  https://github.com/nccgroup/WindowsJobLock (Windows Process Lockdown Tool using Job Objects)
+-  https://github.com/long123king/TokenInsight
+-  https://github.com/btbd/access (Access without a real handle)
+-  https://github.com/CoatiSoftware/Sourcetrail (Source code explorer)
+-  https://github.com/DoubleLabyrinth/WindowsSudo
+-  https://github.com/AzureGreen/NetView
+-  https://github.com/MFCer/AutoUpdate
+-  https://github.com/ufrisk/LeechCore (Physical Memory Acquisition Library)
+-  https://github.com/marcosd4h/sysmonx
+-  https://github.com/Dankirk/RegSLScan
+-  https://github.com/nogginware/mstscdump
+-  https://github.com/zodiacon/ApiSetView
+-  https://github.com/DOGSHITD/SciDetectorApp (SCI)
+-  https://github.com/DOGSHITD/AcpiTool (ACPI)
+-  https://github.com/VertexToEdge/WindowFunctionTracer 
+-  https://github.com/sganis/golddrive
+-  https://github.com/yanncam/exe2powershell
+-  https://github.com/owodelta/coilgun (Direct API Calling) 
+-  https://github.com/NYAN-x-CAT/Disable-Windows-Defender
+-  https://github.com/d35ha/CallObfuscator
+-  https://github.com/zodiacon/RegEditX
+-  https://github.com/ZhanLang/jcfs (everything)
+-  https://github.com/ZhanLang/msdk (sdk)
+-  https://github.com/MiroKaku/ConMon
+-  https://github.com/SinaKarvandi/Process-Magics
+-  https://github.com/LoukaMB/ExceptionSupervisor
+-  https://github.com/zmrbak/PcWeChatHooK
+-  https://github.com/not-matthias/Nemesis (process dumper)
+-  https://github.com/QAX-A-Team/EventCleaner
+-  https://github.com/BlackINT3/none (common lib)
+-  https://github.com/77Sera/BrowserSecurity
+-  https://github.com/amitwaisel/Malproxy (Proxy system calls over an RPC channel)
+-  https://github.com/jnastarot/soul_eater (it can extract functions from .dll, .exe, .sys)
+-  https://github.com/mtth-bfft/lsobj
+-  https://github.com/mtth-bfft/ntsec
+-  https://github.com/fritzone/obfy
+-  https://github.com/microsoft/NetworkDirect
+-  https://github.com/jay/gethooks
+-  https://github.com/laxodev/RAII-WINAPI-Memory-Manager
+-  https://github.com/hfiref0x/WDExtract
+-  https://github.com/binbibi/libedge
+-  https://github.com/bb107/WinSudo
+-  https://github.com/can1357/WinFaults
+-  https://github.com/Silica/sandbox
+-  https://github.com/horsicq/Nauz-File-Detector
+-  https://github.com/horsicq/xntsv (nt struct) 
+-  https://github.com/jnastarot/shibari (pe+)
+-  https://github.com/NoMoreFood/WinPriv
+-  https://github.com/yejiansnake/windows-sys-base
+-  https://github.com/lifenjoiner/pacdbger
+-  https://github.com/lifenjoiner/sendto-plus
 -  https://github.com/billziss-gh/winspd
 -  https://github.com/ffiirree/Capturer
 -  https://github.com/Claybird/lhaforge
@@ -277,6 +385,10 @@
 -  https://github.com/nmgwddj/SystemProcessInfo
 -  https://github.com/nmgwddj/ServiceMgr
 
+## etw
+
+-  https://github.com/pierricgimmig/orbitprofiler
+
 ## wsl/unix
 
 -  https://github.com/Mermeze/wslam (wsl anti malware)
@@ -299,6 +411,23 @@
 
 ## windows kernel driver
 
+-  https://github.com/alxbrn/km-um-communication
+-  https://github.com/DavidXanatos/IgnoreACLs
+-  https://github.com/hfiref0x/KDU (Kernel Driver Utility)
+-  https://github.com/zhuhuibeishadiao/JunkDriveOpenSource
+-  https://github.com/dearfuture/DriverTutorial
+-  https://github.com/G4rb3n/Windows-Driver
+-  https://github.com/btbd/wpp (Intercepting DeviceControl via WPP)
+-  https://github.com/maharmstone/smbfs (SMB filesystem driver for Windows)
+-  https://github.com/maharmstone/btrfs (Windows driver for the next-generation Linux filesystem Btrfs)
+-  https://github.com/zodiacon/windowskernelprogrammingbook (sample)
+-  https://github.com/0xcpu/ExecutiveCallbackObjects
+-  https://github.com/alxbrn/r6s-external-nuklear-socket
+-  https://github.com/vmcall/dxgkrnl_hook
+-  https://github.com/alxbrn/kdmapper-1803-1903
+-  https://github.com/juniorjacob/readwrite-kernel-stable
+-  https://github.com/mstefanowich/IsFileSigned
+-  https://github.com/apriorit/antirootkit-anti-splicer 
 -  https://github.com/Mouka-Yang/KernelDriverDemo
 -  https://github.com/tomLadder/WinLib
 -  https://github.com/coltonon/MoaRpm
@@ -312,11 +441,14 @@
 
 ## windows kernel driver with c++ runtime
 
+-  https://github.com/haram/kernel_library
+-  https://github.com/avakar/vcrtl
+-  https://github.com/ZhanLang/msddk
 -  https://github.com/DragonQuestHero/Kernel-Force-Delete (force delete file)
 -  https://github.com/MeeSong/WDKExt
 -  https://github.com/HoShiMin/Kernel-Bridge (power)
 -  https://github.com/wjcsharp/Common
--  https://github.com/ExpLife/DriverSTL
+-  https://github.com/ExpLife/DriverSTL
 -  https://github.com/sysprogs/BazisLib
 -  https://github.com/AmrThabet/winSRDF
 -  https://github.com/sidyhe/dxx
@@ -340,6 +472,7 @@
 
 ## hidinput
 
+-  https://github.com/changeofpace/MouHidInputHook
 -  https://github.com/hawku/TabletDriver
 -  https://github.com/ViGEm/HidGuardian
 -  https://github.com/ecologylab/EcoTUIODriver
@@ -376,6 +509,7 @@
     
 ## eat/iat/object/irp/iat hook
 
+-  https://github.com/Rat431/ColdKernel_KUSER
 -  https://github.com/hasherezade/IAT_patcher
 -  https://github.com/Cyrex1337/hook.lib
 -  https://github.com/hMihaiDavid/hooks
@@ -388,6 +522,13 @@
 -  https://github.com/HollyDi/Ring0Hook
 -  https://github.com/mgeeky/prc_xchk
 -  https://github.com/tinysec/iathook
+
+## InfinityHook
+
+-  https://github.com/p4xon/SyscallHook
+-  https://yanjuan.xyz/2019/08/syscallhook/
+-  https://github.com/huoji120/huoji_debuger
+-  https://github.com/everdox/InfinityHook
 
 ## inline hook
 
@@ -420,6 +561,11 @@
 
 ## hook engine
 
+-  https://github.com/nektra/Deviare-InProc
+-  https://github.com/btbd/smap
+-  https://github.com/gdabah/distormx
+-  https://github.com/danielkrupinski/vac-hooks
+-  https://github.com/vol4ok/libsplice (r3 & r0)
 -  https://github.com/HoShiMin/HookLib (r3 & r0)
 -  https://github.com/Rebzzel/kiero (d3d hook)
 -  https://github.com/aschrein/apiparse
@@ -430,7 +576,7 @@
 -  https://github.com/coltonon/RegHookEx (mid function)
 -  https://github.com/Synestraa/ArchUltimate.HookLib
 -  https://github.com/DominicTobias/detourxs
--  https://github.com/Ilyatk/HookEngine
+-  https://github.com/Ilyatk/HookEngine
 -  https://github.com/zyantific/zyan-hook-engine
 -  https://github.com/martona/mhook
 -  https://github.com/EasyHook/EasyHook
@@ -442,10 +588,14 @@
 
 ## anti hook
 
+-  https://github.com/outflanknl/Dumpert
 -  https://github.com/nickcano/ReloadLibrary
 
 ## inject technique (ring0)
 
+-  https://github.com/btbd/modmap 
+-  https://github.com/Mecanik/MecanikProcessBreaker
+-  https://github.com/mactec0/Kernelmode-manual-mapping-through-IAT 
 -  https://github.com/adrianyy/KeInject
 -  https://github.com/Sqdwr/LoadImageInject
 -  https://github.com/haidragon/NewInjectDrv
@@ -454,6 +604,13 @@
 
 ## inject technique (ring3)
 
+-  https://github.com/antonioCoco/Mapping-Injection (MapViewOfFile2)
+-  https://github.com/theevilbit/injection
+-  https://github.com/SafeBreach-Labs/pinjectra
+-  https://github.com/odzhan/injection
+-  https://github.com/M-r-J-o-h-n/SWH-Injector
+-  https://github.com/nccgroup/ncloader (A session-0 capable dll injection utility)
+-  https://github.com/vmcall/eye_mapper (BattlEye x64 usermode injector)
 -  https://github.com/Shaxzy/VibranceInjector
 -  https://github.com/xiaobo93/UnModule_shellcode_Inject
 -  https://github.com/Cybellum/DoubleAgent
@@ -538,6 +695,7 @@
 
 ## load Dll from memory
 
+-  https://github.com/hasherezade/module_overloading
 -  https://github.com/UserExistsError/DllLoaderShellcode
 -  https://github.com/jnastarot/native_peloader
 -  https://github.com/fancycode/MemoryModule
@@ -549,6 +707,7 @@
 
 ## dll hijack
 
+-  https://github.com/itm4n/CDPSvcDllHijacking
 -  https://github.com/Cybereason/siofra (identify and exploit)
 -  https://github.com/anhkgg/SuperDllHijack
 -  https://github.com/strivexjun/AheadLib-x86-x64
@@ -556,6 +715,7 @@
 
 ## com hijack
 
+-  https://github.com/leoloobeek/COMProxy
 -  https://github.com/enigma0x3/MessageBox
 
 ## anti dll hijack
@@ -600,6 +760,7 @@
 
 ## hide & delete dll
 
+-  https://github.com/strivexjun/HideDll
 -  https://github.com/wyyqyl/HideModule
 
 ## load driver from memory
@@ -619,6 +780,8 @@
 
 ## callback
 
+-  https://github.com/maxkray13/Cvc (Communication via callback)
+-  https://github.com/socjordi/sauron
 -  https://github.com/OSRDrivers/kmexts (callbacks)
 -  https://github.com/godaddy/procfilter (yara-integrated)
 -  https://github.com/McSimp/unfairplay
@@ -634,12 +797,18 @@
 -  https://github.com/nmgwddj/Learn-Windows-Drivers
 -  https://github.com/SamLarenN/CallbackDisabler
 
+## keyboard filter
+
+-  https://github.com/supermanc88/KeyboardEncrypt
+
 ## usb filter
 
+-  https://github.com/changeofpace/MouClassInputInjection
 -  https://github.com/GoodstudyChina/USBlocker
 
 ## sfilter
 
+-  https://github.com/JokerRound/FlieSystemFilter
 -  https://github.com/haidragon/sfilter
 
 ## minifilter
@@ -683,6 +852,7 @@
 
 ## anti Ransomware
 
+-  https://github.com/NtRaiseHardError/Antimalware-Research
 -  https://github.com/clavis0x/AntiRansomware
 -  https://github.com/DecryptoniteTeam/Decryptonite
 -  https://github.com/ofercas/ransomware_begone
@@ -706,6 +876,7 @@
 
 ## alpc
 
+-  https://github.com/LoukaMB/Beacon
 -  https://github.com/avalon1610/ALPC
 
 ## lsp/spi
@@ -714,7 +885,8 @@
 -  https://github.com/AnwarMohamed/Packetyzer
 
 ## afd
- 
+
+-  https://github.com/batteryshark/AfdProxy
 -  https://github.com/xiaomagexiao/GameDll 
 -  https://github.com/DeDf/afd
 -  https://github.com/a252293079/NProxy
@@ -733,6 +905,9 @@
 
 ## wfp
 
+-  https://github.com/gifur/NetworkMnt
+-  https://github.com/guidoreina/http_inspect
+-  https://github.com/ZhanLang/netmonsys
 -  https://github.com/reinhardvz/enumwfp
 -  https://github.com/BOT-Man-JL/WFP-Traffic-Redirection-Driver
 -  https://github.com/henrypp/simplewall 
@@ -743,6 +918,7 @@
 -  https://github.com/gifur/NetworkMnt
 -  https://github.com/ss-abramchuk/OpenVPNAdapter/blob/f016614ed3dec30672e4f1821344b7992825a98d/OpenVPN%20Adapter/Vendors/openvpn/openvpn/tun/win/wfp.hpp
 -  https://github.com/itari/vapu
+-  https://github.com/ValdikSS/GoodbyeDPI
 -  https://github.com/basil00/Divert
 -  https://github.com/WPO-Foundation/win-shaper
 -  https://github.com/raymon-tian/WFPFirewall
@@ -754,12 +930,12 @@
 ## ndis
 
 -  https://github.com/pr0v3rbs/MalSiteBlocker
--  https://github.com/Beamer-LB/netmap/tree/stable/WINDOWS
--  https://github.com/ndemarinis/ovs/tree/22a1ba42f8137cd3532b54880b19b51d4b87440d/datapath-windows/ovsext
--  https://github.com/markjandrews/CodeMachineCourse/tree/5473d4ea808791c2a048f2c8c9c86f011a6da5e8/source/kerrkt.labs/labs/NdisLwf
+-  https://github.com/Beamer-LB/netmap/tree/stable/WINDOWS
+-  https://github.com/ndemarinis/ovs/tree/22a1ba42f8137cd3532b54880b19b51d4b87440d/datapath-windows/ovsext
+-  https://github.com/markjandrews/CodeMachineCourse/tree/5473d4ea808791c2a048f2c8c9c86f011a6da5e8/source/kerrkt.labs/labs/NdisLwf
 -  https://github.com/openthread/openthread/tree/master/examples/drivers/windows
--  https://github.com/Hartigan/Firewall
--  https://github.com/zy520321/ndis-filter
+-  https://github.com/Hartigan/Firewall
+-  https://github.com/zy520321/ndis-filter
 -  https://github.com/yuanmaomao/NDIS_Firewall
 -  https://github.com/SoftEtherVPN/Win10Pcap
 -  https://github.com/IsoGrid/NdisProtocol
@@ -778,6 +954,10 @@
 -  https://github.com/Microsoft/Windows-driver-samples/tree/master/network/config/bindview
 -  https://github.com/brorica/http_inject (winpcap)
 
+## game accelerator
+  
+-  https://github.com/NetchX/Netch
+ 
 ## wsk
 
 -  https://github.com/adrianyy/rw_socket_driver
@@ -791,6 +971,13 @@
 
 ## rootkits
 
+-  https://github.com/Mr-Un1k0d3r/SCShell
+-  https://github.com/realoriginal/doublepulsar-poc
+-  https://github.com/zouxianyu/PhysicalMemoryRW
+-  https://github.com/zouxianyu/KernelHiddenExecute
+-  https://github.com/isoadam/gina_public
+-  https://github.com/GayPig/driverless-basic-driver
+-  https://github.com/zerosum0x0/smbdoor
 -  https://github.com/Alex3434/wmi-static-spoofer
 -  https://github.com/KIDofot/BypassDriverDetection_And_Kill360Process
 -  https://github.com/longmode/UTKModule
@@ -848,6 +1035,7 @@
 
 ## uefi/smm
 
+-  https://github.com/SunnyKi/bareBoot
 -  https://github.com/DeviceObject/Uefi_HelloWorld
 -  https://github.com/LongSoft/UEFITool
 -  https://github.com/dude719/UEFI-Bootkit
@@ -870,6 +1058,8 @@
 
 ## anti debug
 
+-  https://github.com/sharepub/CheckVM-Sandbox
+-  https://github.com/nihilboy/anti
 -  https://github.com/atlantis2013/Evasion-Tools
 -  https://github.com/AlicanAkyol/sems
 -  https://github.com/strivexjun/XAntiDebug
@@ -884,6 +1074,12 @@
 
 ## malware
 
+-  https://github.com/vxunderground/Vx-Engines
+-  https://github.com/rokups/virtual-reality (backdoor)
+-  https://github.com/InQuest/malware-samples
+-  https://github.com/mstfknn/malware-sample-library
+-  https://github.com/Darkabode/possessor
+-  https://github.com/Darkabode/zerokit
 -  https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp (C#)
 -  https://github.com/zerosum0x0/koadic (JScript RAT)
 -  https://github.com/malwaredllc/bamf
@@ -918,6 +1114,10 @@
 
 ## malware analysis
 
+-  https://github.com/JPCERTCC/EmoCheck
+-  https://github.com/G4rb3n/Malware-Killer
+-  https://github.com/G4rb3n/Malware-Picture
+-  https://github.com/a232319779/mmdt
 -  https://github.com/Formyown/Alesense-Antivirus (nice demo)
 -  https://github.com/ctxis/capemon (Config And Payload Extraction)
 -  https://github.com/tdevuser/MalwFinder
@@ -934,8 +1134,23 @@
 -  https://github.com/CHEF-KOCH/malware-research
 -  https://github.com/gentilkiwi/wanakiwi
 
+## av evasion
+
+-  https://github.com/nccgroup/Winpayloads
+-  https://github.com/TideSec/BypassAntiVirus
+-  https://github.com/jthuraisamy/SysWhispers
+-  https://github.com/huoji120/Antivirus_R3_bypass_demo
+-  https://github.com/paranoidninja/CarbonCopy
+
 ## arktools
 
+-  https://github.com/D4stiny/PeaceMaker  (detects advanced techniques used by malware)
+-  https://github.com/MHaggis/sysmon-dfir (sysmon)
+-  https://github.com/antiwar3/py
+-  https://github.com/weixu8/pcmonitor (kpolarssl)
+-  https://github.com/mohuihui/antispy
+-  https://github.com/DavidXanatos/TaskExplorer
+-  https://github.com/BlackINT3/OpenArk
 -  https://github.com/basketwill/Sysmon_reverse
 -  https://github.com/ZhuHuiBeiShaDiao/KernelHooksDetection_x64
 -  https://github.com/AxtMueller/Windows-Kernel-Explorer
@@ -971,6 +1186,9 @@
 
 ## bypass patchguard
 
+-  https://github.com/zhuhuibeishadiao/PatchGuardResearch
+-  https://github.com/can1357/ByePg
+-  https://github.com/zzhouhe/PG1903
 -  https://github.com/9176324/Shark
 -  https://github.com/hfiref0x/UPGDSED
 -  https://github.com/tandasat/PgResarch
@@ -981,6 +1199,8 @@
 
 ## bypass dse
 
+-  https://github.com/alxbrn/gdrv-loader
+-  https://github.com/Mattiwatti/EfiGuard
 -  https://github.com/hfiref0x/TDL
 -  https://github.com/hfiref0x/DSEFix
 
@@ -1007,6 +1227,10 @@
 
 ## windows exploits
 
+-  https://github.com/peleghd/Windows-10-Exploitation
+-  https://github.com/NAXG/cve_2019_0708_bluekeep_rce (RDP)
+-  https://github.com/wchen-r7/VulnCases (cases)
+-  https://github.com/rockmelodies/CVE-2019-0708-Exploit (RDP)
 -  https://github.com/admintony/svnExploit
 -  https://github.com/smgorelik/Windows-RCE-exploits
 -  https://github.com/WindowsExploits/Exploits
@@ -1015,8 +1239,16 @@
 -  https://github.com/externalist/exploit_playground
 -  https://github.com/cervoise/Abuse-bash-for-windows
 
+## linux exploits
+
+-  https://github.com/ylcangel/exploits
+
 ## windows kernel exploits
 
+-  https://github.com/gdabah/win32k-bugs 
+-  https://github.com/SouhailHammou/Drivers (ATP bypass)
+-  https://www.unknowncheats.me/forum/anti-cheat-bypass/334557-vulnerable-driver-megathread.html?nsukey=CkSGplDUMAWaGbr8btXXDeNqNyzCau83773dZHbUgTD2KbfFsN4ReqwwjwB1TE2jjUz0HHSUQSrvX7JZ%2BtA0RPQFg5pWsGwlyCVT6EW1cF8Y%2BDfa%2Fd8KHdi%2FFG5mj6oTcKaCfR%2BQmUANoXeWHbzursQ68JQdcT5zfCKwgR7ZutAla5N%2FHH8448BpwB4nKJuBB0ns7Ex0vVB7O8j%2BkcFaug%3D%3D
+-  https://github.com/n3k/EKOParty2015_Windows_SMEP_Bypass (SEMP bypass)
 -  https://github.com/saaramar/execve_exploit (WSL)
 -  https://github.com/siberas/CVE-2016-3309_Reloaded
 -  https://github.com/moccajoghurt/drvmap_secure
@@ -1088,6 +1320,7 @@
 
 ## LPE
 
+-  https://github.com/itm4n/UsoDllLoader
 -  https://github.com/DoubleLabyrinth/SdoKeyCrypt-sys-local-privilege-elevation
 -  https://github.com/AlessandroZ/BeRoot
 -  https://github.com/HackerPide/The-Division-Bypass (division bypass)
@@ -1097,8 +1330,14 @@
 -  https://github.com/codewhitesec/UnmarshalPwn
 -  https://ohpe.github.io/juicy-potato/
 
+## linux exploit
+
+-  https://github.com/Lazenca/Exploit-tech
+-  https://github.com/Lazenca/Kernel-exploit-tech
+
 ## office exploit
 
+-  https://github.com/houjingyi233/office-exploit-case-study
 -  https://github.com/rxwx/CVE-2017-8570
 
 ## flash exploit
@@ -1107,10 +1346,13 @@
 
 ## sandbox
 
+-  https://github.com/Cisco-Talos/pyrebox
 -  https://github.com/taiFansou/Proteibox
 
 ## sandbox escape
 
+-  https://github.com/b4rtik/ATPMiniDump
+-  https://github.com/ray-cp/vm-escape
 -  https://github.com/xairy/vmware-exploitation
 -  https://github.com/649/Chrome-Sandbox-Exploit
 -  https://github.com/SilverMoonSecurity/SandboxEvasion
@@ -1141,6 +1383,20 @@
 
 ## cve
 
+-  https://github.com/ollypwn/CVE-2020-0601
+-  https://github.com/bluefrostsecurity/CVE-2019-1215 (LPE)
+-  https://github.com/apt69/COMahawk
+-  https://github.com/DownWithUp/CVE-Stockpile
+-  https://github.com/badd1e/Disclosures
+-  https://github.com/Barakat/CVE-2019-16098 (LPE)
+-  https://github.com/qazbnm456/awesome-cve-poc#cve-2016-3088
+-  https://github.com/Vlad-tri/CVE-2019-1132
+-  https://github.com/RingLcy/VulnerabilityAnalysisAndExploit
+-  https://github.com/thepwnrip/leHACK-Analysis-of-CVE-2018-8453
+-  https://github.com/o0xmuhe/RealWorldPwn
+-  https://github.com/sophoslabs/CVE-2019-0888 (ADO UAF)
+-  https://github.com/Iamgublin/CVE-2019-0803 (LPE)
+-  https://github.com/ze0r/cve-2019-0808-poc
 -  https://github.com/Ridter/acefile
 -  https://github.com/Ridter/Exchange2domain
 -  https://github.com/ze0r/cve-2018-8453-exp
@@ -1152,6 +1408,7 @@
 
 ## hips
 
+-  https://github.com/secrary/DrSemu
 -  https://github.com/godaddy/procfilter
 -  https://github.com/BrunoMCBraga/Kernel-Whisperer
 -  https://malwaretips.com/threads/av-self-protection-process-c-c.66200/
@@ -1165,6 +1422,9 @@
 
 ## windows hypervisor 
 
+-  https://github.com/FoxHex0ne/HyperViper
+-  https://github.com/comaeio/LiveCloudKd
+-  https://github.com/0vercl0k/pywinhv
 -  https://github.com/gamozolabs/falkervisor_grilled_cheese
 -  https://github.com/redogwu/hyper-v
 -  https://github.com/Ekrte/hithithit
@@ -1178,6 +1438,15 @@
 
 ## vt
 
+-  https://github.com/jonomango/mango-library (🥭windows memory library aimed towards game hacking)
+-  https://github.com/chillancezen/ZeldaOS.x86_64
+-  https://github.com/9176324/Daat
+-  https://github.com/eyalz800/zpp_hypervisor
+-  https://github.com/stonedreamforest/Mirage
+-  https://github.com/IgorKorkin/MemoryRanger
+-  https://github.com/hrbust86/SvmNest
+-  https://github.com/Kelvinhack/DeviceMon
+-  https://github.com/Kelvinhack/NoTruth
 -  https://github.com/udosteinberg/NOVA
 -  https://github.com/changeofpace/VivienneVMM (stealthy debugging framework)
 -  https://github.com/tklengyel/drakvuf
@@ -1222,7 +1491,25 @@
 
 ## fuzzer
 
--  https://github.com/mwrlabs/ViridianFuzzer
+-  https://www.youtube.com/user/gamozolabs/videos (great fuzz courses)
+-  https://github.com/aflsmart/aflsmart
+-  https://github.com/FoxHex0ne/DocParseFuzzingResources
+-  https://github.com/vanhauser-thc/AFLplusplus (AFLPlusPlus) 
+-  https://github.com/zhunki/Superion
+-  https://github.com/uds-se/fuzzingbook
+-  https://github.com/wcventure/WasmFuzz
+-  https://github.com/wcventure/FuzzingPaper (paper)
+-  https://github.com/FoxHex0ne/Silfen
+-  https://bbs.pediy.com/thread-255544.htm
+-  https://bbs.pediy.com/thread-255162.htm (winafl)
+-  https://github.com/bin2415/fuzzing_paper
+-  https://github.com/mxmssh/manul
+-  https://github.com/nccgroup/fuzzowski
+-  https://github.com/rk700/uniFuzzer (closed-source binaries fuzzer)
+-  https://github.com/trailofbits/sienna-locomotive
+-  https://github.com/compsec-snu/razzer
+-  https://github.com/wcventure/FuzzingPaper
+-  https://github.com/mwrlabs/ViridianFuzzer (fuzz Hyper-V hypercalls)
 -  https://github.com/GoSSIP-SJTU/TripleDoggy
 -  https://github.com/payatu/EMFFuzzer
 -  https://github.com/googleprojectzero/bochspwn-reloaded
@@ -1270,6 +1557,20 @@
 
 ## game hack
 
+-  https://github.com/Wando1423/Antario
+-  https://github.com/zH4x/SoT-DLL (esp)
+-  https://github.com/huoji120/apex_full_cheat
+-  https://github.com/CasualX/apexbot
+-  https://github.com/tomLadder/Call-of-Duty-Black-Ops-III-Cheat
+-  https://github.com/vmcall/battleye_emulation
+-  https://github.com/JakeDahl/ApexStuff
+-  https://github.com/luciouskami/LOL-CN-Anti-AntCheat
+-  https://github.com/danielkrupinski/Osiris
+-  https://github.com/ApexLegendsUC/anti-cheat-emulator
+-  https://github.com/EternityX/DEADCELL-CSGO
+-  https://github.com/adrianyy/EACReversing （EAC）
+-  https://github.com/EquiFox/KsDumper (process dump from kernel space)
+-  https://github.com/EternityX/DEADCELL-CSGO
 -  https://github.com/M-T3K/GameHacking
 -  https://github.com/nanoric/pkn
 -  https://github.com/luciouskami/APEX-EACBypass
@@ -1287,7 +1588,7 @@
 -  https://github.com/Tai7sy/BE_Fuck (Battleye)
 -  https://github.com/Synestraa/Highcall-Library
 -  https://github.com/cheat-engine/cheat-engine
--  https://github.com/DreamHacks/dreamdota
+-  https://github.com/DreamHacks/dreamdota
 -  https://github.com/yoie/NGPlug-in
 -  https://github.com/DevelopKits/proj
 -  https://github.com/VideoCardGuy/ExpTool_GUI
@@ -1322,6 +1623,9 @@
 
 ## anti cheat
 
+-  https://github.com/huoji120/CSGO_CrowAntiCheat
+-  https://github.com/niemand-sec/Reversing-XignCode3-Driver
+-  https://github.com/niemand-sec/AntiCheat-Testing-Framework
 -  https://github.com/GravitLauncher/Avanguard
 -  https://github.com/Mouka-Yang/AntiCheatProtector
 -  https://github.com/mq1n/NoMercy
@@ -1347,6 +1651,7 @@
 
 ## pe protector
 
+-  https://github.com/93aef0ce4dd141ece6f5/Packer
 -  https://github.com/devilogic/xvirus
 -  https://github.com/nickcano/RelocBonus 
 -  https://github.com/jnastarot/furikuri
@@ -1359,12 +1664,17 @@
 
 ## emulate code execution
 
+-  https://github.com/sycurelab
 -  https://github.com/hzqst/unicorn_pe
 -  https://github.com/inaz2/Unico
 -  https://github.com/Coldzer0/Cmulator
 
 ## pin
 
+-  https://github.com/thalium/icebox
+-  https://github.com/season-lab/bluepill/
+-  https://github.com/long123king/PE-Replay
+-  https://github.com/Fare9/ANBU
 -  https://github.com/BreakingMalware/Selfie
 -  https://github.com/BreakingMalware/AVulnerabilityChecker
 -  https://github.com/hasherezade/MyPinTools
@@ -1383,6 +1693,7 @@
 
 ## deobfuscation
 
+-  https://github.com/amimo/ollvm-breaker
 -  https://github.com/JonathanSalwan/Tigress_protection
 -  https://github.com/1111joe1111/tuts (vmprotect 3+)
 -  https://github.com/F8LEFT/DecLLVM
@@ -1399,8 +1710,8 @@
 -  https://bbs.pediy.com/thread-223849.htm
 -  https://github.com/airbus-seclab/bincat
 -  https://github.com/SCUBSRGroup/Taint-Analyse
--  https://github.com/airbus-seclab/bincat
--  https://github.com/SCUBSRGroup/Taint-Analyse
+-  https://github.com/airbus-seclab/bincat
+-  https://github.com/SCUBSRGroup/Taint-Analyse
 -  https://github.com/piscou/FuzzWin
 
 ## bin diff
@@ -1418,6 +1729,8 @@
 
 ## x64dbg plugin
 
+-  https://github.com/horsicq
+-  https://github.com/Ahmadmansoor/AdvancedScript
 -  https://github.com/changeofpace/Force-Page-Protection
 -  https://github.com/secrary/idenLib
 -  https://github.com/Gbps/x64dbg-consonance-theme
@@ -1435,6 +1748,9 @@
 
 ## windbg plugin
 
+- https://github.com/long123king/tokenext
+- https://github.com/long123king/grep (regular expression)
+- https://github.com/fdiskyou/iris
 - https://github.com/pstolarz/dumpext (pe unpack)
 - http://www.andreybazhan.com/debugging.html
 - https://github.com/vallejocc/Reverse-Engineering-Arsenal/ (anti-anti_debugging winDbg scripts)
@@ -1450,8 +1766,17 @@
 - http://virtualkd.sysprogs.org/
 - https://github.com/VincentSe/WatchTrees
 
+## virtualkd
+
+- https://github.com/4d61726b/VirtualKD-Redux
+
 ## ida script & plugin
 
+-  https://github.com/fireeye/FIDL
+-  https://github.com/mefistotelis/ida-pro-loadmap
+-  https://github.com/ampotos/dynStruct
+-  https://github.com/patois/HRDevHelper 
+-  https://github.com/0xeb/ida-qscripts (easy developing script)
 -  https://github.com/google/binexport
 -  https://github.com/nihilus/ida-pro-swf
 -  https://github.com/ax330d/hrdev
@@ -1482,6 +1807,8 @@
 
 ## idapython
 
+-  https://github.com/thalium/idatag  
+-  https://github.com/sophoslabs/WebAssembly
 -  https://github.com/howmp/COMFinder
 -  https://github.com/maddiestone/IDAPythonEmbeddedToolkit
 -  https://github.com/zyantific/IDASkins
@@ -1670,10 +1997,16 @@
 
 ## metasploit
 
+-  https://github.com/entynetproject/entypreter
+-  https://github.com/dr0op/MsfRpcApi
 -  https://github.com/phackt/stager.dll
 -  https://github.com/ExpLife/metasploit-framework
 -  https://github.com/NytroRST/NetRipper
 -  https://github.com/breenmachine/RottenPotatoNG
+
+#  shellcode generator
+
+-  https://github.com/TheWover/donut
 
 ## shellcode encoder
 
@@ -1697,6 +2030,7 @@
 
 ## https proxy
 
+-  https://github.com/justcoding121/Titanium-Web-Proxy
 -  http://anyproxy.io/cn/
 -  https://github.com/killbug2004/HttpsProxy
 -  https://github.com/erickutcher/httpproxy
@@ -1704,6 +2038,10 @@
 ## sock proxy
 
 -  https://github.com/liulilittle/PaperAirplane
+
+## reverse proxy
+
+-  https://github.com/fatedier/frp/
 
 ## mitm
 
@@ -1739,6 +2077,26 @@
 
 ## awesome
 
+-  https://websec.readthedocs.io/zh/latest/ (web sec)
+-  https://ctf-wiki.github.io/ctf-wiki/pwn/readme-zh/
+-  https://chybeta.github.io/2017/08/19/Software-Security-Learning/
+-  https://github.com/alphaSeclab/awesome-reverse-engineering
+-  https://github.com/enovella/TEE-reversing
+-  https://github.com/1c7/chinese-independent-developer
+-  https://github.com/theLSA/CS-checklist
+-  https://github.com/wcventure/FuzzingPaper
+-  https://github.com/wcventure/BugDetectionPaper
+-  https://github.com/xrkk/awesome-ida
+-  https://github.com/SecWiki/sec-chart
+-  https://github.com/skywind3000/awesome-cheatsheets (cheatsheets)
+-  https://github.com/toutiaoio/awesome-architecture
+-  https://github.com/streetleague/0xbird.github.io
+-  https://github.com/BlackINT3/awesome-debugging
+-  https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References
+-  https://github.com/jobbole/awesome-design-cn
+-  https://github.com/xuanhun/HackingResource
+-  https://github.com/yeyintminthuhtut/Awesome-Windows-Exploitation-Study-References
+-  https://github.com/anhkgg/awesome-windbg-extensions
 -  https://github.com/wcventure/FuzzingPaper
 -  https://github.com/fr0gger/awesome-ida-x64-olly-plugin
 -  https://github.com/Ridter/Intranet_Penetration_Tips
@@ -1765,11 +2123,21 @@
 
 ## windows Driver Kit ddi (device driver interface) documentation
 
+-  https://docs.microsoft.com/zh-cn/windows-hardware/drivers/install/
+-  https://docs.microsoft.com/zh-cn/windows-hardware/drivers/kernel/
+-  https://docs.microsoft.com/zh-cn/windows-hardware/drivers/network/
 -  https://docs.microsoft.com/zh-cn/windows-hardware/drivers/ddi/
--  https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/windbg-scripting-preview
+-  https://docs.microsoft.com/zh-cn/windows-hardware/drivers/driversecurity
+-  https://docs.microsoft.com/zh-cn/windows-hardware/drivers/wdf/
+-  https://docs.microsoft.com/zh-cn/windows-hardware/drivers/samples/
+-  https://docs.microsoft.com/zh-cn/windows-hardware/drivers/debugger/
+-  https://docs.microsoft.com/zh-cn/previous-versions/windows/embedded/gg157655(v=winembedded.80)
+-  https://docs.microsoft.com/zh-cn/windows-hardware/drivers/debugger/time-travel-debugging-overview
+-  https://docs.microsoft.com/zh-cn/previous-versions/visualstudio/visual-studio-2010/aa983363(v=vs.100) (vmx)
 
 ## windbg preview & jsprovider
 
+- https://github.com/benoitsevens/applying-ttd-to-malware-analysis
 - https://github.com/Microsoft/WinDbg-Samples
 - https://bbs.pediy.com/thread-246449.htm
 - http://doar-e.github.io/blog/2017/12/01/debugger-data-model/
@@ -1789,8 +2157,10 @@
 
 ## pe tool
 
+-  https://github.com/Darkabode/amte
 -  https://www.pelock.com/products/string-encrypt
 -  https://www.pelock.com/products/obfuscator
+-  https://github.com/hasherezade/funky_malware_formats
 -  https://github.com/hasherezade/hollows_hunter  (scan hook)
 -  https://github.com/hasherezade/pe-sieve
 -  https://github.com/hasherezade/bearparser
@@ -1809,6 +2179,7 @@
 
 ## tools
 
+-  https://github.com/codilime/veles
 -  https://github.com/glmcdona/strings2
 -  http://bytepointer.com/tools/index.htm#peupdate
 -  https://github.com/endgameinc/xori (Dissasemblers blackhat 2018)
@@ -1816,6 +2187,7 @@
 
 ## post-exploitation
 
+- https://github.com/0x09AL/DNS-Persist (DNS C&C)
 - https://github.com/francisck/DanderSpritz_lab 
 - https://github.com/francisck/DanderSpritz_docs
 
@@ -1827,6 +2199,7 @@
 
 ## apt
 
+-  https://github.com/RedDrip7/APT_Digital_Weapon
 -  https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections
 -  https://github.com/kbandla/APTnotes
 -  https://attack.mitre.org/wiki/Groups
@@ -1873,8 +2246,15 @@
 -  https://github.com/adblockplus/adblockpluscore
 -  https://github.com/adblockplus/libadblockplus
 
+## bypass uac
+
+-  https://github.com/sailay1996/UAC_Bypass_In_The_Wild
+-  https://github.com/hfiref0x/UACME
+
 ## miscellaneous
 
+-  https://github.com/sailay1996/awesome_windows_logical_bugs
+-  https://github.com/rabbitstack/fibratus (https://github.com/rabbitstack/fibratus)
 -  https://github.com/theopolis/uefi-firmware-parser
 -  https://github.com/z175/kdmapper
 -  https://github.com/heckerli/netshield
@@ -1935,7 +2315,6 @@
 -  https://github.com/intel/haxm
 -  https://github.com/akayn/Resources
 -  https://github.com/DarthTon/SecureEraseWin
--  https://github.com/hfiref0x/UACME
 -  https://github.com/tinysec/windows-syscall-table
 -  https://github.com/tinysec/jsrt
 -  https://github.com/zodiacon/DriverMon
@@ -1969,11 +2348,16 @@
 
 ## slides
 
+-  http://security.cs.rpi.edu/courses/binexp-spring2015
 -  https://rmusser.net/docs/
 -  https://keenlab.tencent.com/zh
 
 ## blogs
 
+-  https://redogwu.github.io (kernel exp)
+-  https://docs.microsoft.com/zh-cn/windows-hardware/drivers/debugger/debug-universal-drivers--kernel-mode-#kernelmodedebuggingcommandsandtechniques (windbg help)
+-  http://www.dbgtech.net (windbg help)
+-  https://blog.csdn.net/hgy413/article/details/7054870 (windbg  usage)
 -  https://guidedhacking.com (game hack)
 -  http://kdext.com/links.html
 -  http://www.reconstructer.org/papers/Hunting%20rootkits%20with%20Windbg.pdf
@@ -1998,7 +2382,7 @@
 -  http://www.geoffchappell.com/studies/windows/km/ntoskrnl/api/ex/profile/bugdemo.htm
 -  https://blog.can.ac
 -  https://b33t1e.github.io/2018/01/03/About-VMProtect/
--  http://www.diting0x.com/
+-  http://www.diting0x.com/
 -  http://lotabout.me/archives/ (write a c interpreter)
 -  http://2997ms.com/2016/10/09/2016/2016-9%E6%9C%88-%E5%90%AD%E5%93%A7%E5%92%94%E5%93%A7/
 -  http://www.trueai.cn/
@@ -2046,6 +2430,8 @@
 
 ## web security research site
 
+-  https://pagedout.institute/
+-  https://github.com/frizb/Bypassing-Web-Application-Firewalls (bypass waf)
 -  http://malware-traffic-analysis.net
 -  https://malwaretips.com/
 -  https://www.sec-wiki.com
@@ -2053,7 +2439,7 @@
 -  http://xuanwulab.github.io/cn/secnews/2018/02/08/index.html
 -  http://www.vxjump.net/
 -  https://www.pediy.com/
--  https://navisec.it/
+-  https://navisec.it/
 -  http://www.secbang.com/
 
 ## development documents
@@ -2071,8 +2457,9 @@
 
 ## leaked source code 
 
--  https://github.com/misterch0c/shadowbroker  (NSA)
--  https://github.com/pustladi/Windows-2000
+-  https://github.com/cocus/openmsvbvm
+-  https://github.com/misterch0c/shadowbroker (NSA)
+-  https://github.com/pustladi/Windows-2000
 -  https://github.com/killbug2004/NT_4.0_SourceCode
 -  https://github.com/pustladi/TrueCrypt-7.2
 -  https://github.com/pustladi/MS-DOS-v.1.1
@@ -2108,6 +2495,7 @@
 
 ## crypto api
 
+-  https://github.com/tplgy/cppcodec (c++11 base64)
 -  https://github.com/maldevel/AES256
 -  https://github.com/wbenny/mini-tor
 -  https://github.com/wyrover/CryptoAPI-examples
@@ -2146,30 +2534,56 @@
 
 ## paper
 
+-  https://github.com/wcventure/PC-Malware-Sklearner
+-  https://www.virusbulletin.com/uploads/pdf/conference_slides/2018/Svajcer-VB2018-KernelModeAnalysis.pdf (windbg usage)
+-  https://hitcon.org/2018/CMT/slide-files/d1_s5_r0.pdf?v=2 (game cheat)
 -  https://github.com/tyranid/WindowsRuntimeSecurityDemos
 -  https://translation-zh-cn.readthedocs.io/zh_CN/
 -  https://speakerdeck.com
 
 ## ebook
 
--  https://github.com/xuanhun/PythonHackingBook1
+-  https://github.com/Bypass007/Emergency-Response-Notes 
+-  https://github.com/yifengyou/The-design-and-implementation-of-a-64-bit-operating-system
+-  https://github.com/firmianay/CTF-All-In-One
+-  https://github.com/cfenollosa/os-tutorial 
+-  https://github.com/Snowming04/The-Hacker-Playbook-3-Translation
+-  https://github.com/xuanhun/PythonHackingBook1 
 -  https://github.com/xapax/security
 -  https://github.com/chryzsh/DarthSidious (AD Domain hack)
 -  https://github.com/chryzsh/practical-hacking
 -  http://www.foxebook.net/
 
+## ctf
+
+-  https://github.com/boogy/ctfbox
+-  https://github.com/Ignitetechnologies/Privilege-Escalation
+-  https://github.com/ktecv2000/How-to-play-CTF
+
 ## pentest
 
+-  https://github.com/Dm2333/ATTCK-PenTester-Book
+-  https://github.com/hongriSec/Web-Security-Attack
+-  https://github.com/jiansiting/Kali-Windows
+-  https://github.com/uknowsec/Active-Directory-Pentest-Notes
+-  https://micro8.gitbook.io/micro8/
+-  https://github.com/aleenzz/Cobalt_Strike_wiki
 -  https://github.com/l3m0n/pentest_study
 -  https://github.com/l3m0n/pentest_tools
 -  https://github.com/l3m0n/linux_information
 
 ## wpad/pac
 
+-  https://github.com/marx-yu/ProxyParser
 -  http://www.devnotes.in/2014/11/08/auto-proxy-settings-with-PAC.html
 -  http://www.lybbn.cn/data/datas.php?yw=76
 -  https://blog.huzhifeng.com/2017/07/16/PAC/
 -  https://github.com/manugarg/pacparser
+
+## javascript
+
+-  https://github.com/qianguyihao/Web
+-  https://github.com/Daotin/front-end-self-study-notes
 
 ## js obfuscator/deobfuscator
 
@@ -2181,8 +2595,17 @@
 -  http://deobfuscatejavascript.com/
 -  http://js.pnote.net/#/js
 
+## js reverse engine
+
+-  https://blog.csdn.net/weixin_43189702/article/details/103171967
+-  https://github.com/xianyucoder/Crack-JS
+-  https://github.com/freedom-wy/js-reverse
+-  https://github.com/maxnoodles/js_decrypt
+-  https://github.com/DingZaiHub/PythonSpider
+
 ## decompiler
 
+-  https://github.com/herumi/xbyak
 -  https://github.com/wargio/r2dec-js (asm to c)
 
 ## encryption/decryption tools
@@ -2193,8 +2616,87 @@
 
 -  https://github.com/yujiangshui/An-English-Guide-for-Programmers
 
+## downloader
+
+-  https://github.com/alanzhangzm/Photon
+
+## python
+
+-  https://github.com/wistbean/learn_python3_spider
+-  https://github.com/Kr1s77/awesome-python-login-model
+-  https://github.com/Kr1s77/Python-crawler-tutorial-starts-from-zero
+-  https://github.com/jackfrued/Python-100-Days
+
+## puppeteer
+
+-  https://github.com/GoogleChrome/puppeteer/blob/v1.20.0/docs/api.md
+-  https://zhaoqize.github.io/puppeteer-api-zh_CN
+-  https://github.com/csbun/thal
+-  https://www.yuque.com/imhelloworld/share-day/no8xoc
+-  https://blog.csdn.net/qupan1993/article/details/85371556
+-  https://www.php.cn/js-tutorial-399252.html
+
+## java
+
+-  http://www.52im.net/thread-28-1-1.html (beautyeye GUI)
+-  https://github.com/JackJiang2011/beautyeye (beautyeye GUI)
+-  https://blog.csdn.net/pinlantu/article/details/83957672
+
+## android
+
+-  https://qmuiteam.com/android
+-  https://github.com/FadedYu/Framework_Android
+-  https://blog.csdn.net/aqi00/article/details/50012511
+-  https://github.com/xuexiangjys/XUI (UI)
+-  https://github.com/joinAero/AndroidWebServ
+-  https://github.com/lopspower/AndroidWebServer
+-  https://clean-apps.github.io/CleanSCAN/
+-  https://github.com/devinhu/androidone
+-  https://github.com/shishuo365/PinyinIME
+-  https://github.com/angcyo/RJcenter (Common lib)
+-  https://github.com/ChenLittlePing/LearningVideo (FFmpeg)
+-  https://github.com/AriesHoo/FastLib
+-  https://github.com/devinhu/androidone
+-  https://github.com/afkT/DevUtils
+-  https://github.com/smuyyh/CommonLibary
+-  https://github.com/frodoking/App-Architecture
+-  https://github.com/ddnosh/AndroidQuick
+-  https://github.com/fly803/BaseProject
+-  https://blog.csdn.net/fukaimei/category_7160796.html
+-  https://github.com/chenyufeng1991/BaiduMap-TrafficAssistant
+-  https://github.com/naivor/naivorapp
+-  https://github.com/u014427391/elemeimitate (ele)
+-  https://github.com/leavesC/AndroidAllGuide
+-  https://github.com/lzan13/VMChat
+-  https://github.com/open-android/hellocharts-android
+-  https://github.com/sps135/wechatbysimple
+-  https://github.com/smart005/okandroid
+-  https://github.com/decadezuo/DZAgile
+-  https://github.com/jiankian/AnnZone
+-  https://github.com/xiaojigou/XJGARSDKDemoApp-Android
+-  https://github.com/mCyp/Orient-Ui
+-  https://github.com/xuexiangjys/XUpdate (Update)
+-  https://github.com/onestravel/playSound (fmod)
+-  https://github.com/onestravel/QQVoiceChange (fmod)
+
+## android reverse engine
+
+-  https://github.com/r0ysue/AndroidSecurityStudy
+-  https://github.com/JesusFreke/smali
+-  https://bitbucket.org/JesusFreke/smali
+-  https://github.com/pxb1988/dex2jar
+-  https://github.com/java-decompiler/jd-gui
+-  https://github.com/skylot/jadx
+-  https://github.com/Konloch/bytecode-viewer
+-  https://github.com/MobSF/Mobile-Security-Framework-MobSF
+
+## xposed
+
+-  https://github.com/fatal0/XVoiceChanger
+
 ## library
 
+-  https://github.com/myfreeer/cppreference2mshelp/
 -  https://www.ctolib.com/
 
 # `awesome-windows-kernel-security-development`
