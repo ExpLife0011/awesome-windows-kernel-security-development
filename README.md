@@ -593,6 +593,7 @@
 
 ## inject technique (ring0)
 
+-  https://github.com/alxbrn/kernel-injector
 -  https://github.com/btbd/modmap 
 -  https://github.com/Mecanik/MecanikProcessBreaker
 -  https://github.com/mactec0/Kernelmode-manual-mapping-through-IAT 
