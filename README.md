@@ -2695,6 +2695,10 @@
 
 -  https://github.com/fatal0/XVoiceChanger
 
+## Frida
+
+-  https://github.com/langgithub/RxAppEncryptionProtocol
+
 ## library
 
 -  https://github.com/myfreeer/cppreference2mshelp/
