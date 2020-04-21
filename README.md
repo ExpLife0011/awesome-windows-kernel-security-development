@@ -1322,6 +1322,7 @@
 
 ## LPE
 
+-  https://github.com/yusufqk/SystemToken
 -  https://github.com/itm4n/UsoDllLoader
 -  https://github.com/DoubleLabyrinth/SdoKeyCrypt-sys-local-privilege-elevation
 -  https://github.com/AlessandroZ/BeRoot
@@ -1440,6 +1441,7 @@
 
 ## vt
 
+-  https://github.com/SinaKarvandi/HyperDbg
 -  https://github.com/jonomango/mango-library (🥭windows memory library aimed towards game hacking)
 -  https://github.com/chillancezen/ZeldaOS.x86_64
 -  https://github.com/9176324/Daat
