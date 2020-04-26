@@ -1320,6 +1320,10 @@
 -  https://github.com/weizn11/MS17010_AllInOne
 -  https://github.com/TeskeVirtualSystem/MS17010Test
 
+## race condition
+
+-  https://github.com/0xcpu/dijuno
+
 ## LPE
 
 -  https://github.com/yusufqk/SystemToken
