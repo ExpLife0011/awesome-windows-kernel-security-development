@@ -411,6 +411,7 @@
 
 ## windows kernel driver
 
+-  https://github.com/BadPlayer555/KernelGDIDraw (GDI)
 -  https://github.com/alxbrn/km-um-communication
 -  https://github.com/DavidXanatos/IgnoreACLs
 -  https://github.com/hfiref0x/KDU (Kernel Driver Utility)
