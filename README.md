@@ -2690,6 +2690,7 @@
 -  https://github.com/xuexiangjys/XUpdate (Update)
 -  https://github.com/onestravel/playSound (fmod)
 -  https://github.com/onestravel/QQVoiceChange (fmod)
+-  https://github.com/virjar/zelda
 
 ## android reverse engine
 
