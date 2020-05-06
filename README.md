@@ -2090,6 +2090,7 @@
 
 ## awesome
 
+-  https://github.com/kevingo/coding-interview-university-zh-tw/blob/master/translations/README-cn.md
 -  https://websec.readthedocs.io/zh/latest/ (web sec)
 -  https://ctf-wiki.github.io/ctf-wiki/pwn/readme-zh/
 -  https://chybeta.github.io/2017/08/19/Software-Security-Learning/
