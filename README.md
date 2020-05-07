@@ -1328,6 +1328,7 @@
 
 ## LPE
 
+-  https://github.com/itm4n/PrintSpoofer
 -  https://github.com/yusufqk/SystemToken
 -  https://github.com/itm4n/UsoDllLoader
 -  https://github.com/DoubleLabyrinth/SdoKeyCrypt-sys-local-privilege-elevation
