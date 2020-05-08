@@ -139,6 +139,13 @@
 -  https://github.com/wanttobeno/Study_FindPicAlgorithm (find picture algorithm)
 -  https://github.com/wanttobeno/Window_GlassIntro_demo
 
+## QT
+
+-  https://github.com/feiyangqingyun/qucsdk
+-  https://github.com/feiyangqingyun/QWidgetDemo
+-  https://github.com/feiyangqingyun/qtkaifajingyan
+-  https://github.com/feiyangqingyun/QWidgetExe
+
 ## computer vision & machine learning
 
 -  https://github.com/wanttobeno/sod
