@@ -1147,6 +1147,7 @@
 
 ## av evasion
 
+-  https://github.com/ReddyyZ/GhostShell
 -  https://github.com/nccgroup/Winpayloads
 -  https://github.com/TideSec/BypassAntiVirus
 -  https://github.com/jthuraisamy/SysWhispers
