@@ -1576,6 +1576,7 @@
 
 ## game hack
 
+-  https://github.com/NMan1/Internal-Rainbow-Six-Cheat
 -  https://github.com/Vaseliinikives/Fortnite-External
 -  https://github.com/Joona70/fortnite-cheat-source-public
 -  https://github.com/qofeharaf/IGodsEye
