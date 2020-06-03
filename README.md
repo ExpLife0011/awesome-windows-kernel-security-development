@@ -1401,6 +1401,7 @@
 
 ## cve
 
+-  https://github.com/DownWithUp/CVE-Stockpile
 -  https://github.com/ollypwn/CVE-2020-0601
 -  https://github.com/bluefrostsecurity/CVE-2019-1215 (LPE)
 -  https://github.com/apt69/COMahawk
