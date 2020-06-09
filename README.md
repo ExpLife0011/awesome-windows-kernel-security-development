@@ -1511,6 +1511,7 @@
 
 ## fuzzer
 
+-  https://github.com/HyperDbg/HyperDbg (An x86-64 VT-x based Windows Debugger)
 -  https://www.youtube.com/user/gamozolabs/videos (great fuzz courses)
 -  https://github.com/aflsmart/aflsmart
 -  https://github.com/FoxHex0ne/DocParseFuzzingResources
