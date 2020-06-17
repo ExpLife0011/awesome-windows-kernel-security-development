@@ -1833,6 +1833,7 @@
 
 ## idapython
 
+-  https://github.com/inforion/idapython-cheatsheet
 -  https://github.com/thalium/idatag  
 -  https://github.com/sophoslabs/WebAssembly
 -  https://github.com/howmp/COMFinder
