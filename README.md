@@ -981,6 +981,7 @@
 
 ## rootkits
 
+-  https://github.com/thesecretclub/window_hijack
 -  https://github.com/Mr-Un1k0d3r/SCShell
 -  https://github.com/realoriginal/doublepulsar-poc
 -  https://github.com/zouxianyu/PhysicalMemoryRW
@@ -1649,6 +1650,7 @@
 
 ## anti cheat
 
+-  https://github.com/thesecretclub/CVEAC-2020
 -  https://github.com/huoji120/CSGO_CrowAntiCheat
 -  https://github.com/niemand-sec/Reversing-XignCode3-Driver
 -  https://github.com/niemand-sec/AntiCheat-Testing-Framework
