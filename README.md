@@ -611,6 +611,7 @@
 -  https://github.com/haidragon/NewInjectDrv
 -  https://github.com/alex9191/Kernel-dll-injector (DllInjectFromKernel)
 -  https://github.com/wbenny/keinject (ApcInjectFromKernel)
+-  https://github.com/repnz/apc-research (APC)
 
 ## inject technique (ring3)
 
