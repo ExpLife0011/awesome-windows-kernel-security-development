@@ -94,6 +94,10 @@
 
 -  https://github.com/JimmyHHua/opencv_tutorials
 
+## bass
+
+-  https://github.com/r10s/BASS_VST
+
 ## lua
 
 -  https://github.com/vinniefalco/LuaBridge
