@@ -1841,6 +1841,7 @@
 
 ## idapython
 
+-  https://github.com/Chordp/PatternGen (Pattern)
 -  https://github.com/inforion/idapython-cheatsheet
 -  https://github.com/thalium/idatag  
 -  https://github.com/sophoslabs/WebAssembly
