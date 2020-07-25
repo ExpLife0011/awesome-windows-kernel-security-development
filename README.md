@@ -795,6 +795,7 @@
 
 ## callback
 
+-  https://github.com/fdiskyou/windows-ps-callbacks-experiments
 -  https://github.com/maxkray13/Cvc (Communication via callback)
 -  https://github.com/socjordi/sauron
 -  https://github.com/OSRDrivers/kmexts (callbacks)
