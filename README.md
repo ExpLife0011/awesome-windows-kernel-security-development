@@ -2044,6 +2044,7 @@
 
 #  shellcode generator
 
+-  https://github.com/DownWithUp/DynamicKernelShellcode
 -  https://github.com/TheWover/donut
 
 ## shellcode encoder
