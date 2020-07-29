@@ -1265,6 +1265,7 @@
 
 ## windows kernel exploits
 
+-  https://github.com/bluefrostsecurity/Meltdown-KVA-Shadow-Leak (Meltdown Reloaded: Breaking Windows KASLR by Leaking KVA Shadow Mappings)
 -  https://github.com/synacktiv/Windows-kernel-SegmentHeap-Aligned-Chunk-Confusion
 -  https://github.com/gdabah/win32k-bugs 
 -  https://github.com/SouhailHammou/Drivers (ATP bypass)
