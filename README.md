@@ -1588,6 +1588,7 @@
 
 ## game hack
 
+-  https://github.com/NMan1/Rainbow-Six-Cheat
 -  https://github.com/FiYHer/How-to-create-a-csgo-cheating-program 
 -  https://github.com/NMan1/Internal-Rainbow-Six-Cheat
 -  https://github.com/Vaseliinikives/Fortnite-External
