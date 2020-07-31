@@ -2119,6 +2119,8 @@
 
 ## awesome
 
+-  https://github.com/Wenzel/awesome-virtualization
+-  https://github.com/alphaSeclab/anti-av
 -  https://github.com/kevingo/coding-interview-university-zh-tw/blob/master/translations/README-cn.md
 -  https://websec.readthedocs.io/zh/latest/ (web sec)
 -  https://ctf-wiki.github.io/ctf-wiki/pwn/readme-zh/
