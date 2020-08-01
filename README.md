@@ -1467,6 +1467,7 @@
 
 ## vt
 
+-  https://github.com/napocahv/napoca
 -  https://github.com/SinaKarvandi/HyperDbg
 -  https://github.com/jonomango/mango-library (🥭windows memory library aimed towards game hacking)
 -  https://github.com/chillancezen/ZeldaOS.x86_64
