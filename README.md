@@ -2302,6 +2302,7 @@
 
 ## miscellaneous
 
+-  https://github.com/forrest-orr/artifacts-kit
 -  https://github.com/sailay1996/awesome_windows_logical_bugs
 -  https://github.com/rabbitstack/fibratus (https://github.com/rabbitstack/fibratus)
 -  https://github.com/theopolis/uefi-firmware-parser
