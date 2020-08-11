@@ -990,6 +990,7 @@
 
 ## rootkits
 
+-  https://github.com/D4stiny/spectre
 -  https://github.com/thesecretclub/window_hijack
 -  https://github.com/Mr-Un1k0d3r/SCShell
 -  https://github.com/realoriginal/doublepulsar-poc
