@@ -456,6 +456,7 @@
 
 ## windows kernel driver with c++ runtime
 
+-  https://github.com/r1cky33/kernel_gdi_renderer
 -  https://github.com/haram/kernel_library
 -  https://github.com/avakar/vcrtl
 -  https://github.com/ZhanLang/msddk
