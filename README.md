@@ -1528,6 +1528,7 @@
 
 ## fuzzer
 
+-  https://github.com/math1as/Windows-GDI-fuzzer
 -  https://github.com/strongcourage/uafuzz
 -  https://github.com/HyperDbg/HyperDbg (An x86-64 VT-x based Windows Debugger)
 -  https://www.youtube.com/user/gamozolabs/videos (great fuzz courses)
