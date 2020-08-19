@@ -1669,6 +1669,7 @@
 
 ## anti cheat
 
+-  https://github.com/zyhp/vac3_inhibitor
 -  https://github.com/thesecretclub/CVEAC-2020
 -  https://github.com/huoji120/CSGO_CrowAntiCheat
 -  https://github.com/niemand-sec/Reversing-XignCode3-Driver
