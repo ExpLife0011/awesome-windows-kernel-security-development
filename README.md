@@ -1598,7 +1598,7 @@
 
 ## game hack
 
--  https://www.youtube.com/playlist?list=PL8TEddGT5w_jv01DHuJ8h6GH9clArlA9z (LOL)
+-  https://www.youtube.com/playlist?list=PL8TEddGT5w_j80QNqkFwl3stUTxlHol_h (LOL)
 -  https://github.com/mq1n/BadEye (BattlEye)
 -  https://github.com/NMan1/Rainbow-Six-Cheat
 -  https://github.com/FiYHer/How-to-create-a-csgo-cheating-program 
