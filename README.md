@@ -513,6 +513,7 @@
 
 ## ssdt hook
 
+-  https://github.com/iPower/KasperskyHook
 -  https://github.com/Sqdwr/64-bits-inserthook
 -  https://github.com/int0/ProcessIsolator
 -  https://github.com/mrexodia/TitanHide (x64dbg Plugin)-(DragonQuestHero Suggest)
