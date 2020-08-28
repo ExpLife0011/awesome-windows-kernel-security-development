@@ -513,6 +513,7 @@
 
 ## ssdt hook
 
+-  https://github.com/crvvdev/MasterHide (x64)
 -  https://github.com/iPower/KasperskyHook
 -  https://github.com/Sqdwr/64-bits-inserthook
 -  https://github.com/int0/ProcessIsolator
