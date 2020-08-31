@@ -2135,6 +2135,7 @@
 
 ## awesome
 
+-  https://github.com/FULLSHADE/WindowsExploitationResources
 -  https://github.com/Wenzel/awesome-virtualization
 -  https://github.com/alphaSeclab/anti-av
 -  https://github.com/kevingo/coding-interview-university-zh-tw/blob/master/translations/README-cn.md
