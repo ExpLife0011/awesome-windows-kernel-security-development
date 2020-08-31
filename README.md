@@ -1600,6 +1600,7 @@
 
 ## game hack
 
+-  https://github.com/nbqofficial/kernel-csgo (csgo)
 -  https://www.youtube.com/playlist?list=PL8TEddGT5w_j80QNqkFwl3stUTxlHol_h (LOL)
 -  https://github.com/mq1n/BadEye (BattlEye)
 -  https://github.com/NMan1/Rainbow-Six-Cheat
