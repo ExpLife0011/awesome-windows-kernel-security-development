@@ -1600,6 +1600,7 @@
 
 ## game hack
 
+-  https://github.com/Aki2k/BEDaisy(battleyes kernel driver)
 -  https://github.com/nbqofficial/kernel-csgo (csgo)
 -  https://www.youtube.com/playlist?list=PL8TEddGT5w_j80QNqkFwl3stUTxlHol_h (LOL)
 -  https://github.com/mq1n/BadEye (BattlEye)
