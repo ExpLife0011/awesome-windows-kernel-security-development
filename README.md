@@ -995,6 +995,7 @@
 
 ## rootkits
 
+-  https://github.com/bytecode77/living-off-the-land (fileless)
 -  https://github.com/D4stiny/spectre
 -  https://github.com/thesecretclub/window_hijack
 -  https://github.com/Mr-Un1k0d3r/SCShell
