@@ -1476,6 +1476,7 @@
 
 ## vt
 
+-  https://github.com/kukrimate/grr
 -  https://github.com/hvmi/hvmi
 -  https://github.com/napocahv/napoca
 -  https://github.com/SinaKarvandi/HyperDbg
