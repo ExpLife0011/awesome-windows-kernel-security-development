@@ -2085,6 +2085,7 @@
 
 ## http
 
+-  https://github.com/elnormous/HTTPRequest
 -  https://github.com/vlinhd11/WinHttpClass
 -  https://github.com/hpsocket/restclient-cpp
 -  https://github.com/farawaaay/http2 (http/2)
