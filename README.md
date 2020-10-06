@@ -529,6 +529,7 @@
     
 ## eat/iat/object/irp/iat hook
 
+-  https://github.com/jguo52/IOCTL-hook
 -  https://github.com/hugsy/CFB (Irp Hook)
 -  https://github.com/Rat431/ColdKernel_KUSER
 -  https://github.com/hasherezade/IAT_patcher
