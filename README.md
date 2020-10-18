@@ -2759,6 +2759,7 @@
 
 ## android reverse engine
 
+-  https://github.com/Efaker/FakerAndroid
 -  https://github.com/zhangke3016/VirtualUETool
 -  https://github.com/r0ysue/AndroidSecurityStudy
 -  https://github.com/JesusFreke/smali
