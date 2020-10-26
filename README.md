@@ -615,6 +615,7 @@
 
 ## inject technique (ring0)
 
+-  https://github.com/r1cky33/Basic-GUI-Loader
 -  https://github.com/alxbrn/kernel-injector
 -  https://github.com/btbd/modmap 
 -  https://github.com/Mecanik/MecanikProcessBreaker
