@@ -2639,6 +2639,7 @@
 
 ## pentest
 
+-  https://github.com/xiaoy-sec/Pentest_Note
 -  https://github.com/taielab/Taie-Bugbounty-killer
 -  https://github.com/Dm2333/ATTCK-PenTester-Book
 -  https://github.com/hongriSec/Web-Security-Attack
