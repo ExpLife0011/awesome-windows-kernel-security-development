@@ -615,6 +615,7 @@
 
 ## inject technique (ring0)
 
+-  https://github.com/Vicshann/GInjer
 -  https://github.com/r1cky33/Basic-GUI-Loader
 -  https://github.com/alxbrn/kernel-injector
 -  https://github.com/btbd/modmap 
@@ -805,6 +806,7 @@
 
 ## callback
 
+-  https://github.com/Vicshann/PEProtectDrv
 -  https://github.com/fdiskyou/windows-ps-callbacks-experiments
 -  https://github.com/maxkray13/Cvc (Communication via callback)
 -  https://github.com/socjordi/sauron
