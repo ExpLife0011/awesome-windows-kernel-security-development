@@ -2277,6 +2277,7 @@
 
 ## apt
 
+-  https://github.com/Yeti-791/APT-Guide
 -  https://github.com/RedDrip7/APT_Digital_Weapon
 -  https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections
 -  https://github.com/kbandla/APTnotes
