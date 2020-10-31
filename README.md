@@ -1107,6 +1107,7 @@
 
 ## malware
 
+-  https://github.com/Freakboy/CobaltStrike
 -  https://github.com/vxunderground/Vx-Engines
 -  https://github.com/rokups/virtual-reality (backdoor)
 -  https://github.com/InQuest/malware-samples
