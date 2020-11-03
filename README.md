@@ -2648,6 +2648,7 @@
 
 ## pentest
 
+-  https://github.com/hudunkey/Red-Team-links
 -  https://github.com/xiaoy-sec/Pentest_Note
 -  https://github.com/taielab/Taie-Bugbounty-killer
 -  https://github.com/Dm2333/ATTCK-PenTester-Book
