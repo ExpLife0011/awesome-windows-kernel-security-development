@@ -2330,6 +2330,9 @@
 
 ## bypass uac
 
+-  https://github.com/AzAgarampur/byeintegrity3-uac
+-  https://github.com/AzAgarampur/byeintegrity2-uac
+-  https://github.com/AzAgarampur/byeintegrity-uac
 -  https://github.com/sailay1996/UAC_Bypass_In_The_Wild
 -  https://github.com/hfiref0x/UACME
 
