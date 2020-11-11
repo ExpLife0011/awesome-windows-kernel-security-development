@@ -1222,6 +1222,8 @@
 
 # EDR
 
+-  https://github.com/jthuraisamy/TelemetrySourcerer
+-  https://github.com/ION28/BLUESPAWN
 -  https://github.com/ComodoSecurity/openedr
 
 ## bypass patchguard
