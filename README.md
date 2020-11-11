@@ -1220,6 +1220,10 @@
 -  https://github.com/hackshields/antivirus/
 -  https://github.com/AntiRootkit/BDArkit
 
+# EDR
+
+-  https://github.com/ComodoSecurity/openedr
+
 ## bypass patchguard
 
 -  https://github.com/zhuhuibeishadiao/PatchGuardResearch
