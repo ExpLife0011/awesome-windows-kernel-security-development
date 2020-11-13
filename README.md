@@ -426,6 +426,7 @@
 ## windows kernel driver
 
 -  https://github.com/yardenshafir/DpcWait (DPC)
+-  https://github.com/can1357/NtLua (Lua in kernel)
 -  https://github.com/mrexodia/NtPhp (Php in kernel)
 -  https://github.com/DownWithUp/CallMon
 -  https://github.com/BadPlayer555/KernelGDIDraw (GDI)
