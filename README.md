@@ -203,6 +203,7 @@
 
 ## windows system programming
 
+-  https://github.com/solemnwarning/rehex (hex editor)
 -  https://github.com/progmboy/openprocmon (procmon)
 -  https://github.com/ezrealik/AI-Icarus (AI iflytek SDK)
 -  http://rufus.ie/ (Create bootable USB drives the easy way)
