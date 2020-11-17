@@ -1826,6 +1826,7 @@
 
 ## windbg plugin
 
+- https://github.com/0cch/luadbg (lua ext)
 - https://github.com/repnz/windbg-cheat-sheet
 - https://github.com/long123king/tokenext
 - https://github.com/long123king/grep (regular expression)
