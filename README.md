@@ -2004,7 +2004,7 @@
 -  http://codegist.net/code/idapython-script/
 -  https://reverseengineering.stackexchange.com/questions/16055/idapython-get-xrefs-to-a-stack-variable
 
-## pykd
+## pykd & FAQ
 
 -  https://github.com/sogeti-esec-lab/LKD
 -  https://www.anquanke.com/post/id/86909
@@ -2035,6 +2035,7 @@
 -  http://theevilbit.blogspot.com/2017/09/windows-kernel-pool-spraying-fun-part-2.html
 -  http://theevilbit.blogspot.com/2017/09/windows-kernel-pool-spraying-fun-part-3.html
 -  http://theevilbit.blogspot.com/2017/09/windows-kernel-pool-spraying-fun-part-4.html
+-  https://githomelab.ru/pykd/pykd/-/issues/3
 
 ## rpc
 
