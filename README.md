@@ -1494,6 +1494,7 @@
 
 ## vt
 
+-  https://github.com/cyberus-technology/hedron.git
 -  https://github.com/kukrimate/grr
 -  https://github.com/hvmi/hvmi
 -  https://github.com/napocahv/napoca
