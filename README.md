@@ -794,6 +794,7 @@
 
 ## load driver from memory
 
+-  https://github.com/rogerxiii/kernel-codecave-poc
 -  https://github.com/ZhuHuiBeiShaDiao/DriverMaper
 -  https://github.com/fadetrack/KernelMemoryModule (Enable Exception)
 -  https://github.com/not-wlan/driver-hijack
