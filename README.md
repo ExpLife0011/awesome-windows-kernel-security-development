@@ -1437,6 +1437,7 @@
 
 ## cve
 
+-  https://github.com/yardenshafir/CVE-2020-1034
 -  https://github.com/ioncodes/CVE-2020-16938
 -  https://github.com/Ascotbe/Kernelhub
 -  https://github.com/DownWithUp/CVE-Stockpile
