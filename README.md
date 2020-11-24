@@ -633,6 +633,7 @@
 
 ## inject technique (ring3)
 
+-  https://github.com/Broihon/GH-Injector-Library
 -  https://github.com/antonioCoco/Mapping-Injection (MapViewOfFile2)
 -  https://github.com/theevilbit/injection
 -  https://github.com/SafeBreach-Labs/pinjectra
