@@ -1497,6 +1497,7 @@
 
 ## vt
 
+-  https://github.com/sooqua/VanderLeague (hack lol)
 -  https://github.com/cyberus-technology/hedron.git
 -  https://github.com/kukrimate/grr
 -  https://github.com/hvmi/hvmi
@@ -1624,6 +1625,7 @@
 
 ## game hack
 
+-  https://github.com/sooqua/VanderLeague (LOL)
 -  https://github.com/Speedi13/ROP-COMPILER (VAC / PB)
 -  https://github.com/Aki2k/BEDaisy(battleyes kernel driver)
 -  https://github.com/nbqofficial/kernel-csgo (csgo)
