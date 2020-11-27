@@ -1176,6 +1176,7 @@
 
 ## av evasion
 
+-  https://github.com/sv3nbeast/ImgLoaderShellCode
 -  https://github.com/ReddyyZ/GhostShell
 -  https://github.com/nccgroup/Winpayloads
 -  https://github.com/TideSec/BypassAntiVirus
@@ -1628,6 +1629,7 @@
 -  https://github.com/sooqua/VanderLeague (LOL)
 -  https://github.com/Speedi13/ROP-COMPILER (VAC / PB)
 -  https://github.com/Aki2k/BEDaisy(battleyes kernel driver)
+-  https://github.com/dretax/GarHal_CSGO (csgo)
 -  https://github.com/nbqofficial/kernel-csgo (csgo)
 -  https://www.youtube.com/playlist?list=PL8TEddGT5w_j80QNqkFwl3stUTxlHol_h (LOL)
 -  https://github.com/mq1n/BadEye (BattlEye)
@@ -2285,6 +2287,7 @@
 
 ## post-exploitation
 
+- https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
 - https://github.com/0x09AL/DNS-Persist (DNS C&C)
 - https://github.com/francisck/DanderSpritz_lab 
 - https://github.com/francisck/DanderSpritz_docs
