@@ -503,6 +503,7 @@
 
 ## dkom
 
+-  https://github.com/alal4465/Win_Rootkit (Kernel RAT X86)
 -  https://github.com/waryas/EUPMAccess
 -  https://github.com/notscimmy/pplib
 -  https://blog.csdn.net/zhuhuibeishadiao/article/details/51136650 (get process full path name)
