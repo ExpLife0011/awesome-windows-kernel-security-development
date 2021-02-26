@@ -1155,6 +1155,7 @@
 
 ## malware analysis
 
+-  https://github.com/huoji120/DuckMemoryScan
 -  https://github.com/JPCERTCC/EmoCheck
 -  https://github.com/G4rb3n/Malware-Killer
 -  https://github.com/G4rb3n/Malware-Picture
