@@ -1500,6 +1500,7 @@
 
 ## vt
 
+-  https://github.com/amiryeshurun/HyperWin
 -  https://github.com/sooqua/VanderLeague (hack lol)
 -  https://github.com/cyberus-technology/hedron.git
 -  https://github.com/kukrimate/grr
