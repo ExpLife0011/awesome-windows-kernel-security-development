@@ -2810,6 +2810,7 @@
 -  https://github.com/skylot/jadx
 -  https://github.com/Konloch/bytecode-viewer
 -  https://github.com/MobSF/Mobile-Security-Framework-MobSF
+-  https://github.com/FeJQ/AUPK ()
 
 ## xposed
 
