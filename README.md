@@ -1611,6 +1611,11 @@
 -  https://github.com/marche147/IoctlMon
 -  https://github.com/k0keoyo/Some-Kernel-Fuzzing-Paper
 
+## fuzz & vulnerability discovery learn
+
+-  https://github.com/Kiprey/Skr_Learning
+-  https://kiprey.github.io/categories/
+
 ## emet
 
 -  https://github.com/codingtest/EMET
