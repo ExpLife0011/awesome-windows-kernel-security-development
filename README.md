@@ -2829,6 +2829,7 @@
 
 -  https://github.com/langgithub/RxAppEncryptionProtocol
 -  https://github.com/dstmath/frida-unpack
+-  https://github.com/CreditTone/hooker
 
 ## library
 
