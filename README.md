@@ -2815,7 +2815,11 @@
 -  https://github.com/skylot/jadx
 -  https://github.com/Konloch/bytecode-viewer
 -  https://github.com/MobSF/Mobile-Security-Framework-MobSF
--  https://github.com/FeJQ/AUPK ()
+-  https://github.com/FeJQ/AUPK
+-  https://github.com/ItReadHub/20210124-192651-347 (unpack)
+-  https://github.com/AlienwareHe/RDex (unpack)
+-  https://github.com/OakChen/ApkShelling (unpack)
+-  https://github.com/WrBug/DeveloperHelper (unpack)
 
 ## xposed
 
@@ -2824,6 +2828,7 @@
 ## Frida
 
 -  https://github.com/langgithub/RxAppEncryptionProtocol
+-  https://github.com/dstmath/frida-unpack
 
 ## library
 
