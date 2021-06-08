@@ -2820,6 +2820,7 @@
 -  https://github.com/AlienwareHe/RDex (unpack)
 -  https://github.com/OakChen/ApkShelling (unpack)
 -  https://github.com/WrBug/DeveloperHelper (unpack)
+-  https://github.com/CodingGay/BlackDex (unpack)
 
 ## xposed
 
