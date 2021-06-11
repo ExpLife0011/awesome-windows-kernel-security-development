@@ -1500,6 +1500,7 @@
 
 ## vt
 
+-  https://github.com/Air14/HyperHide (anti anti debug)
 -  https://github.com/amiryeshurun/HyperWin
 -  https://github.com/sooqua/VanderLeague (hack lol)
 -  https://github.com/cyberus-technology/hedron.git
