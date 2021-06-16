@@ -2826,6 +2826,7 @@
 ## xposed
 
 -  https://github.com/fatal0/XVoiceChanger
+-  https://github.com/dirname/AppDebuggable
 
 ## Frida
 
