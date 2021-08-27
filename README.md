@@ -106,6 +106,7 @@
 
 ## c++ 11/14/17/20
 
+-  https://github.com/0voice/cpp_new_features
 -  https://github.com/akkaze/ThreadPool
 -  https://github.com/xiaoweiChen/CPP-Concurrency-In-Action-2ed-2019
 -  https://github.com/xiaoweiChen/CPP-17-STL-cookbook
