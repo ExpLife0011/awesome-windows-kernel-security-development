@@ -1638,6 +1638,10 @@
 
 -  https://github.com/scarsty/kys-cpp
 
+## game network accelerator
+
+-  https://github.com/csharpHub/aiocloud
+
 ## game hack
 
 -  https://github.com/sooqua/VanderLeague (LOL)
