@@ -998,6 +998,7 @@
  
 ## wsk
 
+-  https://github.com/Deputation/kernel_sockets_memory
 -  https://github.com/adrianyy/rw_socket_driver
 -  https://github.com/wbenny/KSOCKET
 -  https://github.com/xalley/WskHttp
