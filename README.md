@@ -851,6 +851,7 @@
 ## minifilter
 
 -  https://github.com/shubham0d/SymBlock  (prevent symbolic link exploits)
+-  https://github.com/TimelifeCzy/HIPS-HIDS_CveMod (CVE HIPS)
 -  https://github.com/roman-allen/FSFilterDriver
 -  https://github.com/jefrimustapa/detect-filename-block
 -  https://github.com/lxt1045/FileLogger
