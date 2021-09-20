@@ -850,6 +850,9 @@
 
 ## minifilter
 
+-  https://github.com/shubham0d/SymBlock  (prevent symbolic link exploits)
+-  https://github.com/roman-allen/FSFilterDriver
+-  https://github.com/jefrimustapa/detect-filename-block
 -  https://github.com/lxt1045/FileLogger
 -  https://github.com/vitalikpi/FileWall
 -  https://github.com/Mermeze/System-Monitor 
@@ -2848,5 +2851,9 @@
 
 -  https://github.com/myfreeer/cppreference2mshelp/
 -  https://www.ctolib.com/
+
+## software collections
+
+-  https://www.softpedia.com/
 
 # `awesome-windows-kernel-security-development`
