@@ -622,6 +622,7 @@
 
 ## inject technique (ring0)
 
+-  https://github.com/SDXT/MMInject (Kernel DLL Injector using NX Bit Swapping and VAD hide for hiding injected DLL)
 -  https://github.com/Vicshann/GInjer
 -  https://github.com/r1cky33/Basic-GUI-Loader
 -  https://github.com/alxbrn/kernel-injector
