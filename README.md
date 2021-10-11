@@ -427,6 +427,7 @@
 
 ## windows kernel driver
 
+-  https://github.com/kkent030315/anycall (x64 Windows kernel code execution via user-mode, arbitrary syscall, vulnerable IOCTLs demonstration)
 -  https://github.com/yardenshafir/DpcWait (DPC)
 -  https://github.com/can1357/NtLua (Lua in kernel)
 -  https://github.com/mrexodia/NtPhp (Php in kernel)
