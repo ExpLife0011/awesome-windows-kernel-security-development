@@ -1387,6 +1387,7 @@
 
 ## LPE
 
+-  https://github.com/ly4k/CallbackHell
 -  https://github.com/itm4n/PrintSpoofer
 -  https://github.com/yusufqk/SystemToken
 -  https://github.com/itm4n/UsoDllLoader
