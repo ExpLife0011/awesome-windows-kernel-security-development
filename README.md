@@ -463,6 +463,7 @@
 
 ## windows kernel driver with c++ runtime
 
+-  https://github.com/MiroKaku/ucxxrt (R3 / R0 C++ Runtime Lib)
 -  https://github.com/jxy-s/stlkrn (C++ STL in the Windows Kernel with C++ Exception Support)
 -  https://github.com/r1cky33/kernel_gdi_renderer
 -  https://github.com/haram/kernel_library
