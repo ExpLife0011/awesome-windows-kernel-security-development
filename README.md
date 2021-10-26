@@ -148,6 +148,8 @@
 
 ## QT
 
+-  https://github.com/ShowFL/Toou-2D
+-  https://github.com/jaredtao/TaoQuick
 -  https://github.com/feiyangqingyun/qucsdk
 -  https://github.com/feiyangqingyun/QWidgetDemo
 -  https://github.com/feiyangqingyun/qtkaifajingyan
