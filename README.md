@@ -1516,6 +1516,7 @@
 
 ## vt
 
+-  https://github.com/qq1045551070/ShotHv
 -  https://github.com/Air14/HyperHide (anti anti debug & x64dbg plugin)
 -  https://github.com/amiryeshurun/HyperWin
 -  https://github.com/sooqua/VanderLeague (hack lol)
