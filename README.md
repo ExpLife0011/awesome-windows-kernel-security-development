@@ -1486,6 +1486,7 @@
 
 ## hips
 
+-  https://github.com/daterlove/ActiveDefense
 -  https://github.com/secrary/DrSemu
 -  https://github.com/godaddy/procfilter
 -  https://github.com/BrunoMCBraga/Kernel-Whisperer
