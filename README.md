@@ -2493,6 +2493,7 @@
 
 ## blogs
 
+-  https://www.anquanke.com/subject/id/221009 (windows debug)
 -  https://www.cnblogs.com/theseventhson/default.html?page=10 (web/binary sec)
 -  https://redogwu.github.io (kernel exp)
 -  https://docs.microsoft.com/zh-cn/windows-hardware/drivers/debugger/debug-universal-drivers--kernel-mode-#kernelmodedebuggingcommandsandtechniques (windbg help)
