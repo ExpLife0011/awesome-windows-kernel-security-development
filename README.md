@@ -2493,6 +2493,7 @@
 
 ## blogs
 
+-  https://voidsec.com/category/blog/ (windows kernel fuzz & exploit)
 -  https://www.anquanke.com/subject/id/221009 (windows debug)
 -  https://www.cnblogs.com/theseventhson/default.html?page=10 (web/binary sec)
 -  https://redogwu.github.io (kernel exp)
