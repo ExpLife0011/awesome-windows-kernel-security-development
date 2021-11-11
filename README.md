@@ -206,6 +206,7 @@
 
 ## windows system programming
 
+-  https://github.com/dengqizhou30/AIAssistC
 -  https://github.com/solemnwarning/rehex (hex editor)
 -  https://github.com/progmboy/openprocmon (procmon)
 -  https://github.com/ezrealik/AI-Icarus (AI iflytek SDK)
