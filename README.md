@@ -1457,6 +1457,7 @@
 
 ## cve
 
+-  https://github.com/r0eXpeR/supplier ()
 -  https://github.com/stong/CVE-2020-15368
 -  https://github.com/yardenshafir/CVE-2020-1034
 -  https://github.com/ioncodes/CVE-2020-16938
