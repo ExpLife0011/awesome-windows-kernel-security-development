@@ -1659,6 +1659,7 @@
 
 ## game hack
 
+-  https://github.com/khang06/mhynot2.git
 -  https://github.com/sooqua/VanderLeague (LOL)
 -  https://github.com/Speedi13/ROP-COMPILER (VAC / PB)
 -  https://github.com/Aki2k/BEDaisy(battleyes kernel driver)
