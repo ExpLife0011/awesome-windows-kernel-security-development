@@ -2708,6 +2708,17 @@
 
 ## pentest
 
+-  https://github.com/2hu2huxia/how-to-hack-like-a-god
+-  https://github.com/ngadminq/Bei-Gai-penetration-test-guide
+-  https://github.com/ReAbout/web-sec
+-  https://github.com/Paper-Pen/GatherInfo
+-  https://github.com/Power7089/PenetrationTest-Tips
+-  https://github.com/theLSA/CS-checklist
+-  https://github.com/kelvinBen/AppInfoScanner
+-  https://github.com/Leezj9671/Pentest_Interview
+-  https://github.com/iSafeBlue/TrackRay
+-  https://github.com/TophantTechnology/ARL
+-  https://github.com/Mr-xn/Penetration_Testing_POC
 -  https://github.com/hudunkey/Red-Team-links
 -  https://github.com/xiaoy-sec/Pentest_Note
 -  https://github.com/taielab/Taie-Bugbounty-killer
