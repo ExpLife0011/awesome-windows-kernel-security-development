@@ -2708,6 +2708,7 @@
 
 ## pentest
 
+-  https://zhuanlan.zhihu.com/p/147374260
 -  https://github.com/2hu2huxia/how-to-hack-like-a-god
 -  https://github.com/ngadminq/Bei-Gai-penetration-test-guide
 -  https://github.com/ReAbout/web-sec
