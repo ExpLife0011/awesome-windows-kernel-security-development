@@ -558,6 +558,7 @@
 
 ## InfinityHook
 
+-  https://github.com/FiYHer/InfinityHookPro
 -  https://github.com/huoji120/MakeInfinityHookGreatAgain
 -  https://github.com/p4xon/SyscallHook
 -  https://yanjuan.xyz/2019/08/syscallhook/
