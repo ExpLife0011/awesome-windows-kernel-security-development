@@ -1021,6 +1021,7 @@
 
 ## rootkits
 
+-  https://github.com/KANKOSHEV/NoScreen (hide window from kernel)
 -  https://github.com/FiYHer/EASY-HWID-SPOOFER
 -  https://github.com/jguo52/NtCompareSigningLevel-hook (NtCompareSigningLevels)
 -  https://github.com/bytecode77/living-off-the-land (fileless)
