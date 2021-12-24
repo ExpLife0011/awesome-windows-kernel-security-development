@@ -2748,6 +2748,10 @@
 -  https://github.com/qianguyihao/Web
 -  https://github.com/Daotin/front-end-self-study-notes
 
+## typescript
+
+--  https://www.dengwb.com/typescript/
+
 ## js obfuscator/deobfuscator
 
 -  https://beautifier.io/
