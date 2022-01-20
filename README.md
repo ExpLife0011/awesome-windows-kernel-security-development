@@ -857,6 +857,7 @@
 
 ## minifilter
 
+-  https://github.com/hkx3upper/FOKS-TROT
 -  https://github.com/shubham0d/SymBlock  (prevent symbolic link exploits)
 -  https://github.com/TimelifeCzy/HIPS-HIDS_CveMod (CVE HIPS)
 -  https://github.com/roman-allen/FSFilterDriver
