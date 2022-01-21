@@ -790,6 +790,7 @@
 ## dll to shellcode
 
 -  https://github.com/w1nds/dll2shellcode
+-  https://github.com/monoxgas/sRDI
 
 ## dll to exe
 
