@@ -1,6 +1,8 @@
 # awesome-windows-kernel-security-development
 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue)
+![logo](https://w.wallhaven.cc/full/57/wallhaven-576e31.jpg)
+
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 ![GitHub followers](https://shields.io/github/followers/ExpLife0011?label=Followers)
 ![GitHub forks](https://shields.io/github/forks/ExpLife0011/awesome-windows-kernel-security-development?style=social)
 ![GitHub stars](https://shields.io/github/stars/ExpLife0011/awesome-windows-kernel-security-development?style=social)
