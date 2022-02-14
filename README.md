@@ -1,8 +1,12 @@
 # awesome-windows-kernel-security-development
 
-![logo](https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2928049956,3976845960&fm=27&gp=0.jpg)
+![logo](https://w.wallhaven.cc/full/57/wallhaven-576e31.jpg)
 
-![Gitee license](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub followers](https://shields.io/github/followers/ExpLife0011?label=Followers)
+![GitHub forks](https://shields.io/github/forks/ExpLife0011/awesome-windows-kernel-security-development?style=social)
+![GitHub stars](https://shields.io/github/stars/ExpLife0011/awesome-windows-kernel-security-development?style=social)
+![GitHub watchers](https://shields.io/github/watchers/ExpLife0011/awesome-windows-kernel-security-development?style=social)
 
 [toc]
 
@@ -12,8 +16,8 @@
 
 ## pe file format
 
-- github.com/corkami/pics-
-  
+- github.com/corkami/pics ![]
+
 ## asm ide
 
 - github.com/ThomasJaeger/VisualMASM
