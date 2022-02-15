@@ -148,10 +148,10 @@
   - [live kernel debug](#live-kernel-debug)
   - [windbg plugin](#windbg-plugin)
   - [virtualkd](#virtualkd)
-  - [ida script & plugin](#ida-script--plugin)
+  - [ida  plugin](#ida--plugin)
   - [ida sig maker](#ida-sig-maker)
   - [idapython](#idapython)
-  - [pykd & FAQ](#pykd--faq)
+  - [pykd](#pykd)
   - [rpc](#rpc)
   - [hash dump](#hash-dump)
   - [auxiliary lib](#auxiliary-lib)
@@ -172,7 +172,7 @@
   - [serialization](#serialization)
   - [awesome](#awesome)
   - [windows Driver Kit ddi (device driver interface) documentation](#windows-driver-kit-ddi-device-driver-interface-documentation)
-  - [windbg preview & jsprovider](#windbg-preview--jsprovider)
+  - [windbg preview](#windbg-preview)
   - [anti-anti-vm](#anti-anti-vm)
   - [vm](#vm)
   - [pe tool](#pe-tool)
@@ -208,23 +208,9 @@
   - [ctf](#ctf)
   - [pentest](#pentest)
   - [wpad/pac](#wpadpac)
-  - [javascript](#javascript)
-  - [typescript](#typescript)
   - [js obfuscator/deobfuscator](#js-obfuscatordeobfuscator)
   - [js reverse engine](#js-reverse-engine)
   - [decompiler](#decompiler)
-  - [encryption/decryption tools](#encryptiondecryption-tools)
-  - [english](#english)
-  - [downloader](#downloader)
-  - [python](#python)
-  - [golang](#golang)
-  - [puppeteer](#puppeteer)
-  - [java](#java)
-  - [android](#android)
-  - [android reverse engine](#android-reverse-engine)
-  - [xposed](#xposed)
-  - [Frida](#frida)
-  - [library](#library)
   - [software collections](#software-collections)
 
 ## powershell
@@ -2121,7 +2107,7 @@
 
 - github.com/4d61726b/VirtualKD-Redux ![Github stars](https://shields.io/github/stars/4d61726b/VirtualKD-Redux?style=social) ![Github forks](https://shields.io/github/forks/4d61726b/VirtualKD-Redux?style=social) ![Github watchers](https://shields.io/github/watchers/4d61726b/VirtualKD-Redux?style=social)
 
-## ida script & plugin
+## ida plugin
 
 - github.com/fireeye/FIDL ![Github stars](https://shields.io/github/stars/fireeye/FIDL?style=social) ![Github forks](https://shields.io/github/forks/fireeye/FIDL?style=social) ![Github watchers](https://shields.io/github/watchers/fireeye/FIDL?style=social)
 - github.com/mefistotelis/ida-pro-loadmap ![Github stars](https://shields.io/github/stars/mefistotelis/ida-pro-loadmap?style=social) ![Github forks](https://shields.io/github/forks/mefistotelis/ida-pro-loadmap?style=social) ![Github watchers](https://shields.io/github/watchers/mefistotelis/ida-pro-loadmap?style=social)
@@ -2276,7 +2262,7 @@
 - codegist.net/code/idapython-script/
 - reverseengineering.stackexchange.com/questions/16055/idapython-get-xrefs-to-a-stack-variable
 
-## pykd & FAQ
+## pykd
 
 - github.com/sogeti-esec-lab/LKD ![Github stars](https://shields.io/github/stars/sogeti-esec-lab/LKD?style=social) ![Github forks](https://shields.io/github/forks/sogeti-esec-lab/LKD?style=social) ![Github watchers](https://shields.io/github/watchers/sogeti-esec-lab/LKD?style=social)
 - www.anquanke.com/post/id/86909
@@ -2496,7 +2482,7 @@
 - docs.microsoft.com/zh-cn/windows-hardware/drivers/debugger/time-travel-debugging-overview
 - docs.microsoft.com/zh-cn/previous-versions/visualstudio/visual-studio-2010/aa983363(v=vs.100) (vmx)
 
-## windbg preview & jsprovider
+## windbg preview
 
 - github.com/benoitsevens/applying-ttd-to-malware-analysis ![Github stars](https://shields.io/github/stars/benoitsevens/applying-ttd-to-malware-analysis?style=social) ![Github forks](https://shields.io/github/forks/benoitsevens/applying-ttd-to-malware-analysis?style=social) ![Github watchers](https://shields.io/github/watchers/benoitsevens/applying-ttd-to-malware-analysis?style=social)
 - github.com/Microsoft/WinDbg-Samples ![Github stars](https://shields.io/github/stars/Microsoft/WinDbg-Samples?style=social) ![Github forks](https://shields.io/github/forks/Microsoft/WinDbg-Samples?style=social) ![Github watchers](https://shields.io/github/watchers/Microsoft/WinDbg-Samples?style=social)
@@ -2959,15 +2945,6 @@
 - blog.huzhifeng.com/2017/07/16/PAC/
 - github.com/manugarg/pacparser ![Github stars](https://shields.io/github/stars/manugarg/pacparser?style=social) ![Github forks](https://shields.io/github/forks/manugarg/pacparser?style=social) ![Github watchers](https://shields.io/github/watchers/manugarg/pacparser?style=social)
 
-## javascript
-
-- github.com/qianguyihao/Web ![Github stars](https://shields.io/github/stars/qianguyihao/Web?style=social) ![Github forks](https://shields.io/github/forks/qianguyihao/Web?style=social) ![Github watchers](https://shields.io/github/watchers/qianguyihao/Web?style=social)
-- github.com/Daotin/front-end-self-study-notes ![Github stars](https://shields.io/github/stars/Daotin/front-end-self-study-notes?style=social) ![Github forks](https://shields.io/github/forks/Daotin/front-end-self-study-notes?style=social) ![Github watchers](https://shields.io/github/watchers/Daotin/front-end-self-study-notes?style=social)
-
-## typescript
-
--- www.dengwb.com/typescript/
-
 ## js obfuscator/deobfuscator
 
 - beautifier.io/
@@ -2991,116 +2968,6 @@
 - github.com/herumi/xbyak ![Github stars](https://shields.io/github/stars/herumi/xbyak?style=social) ![Github forks](https://shields.io/github/forks/herumi/xbyak?style=social) ![Github watchers](https://shields.io/github/watchers/herumi/xbyak?style=social)
 - github.com/wargio/r2dec-js (asm to c) ![Github stars](https://shields.io/github/stars/wargio/r2dec-js?style=social) ![Github forks](https://shields.io/github/forks/wargio/r2dec-js?style=social) ![Github watchers](https://shields.io/github/watchers/wargio/r2dec-js?style=social)
 
-## encryption/decryption tools
-
-- www.devglan.com
-
-## english
-
-- github.com/yujiangshui/An-English-Guide-for-Programmers ![Github stars](https://shields.io/github/stars/yujiangshui/An-English-Guide-for-Programmers?style=social) ![Github forks](https://shields.io/github/forks/yujiangshui/An-English-Guide-for-Programmers?style=social) ![Github watchers](https://shields.io/github/watchers/yujiangshui/An-English-Guide-for-Programmers?style=social)
-
-## downloader
-
-- github.com/alanzhangzm/Photon ![Github stars](https://shields.io/github/stars/alanzhangzm/Photon?style=social) ![Github forks](https://shields.io/github/forks/alanzhangzm/Photon?style=social) ![Github watchers](https://shields.io/github/watchers/alanzhangzm/Photon?style=social)
-
-## python
-
-- github.com/wistbean/learn_python3_spider ![Github stars](https://shields.io/github/stars/wistbean/learn_python3_spider?style=social) ![Github forks](https://shields.io/github/forks/wistbean/learn_python3_spider?style=social) ![Github watchers](https://shields.io/github/watchers/wistbean/learn_python3_spider?style=social)
-- github.com/Kr1s77/awesome-python-login-model ![Github stars](https://shields.io/github/stars/Kr1s77/awesome-python-login-model?style=social) ![Github forks](https://shields.io/github/forks/Kr1s77/awesome-python-login-model?style=social) ![Github watchers](https://shields.io/github/watchers/Kr1s77/awesome-python-login-model?style=social)
-- github.com/Kr1s77/Python-crawler-tutorial-starts-from-zero ![Github stars](https://shields.io/github/stars/Kr1s77/Python-crawler-tutorial-starts-from-zero?style=social) ![Github forks](https://shields.io/github/forks/Kr1s77/Python-crawler-tutorial-starts-from-zero?style=social) ![Github watchers](https://shields.io/github/watchers/Kr1s77/Python-crawler-tutorial-starts-from-zero?style=social)
-- github.com/jackfrued/Python-100-Days ![Github stars](https://shields.io/github/stars/jackfrued/Python-100-Days?style=social) ![Github forks](https://shields.io/github/forks/jackfrued/Python-100-Days?style=social) ![Github watchers](https://shields.io/github/watchers/jackfrued/Python-100-Days?style=social)
-
-## golang
-
-- github.com/yifengyou/Golang-100-Days ![Github stars](https://shields.io/github/stars/yifengyou/Golang-100-Days?style=social) ![Github forks](https://shields.io/github/forks/yifengyou/Golang-100-Days?style=social) ![Github watchers](https://shields.io/github/watchers/yifengyou/Golang-100-Days?style=social)
-
-## puppeteer
-
-- github.com/GoogleChrome/puppeteer/blob/v1.20.0/docs/api.md ![Github stars](https://shields.io/github/stars/GoogleChrome/puppeteer?style=social) ![Github forks](https://shields.io/github/forks/GoogleChrome/puppeteer?style=social) ![Github watchers](https://shields.io/github/watchers/GoogleChrome/puppeteer?style=social)
-- zhaoqize.github.io/puppeteer-api-zh_CN
-- github.com/csbun/thal ![Github stars](https://shields.io/github/stars/csbun/thal?style=social) ![Github forks](https://shields.io/github/forks/csbun/thal?style=social) ![Github watchers](https://shields.io/github/watchers/csbun/thal?style=social)
-- www.yuque.com/imhelloworld/share-day/no8xoc
-- blog.csdn.net/qupan1993/article/details/85371556
-- www.php.cn/js-tutorial-399252.html
-
-## java
-
-- www.52im.net/thread-28-1-1.html (beautyeye GUI)
-- github.com/JackJiang2011/beautyeye (beautyeye GUI) ![Github stars](https://shields.io/github/stars/JackJiang2011/beautyeye?style=social) ![Github forks](https://shields.io/github/forks/JackJiang2011/beautyeye?style=social) ![Github watchers](https://shields.io/github/watchers/JackJiang2011/beautyeye?style=social)
-- blog.csdn.net/pinlantu/article/details/83957672
-
-## android
-
-- qmuiteam.com/android
-- github.com/FadedYu/Framework_Android ![Github stars](https://shields.io/github/stars/FadedYu/Framework_Android?style=social) ![Github forks](https://shields.io/github/forks/FadedYu/Framework_Android?style=social) ![Github watchers](https://shields.io/github/watchers/FadedYu/Framework_Android?style=social)
-- blog.csdn.net/aqi00/article/details/50012511
-- github.com/xuexiangjys/XUI (UI) ![Github stars](https://shields.io/github/stars/xuexiangjys/XUI?style=social) ![Github forks](https://shields.io/github/forks/xuexiangjys/XUI?style=social) ![Github watchers](https://shields.io/github/watchers/xuexiangjys/XUI?style=social)
-- github.com/joinAero/AndroidWebServ ![Github stars](https://shields.io/github/stars/joinAero/AndroidWebServ?style=social) ![Github forks](https://shields.io/github/forks/joinAero/AndroidWebServ?style=social) ![Github watchers](https://shields.io/github/watchers/joinAero/AndroidWebServ?style=social)
-- github.com/lopspower/AndroidWebServer ![Github stars](https://shields.io/github/stars/lopspower/AndroidWebServer?style=social) ![Github forks](https://shields.io/github/forks/lopspower/AndroidWebServer?style=social) ![Github watchers](https://shields.io/github/watchers/lopspower/AndroidWebServer?style=social)
-- clean-apps.github.io/CleanSCAN/
-- github.com/devinhu/androidone ![Github stars](https://shields.io/github/stars/devinhu/androidone?style=social) ![Github forks](https://shields.io/github/forks/devinhu/androidone?style=social) ![Github watchers](https://shields.io/github/watchers/devinhu/androidone?style=social)
-- github.com/shishuo365/PinyinIME ![Github stars](https://shields.io/github/stars/shishuo365/PinyinIME?style=social) ![Github forks](https://shields.io/github/forks/shishuo365/PinyinIME?style=social) ![Github watchers](https://shields.io/github/watchers/shishuo365/PinyinIME?style=social)
-- github.com/angcyo/RJcenter (Common lib) ![Github stars](https://shields.io/github/stars/angcyo/RJcenter?style=social) ![Github forks](https://shields.io/github/forks/angcyo/RJcenter?style=social) ![Github watchers](https://shields.io/github/watchers/angcyo/RJcenter?style=social)
-- github.com/ChenLittlePing/LearningVideo (FFmpeg) ![Github stars](https://shields.io/github/stars/ChenLittlePing/LearningVideo?style=social) ![Github forks](https://shields.io/github/forks/ChenLittlePing/LearningVideo?style=social) ![Github watchers](https://shields.io/github/watchers/ChenLittlePing/LearningVideo?style=social)
-- github.com/AriesHoo/FastLib ![Github stars](https://shields.io/github/stars/AriesHoo/FastLib?style=social) ![Github forks](https://shields.io/github/forks/AriesHoo/FastLib?style=social) ![Github watchers](https://shields.io/github/watchers/AriesHoo/FastLib?style=social)
-- github.com/devinhu/androidone ![Github stars](https://shields.io/github/stars/devinhu/androidone?style=social) ![Github forks](https://shields.io/github/forks/devinhu/androidone?style=social) ![Github watchers](https://shields.io/github/watchers/devinhu/androidone?style=social)
-- github.com/afkT/DevUtils ![Github stars](https://shields.io/github/stars/afkT/DevUtils?style=social) ![Github forks](https://shields.io/github/forks/afkT/DevUtils?style=social) ![Github watchers](https://shields.io/github/watchers/afkT/DevUtils?style=social)
-- github.com/smuyyh/CommonLibary ![Github stars](https://shields.io/github/stars/smuyyh/CommonLibary?style=social) ![Github forks](https://shields.io/github/forks/smuyyh/CommonLibary?style=social) ![Github watchers](https://shields.io/github/watchers/smuyyh/CommonLibary?style=social)
-- github.com/frodoking/App-Architecture ![Github stars](https://shields.io/github/stars/frodoking/App-Architecture?style=social) ![Github forks](https://shields.io/github/forks/frodoking/App-Architecture?style=social) ![Github watchers](https://shields.io/github/watchers/frodoking/App-Architecture?style=social)
-- github.com/ddnosh/AndroidQuick ![Github stars](https://shields.io/github/stars/ddnosh/AndroidQuick?style=social) ![Github forks](https://shields.io/github/forks/ddnosh/AndroidQuick?style=social) ![Github watchers](https://shields.io/github/watchers/ddnosh/AndroidQuick?style=social)
-- github.com/fly803/BaseProject ![Github stars](https://shields.io/github/stars/fly803/BaseProject?style=social) ![Github forks](https://shields.io/github/forks/fly803/BaseProject?style=social) ![Github watchers](https://shields.io/github/watchers/fly803/BaseProject?style=social)
-- blog.csdn.net/fukaimei/category_7160796.html
-- github.com/chenyufeng1991/BaiduMap-TrafficAssistant ![Github stars](https://shields.io/github/stars/chenyufeng1991/BaiduMap-TrafficAssistant?style=social) ![Github forks](https://shields.io/github/forks/chenyufeng1991/BaiduMap-TrafficAssistant?style=social) ![Github watchers](https://shields.io/github/watchers/chenyufeng1991/BaiduMap-TrafficAssistant?style=social)
-- github.com/naivor/naivorapp ![Github stars](https://shields.io/github/stars/naivor/naivorapp?style=social) ![Github forks](https://shields.io/github/forks/naivor/naivorapp?style=social) ![Github watchers](https://shields.io/github/watchers/naivor/naivorapp?style=social)
-- github.com/u014427391/elemeimitate (ele) ![Github stars](https://shields.io/github/stars/u014427391/elemeimitate?style=social) ![Github forks](https://shields.io/github/forks/u014427391/elemeimitate?style=social) ![Github watchers](https://shields.io/github/watchers/u014427391/elemeimitate?style=social)
-- github.com/leavesC/AndroidAllGuide ![Github stars](https://shields.io/github/stars/leavesC/AndroidAllGuide?style=social) ![Github forks](https://shields.io/github/forks/leavesC/AndroidAllGuide?style=social) ![Github watchers](https://shields.io/github/watchers/leavesC/AndroidAllGuide?style=social)
-- github.com/lzan13/VMChat ![Github stars](https://shields.io/github/stars/lzan13/VMChat?style=social) ![Github forks](https://shields.io/github/forks/lzan13/VMChat?style=social) ![Github watchers](https://shields.io/github/watchers/lzan13/VMChat?style=social)
-- github.com/open-android/hellocharts-android ![Github stars](https://shields.io/github/stars/open-android/hellocharts-android?style=social) ![Github forks](https://shields.io/github/forks/open-android/hellocharts-android?style=social) ![Github watchers](https://shields.io/github/watchers/open-android/hellocharts-android?style=social)
-- github.com/sps135/wechatbysimple ![Github stars](https://shields.io/github/stars/sps135/wechatbysimple?style=social) ![Github forks](https://shields.io/github/forks/sps135/wechatbysimple?style=social) ![Github watchers](https://shields.io/github/watchers/sps135/wechatbysimple?style=social)
-- github.com/smart005/okandroid ![Github stars](https://shields.io/github/stars/smart005/okandroid?style=social) ![Github forks](https://shields.io/github/forks/smart005/okandroid?style=social) ![Github watchers](https://shields.io/github/watchers/smart005/okandroid?style=social)
-- github.com/decadezuo/DZAgile ![Github stars](https://shields.io/github/stars/decadezuo/DZAgile?style=social) ![Github forks](https://shields.io/github/forks/decadezuo/DZAgile?style=social) ![Github watchers](https://shields.io/github/watchers/decadezuo/DZAgile?style=social)
-- github.com/jiankian/AnnZone ![Github stars](https://shields.io/github/stars/jiankian/AnnZone?style=social) ![Github forks](https://shields.io/github/forks/jiankian/AnnZone?style=social) ![Github watchers](https://shields.io/github/watchers/jiankian/AnnZone?style=social)
-- github.com/xiaojigou/XJGARSDKDemoApp-Android ![Github stars](https://shields.io/github/stars/xiaojigou/XJGARSDKDemoApp-Android?style=social) ![Github forks](https://shields.io/github/forks/xiaojigou/XJGARSDKDemoApp-Android?style=social) ![Github watchers](https://shields.io/github/watchers/xiaojigou/XJGARSDKDemoApp-Android?style=social)
-- github.com/mCyp/Orient-Ui ![Github stars](https://shields.io/github/stars/mCyp/Orient-Ui?style=social) ![Github forks](https://shields.io/github/forks/mCyp/Orient-Ui?style=social) ![Github watchers](https://shields.io/github/watchers/mCyp/Orient-Ui?style=social)
-- github.com/xuexiangjys/XUpdate (Update) ![Github stars](https://shields.io/github/stars/xuexiangjys/XUpdate?style=social) ![Github forks](https://shields.io/github/forks/xuexiangjys/XUpdate?style=social) ![Github watchers](https://shields.io/github/watchers/xuexiangjys/XUpdate?style=social)
-- github.com/onestravel/playSound (fmod) ![Github stars](https://shields.io/github/stars/onestravel/playSound?style=social) ![Github forks](https://shields.io/github/forks/onestravel/playSound?style=social) ![Github watchers](https://shields.io/github/watchers/onestravel/playSound?style=social)
-- github.com/onestravel/QQVoiceChange (fmod) ![Github stars](https://shields.io/github/stars/onestravel/QQVoiceChange?style=social) ![Github forks](https://shields.io/github/forks/onestravel/QQVoiceChange?style=social) ![Github watchers](https://shields.io/github/watchers/onestravel/QQVoiceChange?style=social)
-- github.com/virjar/zelda ![Github stars](https://shields.io/github/stars/virjar/zelda?style=social) ![Github forks](https://shields.io/github/forks/virjar/zelda?style=social) ![Github watchers](https://shields.io/github/watchers/virjar/zelda?style=social)
-
-## android reverse engine
-
-- github.com/Efaker/FakerAndroid ![Github stars](https://shields.io/github/stars/Efaker/FakerAndroid?style=social) ![Github forks](https://shields.io/github/forks/Efaker/FakerAndroid?style=social) ![Github watchers](https://shields.io/github/watchers/Efaker/FakerAndroid?style=social)
-- github.com/zhangke3016/VirtualUETool ![Github stars](https://shields.io/github/stars/zhangke3016/VirtualUETool?style=social) ![Github forks](https://shields.io/github/forks/zhangke3016/VirtualUETool?style=social) ![Github watchers](https://shields.io/github/watchers/zhangke3016/VirtualUETool?style=social)
-- github.com/r0ysue/AndroidSecurityStudy ![Github stars](https://shields.io/github/stars/r0ysue/AndroidSecurityStudy?style=social) ![Github forks](https://shields.io/github/forks/r0ysue/AndroidSecurityStudy?style=social) ![Github watchers](https://shields.io/github/watchers/r0ysue/AndroidSecurityStudy?style=social)
-- github.com/JesusFreke/smali ![Github stars](https://shields.io/github/stars/JesusFreke/smali?style=social) ![Github forks](https://shields.io/github/forks/JesusFreke/smali?style=social) ![Github watchers](https://shields.io/github/watchers/JesusFreke/smali?style=social)
-- bitbucket.org/JesusFreke/smali
-- github.com/pxb1988/dex2jar ![Github stars](https://shields.io/github/stars/pxb1988/dex2jar?style=social) ![Github forks](https://shields.io/github/forks/pxb1988/dex2jar?style=social) ![Github watchers](https://shields.io/github/watchers/pxb1988/dex2jar?style=social)
-- github.com/java-decompiler/jd-gui ![Github stars](https://shields.io/github/stars/java-decompiler/jd-gui?style=social) ![Github forks](https://shields.io/github/forks/java-decompiler/jd-gui?style=social) ![Github watchers](https://shields.io/github/watchers/java-decompiler/jd-gui?style=social)
-- github.com/skylot/jadx ![Github stars](https://shields.io/github/stars/skylot/jadx?style=social) ![Github forks](https://shields.io/github/forks/skylot/jadx?style=social) ![Github watchers](https://shields.io/github/watchers/skylot/jadx?style=social)
-- github.com/Konloch/bytecode-viewer ![Github stars](https://shields.io/github/stars/Konloch/bytecode-viewer?style=social) ![Github forks](https://shields.io/github/forks/Konloch/bytecode-viewer?style=social) ![Github watchers](https://shields.io/github/watchers/Konloch/bytecode-viewer?style=social)
-- github.com/MobSF/Mobile-Security-Framework-MobSF ![Github stars](https://shields.io/github/stars/MobSF/Mobile-Security-Framework-MobSF?style=social) ![Github forks](https://shields.io/github/forks/MobSF/Mobile-Security-Framework-MobSF?style=social) ![Github watchers](https://shields.io/github/watchers/MobSF/Mobile-Security-Framework-MobSF?style=social)
-- github.com/FeJQ/AUPK ![Github stars](https://shields.io/github/stars/FeJQ/AUPK?style=social) ![Github forks](https://shields.io/github/forks/FeJQ/AUPK?style=social) ![Github watchers](https://shields.io/github/watchers/FeJQ/AUPK?style=social)
-- github.com/ItReadHub/20210124-192651-347 (unpack) ![Github stars](https://shields.io/github/stars/ItReadHub/20210124-192651-347?style=social) ![Github forks](https://shields.io/github/forks/ItReadHub/20210124-192651-347?style=social) ![Github watchers](https://shields.io/github/watchers/ItReadHub/20210124-192651-347?style=social)
-- github.com/AlienwareHe/RDex (unpack) ![Github stars](https://shields.io/github/stars/AlienwareHe/RDex?style=social) ![Github forks](https://shields.io/github/forks/AlienwareHe/RDex?style=social) ![Github watchers](https://shields.io/github/watchers/AlienwareHe/RDex?style=social)
-- github.com/OakChen/ApkShelling (unpack) ![Github stars](https://shields.io/github/stars/OakChen/ApkShelling?style=social) ![Github forks](https://shields.io/github/forks/OakChen/ApkShelling?style=social) ![Github watchers](https://shields.io/github/watchers/OakChen/ApkShelling?style=social)
-- github.com/WrBug/DeveloperHelper (unpack) ![Github stars](https://shields.io/github/stars/WrBug/DeveloperHelper?style=social) ![Github forks](https://shields.io/github/forks/WrBug/DeveloperHelper?style=social) ![Github watchers](https://shields.io/github/watchers/WrBug/DeveloperHelper?style=social)
-- github.com/CodingGay/BlackDex (unpack) ![Github stars](https://shields.io/github/stars/CodingGay/BlackDex?style=social) ![Github forks](https://shields.io/github/forks/CodingGay/BlackDex?style=social) ![Github watchers](https://shields.io/github/watchers/CodingGay/BlackDex?style=social)
-
-## xposed
-
-- github.com/fatal0/XVoiceChanger ![Github stars](https://shields.io/github/stars/fatal0/XVoiceChanger?style=social) ![Github forks](https://shields.io/github/forks/fatal0/XVoiceChanger?style=social) ![Github watchers](https://shields.io/github/watchers/fatal0/XVoiceChanger?style=social)
-- github.com/dirname/AppDebuggable ![Github stars](https://shields.io/github/stars/dirname/AppDebuggable?style=social) ![Github forks](https://shields.io/github/forks/dirname/AppDebuggable?style=social) ![Github watchers](https://shields.io/github/watchers/dirname/AppDebuggable?style=social)
-
-## Frida
-
-- github.com/langgithub/RxAppEncryptionProtocol ![Github stars](https://shields.io/github/stars/langgithub/RxAppEncryptionProtocol?style=social) ![Github forks](https://shields.io/github/forks/langgithub/RxAppEncryptionProtocol?style=social) ![Github watchers](https://shields.io/github/watchers/langgithub/RxAppEncryptionProtocol?style=social)
-- github.com/dstmath/frida-unpack ![Github stars](https://shields.io/github/stars/dstmath/frida-unpack?style=social) ![Github forks](https://shields.io/github/forks/dstmath/frida-unpack?style=social) ![Github watchers](https://shields.io/github/watchers/dstmath/frida-unpack?style=social)
-- github.com/CreditTone/hooker ![Github stars](https://shields.io/github/stars/CreditTone/hooker?style=social) ![Github forks](https://shields.io/github/forks/CreditTone/hooker?style=social) ![Github watchers](https://shields.io/github/watchers/CreditTone/hooker?style=social)
-
-## library
-
-- github.com/myfreeer/cppreference2mshelp/ ![Github stars](https://shields.io/github/stars/myfreeer/cppreference2mshelp?style=social) ![Github forks](https://shields.io/github/forks/myfreeer/cppreference2mshelp?style=social) ![Github watchers](https://shields.io/github/watchers/myfreeer/cppreference2mshelp?style=social)
-- www.ctolib.com/
 
 ## software collections
 
