@@ -125,7 +125,7 @@
   - [vt](#vt)
   - [firmware](#firmware)
   - [fuzzer](#fuzzer)
-  - [fuzz & vulnerability discovery learn](#fuzz--vulnerability-discovery-learn)
+  - [fuzz](#fuzz)
   - [emet](#emet)
   - [hotpatch](#hotpatch)
   - [memory hack](#memory-hack)
@@ -148,7 +148,7 @@
   - [live kernel debug](#live-kernel-debug)
   - [windbg plugin](#windbg-plugin)
   - [virtualkd](#virtualkd)
-  - [ida  plugin](#ida--plugin)
+  - [ida plugin](#ida-plugin)
   - [ida sig maker](#ida-sig-maker)
   - [idapython](#idapython)
   - [pykd](#pykd)
@@ -1845,8 +1845,9 @@
 - github.com/marche147/IoctlMon ![Github stars](https://shields.io/github/stars/marche147/IoctlMon?style=social) ![Github forks](https://shields.io/github/forks/marche147/IoctlMon?style=social) ![Github watchers](https://shields.io/github/watchers/marche147/IoctlMon?style=social)
 - github.com/k0keoyo/Some-Kernel-Fuzzing-Paper ![Github stars](https://shields.io/github/stars/k0keoyo/Some-Kernel-Fuzzing-Paper?style=social) ![Github forks](https://shields.io/github/forks/k0keoyo/Some-Kernel-Fuzzing-Paper?style=social) ![Github watchers](https://shields.io/github/watchers/k0keoyo/Some-Kernel-Fuzzing-Paper?style=social)
 
-## fuzz & vulnerability discovery learn
+## fuzz
 
+- github.com/antonio-morales/Fuzzing101 ![Github stars](https://shields.io/github/stars/antonio-morales/Fuzzing101?style=social) ![Github forks](https://shields.io/github/forks/antonio-morales/Fuzzing101?style=social) ![Github watchers](https://shields.io/github/watchers/antonio-morales/Fuzzing101?style=social)
 - github.com/Kiprey/Skr_Learning ![Github stars](https://shields.io/github/stars/Kiprey/Skr_Learning?style=social) ![Github forks](https://shields.io/github/forks/Kiprey/Skr_Learning?style=social) ![Github watchers](https://shields.io/github/watchers/Kiprey/Skr_Learning?style=social)
 - kiprey.github.io/categories/
 
