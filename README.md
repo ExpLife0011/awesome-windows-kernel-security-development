@@ -675,6 +675,7 @@
 
 ## windows kernel driver with c++ runtime
 
+- github.com/ntoskrnl7/crtsys (vcruntime + MS STL + UCRT in the Windows Kernel) ![Github stars](https://shields.io/github/stars/ntoskrnl7/crtsys?style=social) ![Github forks](https://shields.io/github/forks/ntoskrnl7/crtsys?style=social) ![Github watchers](https://shields.io/github/watchers/ntoskrnl7/crtsys?style=social)
 - github.com/MiroKaku/ucxxrt (R3 / R0 C++ Runtime Lib) ![Github stars](https://shields.io/github/stars/MiroKaku/ucxxrt?style=social) ![Github forks](https://shields.io/github/forks/MiroKaku/ucxxrt?style=social) ![Github watchers](https://shields.io/github/watchers/MiroKaku/ucxxrt?style=social)
 - github.com/jxy-s/stlkrn (C++ STL in the Windows Kernel with C++ Exception Support) ![Github stars](https://shields.io/github/stars/jxy-s/stlkrn?style=social) ![Github forks](https://shields.io/github/forks/jxy-s/stlkrn?style=social) ![Github watchers](https://shields.io/github/watchers/jxy-s/stlkrn?style=social)
 - github.com/r1cky33/kernel_gdi_renderer ![Github stars](https://shields.io/github/stars/r1cky33/kernel_gdi_renderer?style=social) ![Github forks](https://shields.io/github/forks/r1cky33/kernel_gdi_renderer?style=social) ![Github watchers](https://shields.io/github/watchers/r1cky33/kernel_gdi_renderer?style=social)
